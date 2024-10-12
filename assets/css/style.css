@@ -3,26 +3,26 @@
 
 @font-face {
     font-family: 'picnic';
-    src: url('../../fonts/PicNic/PicNic-Regular.woff2') format('woff2'),
-        url('../../fonts/PicNic/PicNic-Regular.woff') format('woff');
+    src: url('../../assets/fonts/PicNic/PicNic-Regular.woff2') format('woff2'),
+        url('../../assets/fonts/PicNic/PicNic-Regular.woff') format('woff');
 }
 
 @font-face {
     font-family: 'grotesk';
-    src: url('../../fonts/grotesk/Grotesk-03Regular.woff2') format('woff2'),
-        url('../../fonts/grotesk/Grotesk-03Regular.woff') format('woff');
+    src: url('../../assets/fonts/grotesk/Grotesk-03Regular.woff2') format('woff2'),
+        url('../../assets/fonts/grotesk/Grotesk-03Regular.woff') format('woff');
 }
 
 @font-face {
     font-family: 'grotesk-gros';
-    src: url('../../fonts/grotesk/Grotesk-04Gras.woff2') format('woff2'),
-        url('../../fonts/grotesk/Grotesk-04Gras.woff') format('woff');
+    src: url('../../assets/fonts/grotesk/Grotesk-04Gras.woff2') format('woff2'),
+        url('../../assets/fonts/grotesk/Grotesk-04Gras.woff') format('woff');
 }
 
 @font-face {
     font-family: 'grotesk-mince';
-    src: url('../../fonts/grotesk/Grotesk-02Mince.woff2') format('woff2'),
-        url('../../fonts/grotesk/Grotesk-02Mince.woff') format('woff');
+    src: url('../../assets/fonts/grotesk/Grotesk-02Mince.woff2') format('woff2'),
+        url('../../assets/fonts/grotesk/Grotesk-02Mince.woff') format('woff');
 }
 
 @font-face {
