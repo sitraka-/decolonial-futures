@@ -20,6 +20,19 @@
 }
 
 @font-face {
+    font-family: 'grotesk-mince';
+    src: url('../../fonts/grotesk/Grotesk-02Mince.woff2') format('woff2'),
+        url('../../fonts/grotesk/Grotesk-02Mince.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'grotesk-fin';
+    src: url('../../fonts/grotesk/Grotesk-01Extrafin.woff2') format('woff2'),
+        url('../../fonts/grotesk/Grotesk-01Extrafin.woff') format('woff');
+}
+
+
+@font-face {
     font-family: "HND";
     src: url("../../assets/fonts/HND/HelveticaNowDisplay-XBlk.eot") format("embedded-opentype"),
         url("../../assets/fonts/HND/HelveticaNowDisplay-XBlk.woff") format("woff");
