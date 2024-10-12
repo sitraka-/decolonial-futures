@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'grotesk-fin';
-    src: url('../../fonts/grotesk/Grotesk-01Extrafin.woff2') format('woff2'),
-        url('../../fonts/grotesk/Grotesk-01Extrafin.woff') format('woff');
+    src: url('../../assets/fonts/grotesk/Grotesk-01Extrafin.woff2') format('woff2'),
+        url('../../assets/fonts/grotesk/Grotesk-01Extrafin.woff') format('woff');
 }
 
 
