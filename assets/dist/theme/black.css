@@ -22,7 +22,7 @@ section.has-light-background h6 {
  *********************************************/
 :root {
   --secondary-color: #d7daddd4;
-  --r-background-color: blueviolet;
+  --r-background-color: #171717;
   --r-main-font: 'IBM Plex Sans', sans-serif;
   --quote-font:
     'Vesper Libre', serif;
