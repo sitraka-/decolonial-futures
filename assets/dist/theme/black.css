@@ -109,7 +109,7 @@ header {
   top: 0;
   right: 0;
   z-index: 500;
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: var(--r-link-color);
   font-family: var(--r-heading-font);
   /* font-weight: var(--r-heading-font-weight); */
