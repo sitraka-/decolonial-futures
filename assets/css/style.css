@@ -9,8 +9,14 @@
 
 @font-face {
     font-family: 'grotesk';
-    src: url('../../fonts/grotesk/Grotesk-03Regulart.woff2') format('woff2'),
-        url('../../fonts/grotesk/Grotesk-03Regulart.woff') format('woff');
+    src: url('../../fonts/grotesk/Grotesk-03Regular.woff2') format('woff2'),
+        url('../../fonts/grotesk/Grotesk-03Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'grotesk-gros';
+    src: url('../../fonts/grotesk/Grotesk-04Gras.woff2') format('woff2'),
+        url('../../fonts/grotesk/Grotesk-04Gras.woff') format('woff');
 }
 
 @font-face {
