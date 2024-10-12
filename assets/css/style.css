@@ -8,6 +8,12 @@
 }
 
 @font-face {
+    font-family: 'grotesk';
+    src: url('../../fonts/grotesk/Grotesk-03Regulart.woff2') format('woff2'),
+        url('../../fonts/grotesk/Grotesk-03Regulart.woff') format('woff');
+}
+
+@font-face {
     font-family: "HND";
     src: url("../../assets/fonts/HND/HelveticaNowDisplay-XBlk.eot") format("embedded-opentype"),
         url("../../assets/fonts/HND/HelveticaNowDisplay-XBlk.woff") format("woff");
@@ -20,7 +26,7 @@
 }
 
 body {
-    background-color: blueviolet;
+    background-color: rgb(17, 17, 17);
     color: aliceblue;
     padding: 1em;
     font-family: 'IBM Plex Mono';
