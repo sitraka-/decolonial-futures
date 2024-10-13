@@ -11,12 +11,12 @@ layout: reveal
     <style>.h2 header:after { content: "George Clinton (Dr Funkenstein), 1977-1999 — P-Funk Mothership"; }</style>
     <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Speculative<br><span style="font-size:8.2rem !important;">Cosmologies</span></h1>
 </section>
-<section data-background-image="assets/imgs/cb.jpg" data-state=cb1>
+<section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
-    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >1.<br><span style="font-size:8rem !important;">Design Poetics</span></h1>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >#1<br><span style="font-size:8rem !important;">Design Poetics</span></h1>
 </section>
-<section data-background-image="assets/imgs/cb.jpg" data-state=cb1>
-    **Design poetics** is the exploration of how the design process itself—beyond just the final product—*embodies and perpetuates power structures and ideologies*. It examines the expressive, symbolic, and narrative aspects of design, revealing how design can serve as an instrument of control and a normative force.
+<section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
+    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates power structures and ideologies. Its expressive, symbolic, and narrative aspects of design, reveal how design serve as an instrument of control and a normative force.</span>
 </section>
 <section data-state=h1>
     Design as an instrument of control - example 1 / Tunnel
