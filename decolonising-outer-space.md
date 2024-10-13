@@ -65,7 +65,7 @@ layout: reveal
 <section data-state=h1>
     Tom Moynihan / Venus → panic and humility
 </section>
-<section data-background-image="assets/imgs/cs_22.jpg" data-state=cs>
+<section data-background-image="assets/imgs/cs_22.png" data-state=cs>
     <style>.cs header:after { content: "Luigi Serafini, 1981 — Codex Seraphinianus"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">3. Speculative Cosmologies</span></h1>
 </section>
