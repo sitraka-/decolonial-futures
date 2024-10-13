@@ -13,7 +13,7 @@ layout: reveal
 </section>
 <section data-background-image="assets/imgs/cb.jpg" data-state=cb1>
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
-    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >1.<br><span style="font-size:8.78rem !important;">Design Poetics</span></h1>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >1.<br><span style="font-size:8rem !important;">Design Poetics</span></h1>
 </section>
 <section data-background-image="assets/imgs/cb.jpg" data-state=cb1>
     **Design poetics** is the exploration of how the design process itself—beyond just the final product—*embodies and perpetuates power structures and ideologies*. It examines the expressive, symbolic, and narrative aspects of design, revealing how design can serve as an instrument of control and a normative force.
