@@ -13,7 +13,7 @@ layout: reveal
 </section>
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
-    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >#1<br><span style="font-size:8rem !important;">Design Poetics</span></h1>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">1. Design Poetics</span></h1>
 </section>
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
     <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates certain power structures and ideologies. Through its expressive, symbolic, and narrative aspects, it reveals how design serves as an instrument of control and a normative force.</span>
@@ -35,7 +35,7 @@ layout: reveal
 </section>
 <section data-background-image="assets/imgs/empathics_3.jpg" data-state=cb1>
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
-    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >#2<br><span style="font-size:8rem !important;">Design Poiesis</span></h1>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
 </section>
 <section data-background-image="assets/imgs/stamp.jpg" data-state=cb1>
     <span class="quotes">By bringing ideas into existence, design constructs new meanings, realities, and experiences, literally spawning new worlds as it interacts with its environment—shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.</span>
