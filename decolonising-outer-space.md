@@ -70,9 +70,11 @@ layout: reveal
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">3. Speculative Cosmologies</span></h1>
 </section>
 <section data-background-image="assets/imgs/cs2.jpg" data-state=cs>
-    <span class="quotes">Design is a medium that—by envisioning and materialising alternative ontologies and worldviews—reshapes our understandings of realities and our place within them.<br><br>At the intersection of anthropology, ethnography, and speculative fiction, it embodies worlds we may hope for or caution against, with the potential of challenging existing narratives and expanding the boundaries of our imaginaries.</span>
+    <span class="quotes">Design is a medium that—by envisioning and materialising alternative ontologies and worldviews—reshapes our understandings of realities and our place within them.</span>
 </section>
-
+<section data-background-image="assets/imgs/cs2.jpg" data-state=cs>
+    <span class="quotes">At the intersection of anthropology, ethnography, and speculative fiction, it embodies worlds we may hope for or caution against, with the potential of challenging existing narratives and expanding the boundaries of our imaginaries.</span>
+</section>
 <section data-state=h1>
     Imagining things that embody the world within which it exists
 </section>
