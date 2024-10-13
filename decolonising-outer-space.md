@@ -16,7 +16,7 @@ layout: reveal
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >#1<br><span style="font-size:8rem !important;">Design Poetics</span></h1>
 </section>
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
-    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates certain power structures and ideologies.<br>Through its expressive, symbolic, and narrative aspects, it reveals how design serves as an instrument of control and a normative force.</span>
+    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates certain power structures and ideologies. Through its expressive, symbolic, and narrative aspects, it reveals how design serves as an instrument of control and a normative force.</span>
 </section>
 <section data-state=h1>
     Design as an instrument of control - example 1 / Tunnel
