@@ -33,11 +33,12 @@ layout: reveal
 <section data-state=h1>
     Engage with materiality and experience
 </section>
-<section data-background-image="assets/imgs/empathics_3.jpg" data-state=cb1>
-    <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
+<section data-background-image="assets/imgs/empathics_32.jpg" data-state=sw1>
+    <style>.sw1 header:after { content: "Saya Woolfalk, 2012 — The Empathics"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
 </section>
-<section data-background-image="assets/imgs/stamp.jpg" data-state=cb1>
+<section data-background-image="assets/imgs/empathics_32.jpg" data-state=kj1>
+    <style>.kj1 header:after { content: "Khaled Jarrar, 2012 — State Of Palestine"; }</style>
     <span class="quotes">By bringing ideas into existence, design constructs new meanings, realities, and experiences, literally spawning new worlds as it interacts with its environment—shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.</span>
 </section>
 <section data-state=h1>
