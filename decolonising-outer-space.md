@@ -72,9 +72,9 @@ layout: reveal
 <span class="quotes">Design itself is an assemblage, composed of interconnected elements—ideas, practices, technologies, and social norms—that operate within broader networks. It never stands alone but constantly interacts with larger systems, reinforcing or challenging the structures within which it exists.</span>
 </section>
 
-<!-- <section data-state=h1>
-    Human Centred / Design Thinking / Universalist, Solutionist, re-enforce normative values
-</section> -->
+<section data-background-image="assets/imgs/DD.jpg" data-state=dd>
+    <style>.dd header:after { content: "UK Design Council, 2004, Double Diamond"; }</style>
+</section>
 
 <section data-background-image="assets/imgs/pa.jpg" data-state=pa>
     <style>.pa header:after { content: "Paola Antonelli (2018)"; }</style>
