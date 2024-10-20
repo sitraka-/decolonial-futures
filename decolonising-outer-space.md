@@ -170,6 +170,9 @@ layout: reveal
     <style>.gr header:after { content: "Voyager Golden Record, 1977"; }</style>
     <span class="quotes">At the intersection of anthropology, ethnography, and speculative fiction, it embodies worlds we may hope for or caution against, with the potential of challenging existing narratives and expanding the boundaries of our imaginaries.</span>
 </section>
+<section data-background-image="assets/imgs/ggrr.png" data-state=gr>
+    <h1 class="BT">Crafting Worlds From Within</h1>
+</section>
 <section data-state=h1>
     <h1 class="WP">IMAGINING OBJECTS, ARTEFACTS, RITUALS AND THINGS EMBODYING THE WORLD WITHIN WHICH THESE THINGS EXIST.</h1>
 </section>
