@@ -182,8 +182,26 @@ layout: reveal
 </section>
 
 <section data-background-color="white" data-state=rev>
-     <style>.rev header:after { color:"#171717"; content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; }</style>
+     <style>.rev header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; }</style>
     <h1 class="WP" style="color:#171717">REVERSE ARCHAELOGY</h1>
+</section>
+
+<section data-state=tvoeil>
+<style>.tvoeil header:after { content: "J. K. Raymond Millet, 1947 — La Télévision, œil de demain"; }</style>
+    <iframe width="700" height="500" src="https://www.youtube.com/embed/ZKfOcR7Qbu4?si=PY1-X-VjGGxpOJds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section data-state=mad>
+<style>.mad header:after { content: "Lee Madden, 1967 — 1999 A.D."; }</style>
+    <iframe width="700" height="500" src="https://www.youtube.com/embed/Z0lArfzw59c?si=ygsn0G2ROT8yxRpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section data-background-image="assets/imgs/wfrr.jpg" data-state=wfrr>
+<style>.wfrr header:after { content: "Robert Zemeckis, 1988 — Who Framed Roger Rabbit"; }</style>
+</section>
+
+<section data-background-image="assets/imgs/monrail.jpg" data-state=header17>
+<style>.header17 header:after { content: "Shuttle Proposal, Monorail (1954), Los Angeles"; }</style>
 </section>
 
 <section data-state=h1>
