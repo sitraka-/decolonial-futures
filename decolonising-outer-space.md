@@ -181,7 +181,7 @@ layout: reveal
     <h1 class="WP">IMAGINING OBJECTS, ARTEFACTS, RITUALS AND THINGS EMBODYING THE WORLD WITHIN WHICH THESE THINGS EXIST.</h1>
 </section>
 
-<section data-background-color="white" data-state=erv>
+<section data-background-color="white" data-state=rev>
      <style>.rev header:after { color:"#171717"; content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; }</style>
     <h1 class="WP" style="color:#171717">REVERSE ARCHAELOGY</h1>
 </section>
