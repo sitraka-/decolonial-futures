@@ -83,7 +83,7 @@ layout: reveal
 
 <section data-background-image="assets/imgs/artez.png" data-state=gh>
     <style>.gh header:after { content: "VVFA, 2024 — Sounds From Somewhere"; }</style>
-    <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8.2rem !important;" >Critical<br>Making</h1>
+    <h1 class="NT" style="font-family:'Lithops' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8.2rem !important;" >Critical<br>Making</h1>
 </section>
 
 <section data-background-image="assets/imgs/artez.png" data-state=mr>
