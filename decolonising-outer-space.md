@@ -201,12 +201,31 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/monrail.jpg" data-state=header17>
-<style>.header17 header:after { content: "Shuttle Proposal, Monorail (1954), Los Angeles"; }</style>
+<style>.header17 header:after { content: "Los Angeles, Shuttle Proposal, 1954 — Monorail"; }</style>
 </section>
 
-<section data-state=h1>
-    Design As Process vs Design As Medium 
+<section data-background-image="assets/imgs/pokeys.jpg" data-state=header18>
+<style>.header18 header:after { content: "Pokey's, 1955"; }</style>
 </section>
+
+<section data-state=noidea >
+    <style>.noidea header:after { content: "/"; }</style>
+    <img src="assets/imgs/drivecine.jpg" style="max-height: 65vh;" />
+</section>
+
+<section data-background-image="assets/imgs/traffic.jpg" data-state=header20>
+<style>.header20 header:after { content: 'ABC7, 2018 — “WORST traffic in the world, for the 6th year straight”'; }</style>
+</section>
+
+<section data-background-image="assets/imgs/boring.png" data-state=header21>
+<style>.header21 header:after { content: 'The Boring Company, 2017'; }</style>
+</section>
+
+<section data-state=header19 data-background-color="white">
+    <style>.header19 header:after { content: "\\'\\'≠.\\, 2015"; }</style>
+    <img src="assets/imgs/medvsproc.jpg" />
+</section>
+
 <section data-state=h1>
     Part 4 / Critical Fables, Design at CSM and elsewhere
 </section>
