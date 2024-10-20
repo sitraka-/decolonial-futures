@@ -109,6 +109,10 @@ layout: reveal
     <style>.elk header:after { content: "Blue Origin, 2019 — O’Neill colonies"; }</style>
 </section>
 
+<section data-background-image="assets/imgs/rg2.jpg" data-state=rg>
+    <style>.rg header:after { content: "Rick Guidice, 1970's — Interior view looking out through large windows"; }</style>
+</section>
+
 <section data-state=h1>
     Material Instantiation > Shapes imaginaries > Stance
 </section>
