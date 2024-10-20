@@ -269,4 +269,3 @@ layout: reveal
 <section data-background-image="assets/imgs/jg.png" data-state=jg>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >THANK YOU<br><span style="font-size:2rem !important;">@sitraka___ / sitraka@vvfa.space</span></h1>
 </section>
-</section>
