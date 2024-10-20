@@ -138,8 +138,11 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/hiragasy_2.jpg" data-state=hg>
-    <style>.gg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
-    <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8.2rem !important;" >Speculative<br>Ethnographies</h1>
+    <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
+    <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Speculative<br>Ethnographies</h1>
+</section>
+<section data-background-image="assets/imgs/hiragasy2.jpg" data-state=hgw>
+    <style>.hgw header:after { content: "Miora Rajaonary, 2018 — Two couples from a Hira Gasy troupe pose with their lamba and costumes in Antananarivo"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
