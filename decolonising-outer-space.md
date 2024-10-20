@@ -88,7 +88,7 @@ layout: reveal
 
 <section data-background-image="assets/imgs/hertz_d.png" data-state=mr>
     <style>.mr header:after { content: "Matt Ratto, 2008 — FLWR PWR – Tending the Walled Garden"; }</style>
-    <span class="quotes">critical making is an elision of two typically disconnected modes of engagement in the world<br><br>‘critical thinking,’ often considered as abstract, explicit, linguistically based, internal and cognitively individualistic; <br>and ‘making,’ typically understood as material, tacit, embodied, external and community-oriented</span>
+    <span class="quotes">Critical making is an elision of two typically disconnected modes of engagement in the world<br><br>‘critical thinking,’ often considered as abstract, explicit, linguistically based, internal and cognitively individualistic; and ‘making,’ typically understood as material, tacit, embodied, external and community-oriented</span>
 </section>
 
 <section data-background-image="assets/imgs/empathics_32.jpg" data-state=sw1>
