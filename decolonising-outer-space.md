@@ -33,6 +33,7 @@ layout: reveal
 </section>
 <section data-background-image="assets/imgs/kjk.jpg" data-state=kkd2>
  <style>.kkd2 header:after { content: "Morrison–Knudsen, 1953, Kajaki Dam and Spillway (2013)"; }</style>
+ <span class="quotes">Designs do not exist in isolation; they operate within assemblages where artefacts, practices, and power relations converge, reinforcing or disrupting, reshaping and reconfiguring broader social structures.</span>
 </section>
 <section data-state=h1>
     Design as an instrument of control - example 2 / Peripherique
