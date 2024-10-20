@@ -16,14 +16,14 @@ layout: reveal
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">1. Design Poetics</span></h1>
 </section>
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
-    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates certain power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards while also normalising certain behaviours and practices, revealing how design serves as both an instrument of control and a force that shapes what is considered natural or inevitable."</span>
+    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards and normalise behaviours and practices.<br><br>Design serves as both an instrument of control and a force that shapes what is considered natural or inevitable."</span>
 </section>
 <section data-background-image="assets/imgs/rm.jpg" data-state=rm>
  <style>.rm header:after { content: "Postcard, 1930—1945, Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
 </section>
 <section data-background-image="assets/imgs/rm_23.jpg" data-state=rm2>
  <style>.rm2 header:after { content: "Pictorial Parade, 1960, Cars on a section of the Southern State Parkway"; }</style>
- <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics; artefacts have politics.</span>
+ <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics; artefacts have politics, and these politics permeate through everyday practices and material cultures.</span>
 </section>
 <section data-state=h1>
     Design as an instrument of control - example 2 / Peripherique
