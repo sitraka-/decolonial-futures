@@ -23,7 +23,10 @@ layout: reveal
 </section>
 <section data-background-image="assets/imgs/rm_23.jpg" data-state=rm2>
  <style>.rm2 header:after { content: "Pictorial Parade, 1960, Cars on a section of the Southern State Parkway"; }</style>
- <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics; artefacts have politics, and these politics permeate through everyday practices and material cultures.</span>
+ <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics<br><br>Artefacts have politics, and these politics permeate through everyday practices and material cultures.</span>
+</section>
+<section data-background-image="assets/imgs/kkdam.jpg" data-state=kkd>
+ <style>.kkd header:after { content: "USAID Afghanistan, 2007, Aerial View of the Kajaki Dam"; }</style>
 </section>
 <section data-state=h1>
     Design as an instrument of control - example 2 / Peripherique
