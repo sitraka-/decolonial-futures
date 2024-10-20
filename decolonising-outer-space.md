@@ -105,6 +105,10 @@ layout: reveal
     <span class="quotes">By bringing ideas into existence, design constructs new meanings, realities, and experiences, literally spawning new worlds as it interacts with its environment—shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.</span>
 </section>
 
+<section data-background-image="assets/imgs/mdrs.jpg" data-state=mdrs>
+    <style>.mdrs header:after { content: "The Mars Society, 2001 — Mars Desert Research Station"; }</style>
+</section>
+
 <section data-background-image="assets/imgs/elk.webp" data-state=elk>
     <style>.elk header:after { content: "Blue Origin, 2019 — O’Neill colonies"; }</style>
 </section>
