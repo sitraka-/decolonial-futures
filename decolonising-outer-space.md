@@ -125,12 +125,13 @@ layout: reveal
     <style>.dv header:after { content: "Voyager 1, 1990 — The Pale Blue Dot"; }</style>
 </section>
 
-<section data-state=h1>
-    Material Instantiation > Shapes imaginaries > Stance
+<section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
+    <style>.kesh header:after { content: "Ursula K. LeGuin & Todd Barton, 1985 — Music and poetry of the Kesh"; }</style>
 </section>
-<section data-state=h1>
-    Music Poetry of the kesh / Semiosis / Poiesis
+
+<section data-background-image="assets/imgs/kesh2.jpg" data-state=kesh>
 </section>
+
 <section data-state=h1>
     Speculative Ethnographies / Making worlds from within
 </section>
