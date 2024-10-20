@@ -261,6 +261,11 @@ layout: reveal
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5. Learning To Moonwalk</span></h1>
 </section>
 
+<section data-state=ltm_f>
+    <style>.ltm_f header:after { content: "VVFA, 2024 — Learning To Moonwalk, Part 1, The Walker"; }</style>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
 <section data-state=h1>
     Conclusion → Designing For The Unreal
 </section>
