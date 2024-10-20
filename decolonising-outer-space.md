@@ -27,45 +27,45 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/rm.jpg" data-state=rm>
- <style>.rm header:after { content: "Postcard, 1930—1945, Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
+ <style>.rm header:after { content: "Postcard, 1930—1945 — Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/rm_23.jpg" data-state=rm2>
- <style>.rm2 header:after { content: "Pictorial Parade, 1960, Cars on a section of the Southern State Parkway"; }</style>
+ <style>.rm2 header:after { content: "Pictorial Parade, 1960 — Cars on a section of the Southern State Parkway"; }</style>
  <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics;<br><br>Artefacts have politics, and these politics permeate through everyday practices and material cultures.</span>
 </section>
 
 <section data-background-image="assets/imgs/kkdam.jpg" data-state=kkd>
- <style>.kkd header:after { content: "Morrison–Knudsen, 1953, Aerial View of the Kajaki Dam (USAID Afghanistan, 2007)"; }</style>
+ <style>.kkd header:after { content: "Morrison–Knudsen, 1953 — Aerial View of the Kajaki Dam (USAID Afghanistan, 2007)"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/sd.jpg" data-state=sd>
- <style>.sd header:after { content: "Corporación autónoma regional del Valle del Cauca, 1985, Salvajina Dam (—, 2011)"; }</style>
+ <style>.sd header:after { content: "Corporación autónoma regional del Valle del Cauca, 1985 — Salvajina Dam (—, 2011)"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/kjk.jpg" data-state=kkd2>
- <style>.kkd2 header:after { content: "Morrison–Knudsen, 1953, Kajaki Dam and Spillway (2013)"; }</style>
+ <style>.kkd2 header:after { content: "Morrison–Knudsen, 1953 — Kajaki Dam and Spillway (2013)"; }</style>
  <span class="quotes">Designs do not exist in isolation; they operate within assemblages where artefacts, practices, and power relations converge, reinforcing or disrupting, reshaping and reconfiguring broader social structures.</span>
 </section>
 
 <section data-background-image="assets/imgs/sa_0.jpg" data-state=sa>
- <style>.sa header:after { content: "American astronaut Deke Slayton and Russian cosmonaut Alexei Leonov, 1975, US-Soviet Apollo-Soyuz linkup"; }</style>
+ <style>.sa header:after { content: "American astronaut Deke Slayton and Russian cosmonaut Alexei Leonov, 1975 — US-Soviet Apollo-Soyuz linkup"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/sa_1.jpg" data-state=sa2>
- <style>.sa2 header:after { content: "Apollo-Soyuz Test Project, 1975, Commemorative Plaque"; }</style>
+ <style>.sa2 header:after { content: "Apollo-Soyuz Test Project, 1975 — Commemorative Plaque"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/apas.jpg" data-state=apas>
- <style>.apas header:after { content: "APAS-75, 1975, Androgynous Peripheral Attach System"; }</style>
+ <style>.apas header:after { content: "APAS-75, 1975 — Androgynous Peripheral Attach System"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/apas89.jpg" data-state=apas89>
- <style>.apas89 header:after { content: "APAS-89, 1989, Soviet Buran / Mir"; }</style>
+ <style>.apas89 header:after { content: "APAS-89, 1989 — Soviet Buran / Mir"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/apas952.jpg" data-state=apas95>
- <style>.apas95 header:after { content: "APAS-95, 1995, Shuttle-Mir / ISS"; }</style>
+ <style>.apas95 header:after { content: "APAS-95, 1995 — Shuttle-Mir / ISS"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/apas9522.jpg" data-state=apas95>
@@ -73,12 +73,17 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/DD2.jpg" data-state=dd>
-    <style>.dd header:after { content: "UK Design Council, 2004, Double Diamond"; }</style>
+    <style>.dd header:after { content: "UK Design Council, 2004 — Double Diamond"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/pa.jpg" data-state=pa>
-    <style>.pa header:after { content: "Arturo Escobar, 2018, Paraphrasing Paola Antonelli"; }</style>
+    <style>.pa header:after { content: "Arturo Escobar, 2018 — Paraphrasing Paola Antonelli"; }</style>
     <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
+</section>
+
+<section data-background-image="assets/imgs/gh.jpg" data-state=gh>
+    <style>.gh header:after { content: "Matt Ratto, 2008 — Critial Making"; }</style>
+    <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8.2rem !important;" >Critical<br><span style="font-size:8.2rem !important;">Making</span></h1>
 </section>
 
 <section data-background-image="assets/imgs/empathics_32.jpg" data-state=sw1>
