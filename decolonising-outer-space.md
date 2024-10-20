@@ -81,12 +81,12 @@ layout: reveal
     <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
 </section>
 
-<section data-background-image="assets/imgs/hertz_d.jpg" data-state=gh>
+<section data-background-image="assets/imgs/hertz_d.png" data-state=gh>
     <style>.gh header:after { content: "Garnett Hertz, 2013 — Critial Making"; }</style>
     <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8.2rem !important;" >Critical<br>Making</h1>
 </section>
 
-<section data-background-image="assets/imgs/hertz_d.jpg" data-state=gh>
+<section data-background-image="assets/imgs/hertz_d.png" data-state=gh>
     <style>.gh header:after { content: "Matt Ratto, 2008 — FLWR PWR – Tending the Walled Garden"; }</style>
     <span class="quotes">critical making is an elision of two typically disconnected modes of engagement in the world—‘critical thinking,’ often considered as abstract, explicit, linguistically based, internal and cognitively individualistic; and ‘making,’ typically understood as material, tacit, embodied, external and community-oriented</span>
 </section>
