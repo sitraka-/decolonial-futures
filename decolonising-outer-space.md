@@ -7,49 +7,63 @@ layout: reveal
  <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; }</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Learning To<br><span style="font-size:8.78rem !important;">Moonwalk</span></h1>
 </section>
+
 <section data-background-image="assets/imgs/mothership-landing_2.jpg" data-state=h2>
     <style>.h2 header:after { content: "George Clinton (Dr Funkenstein), 1977-1999 — P-Funk Mothership"; }</style>
     <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8.2rem !important;" >Speculative<br><span style="font-size:8.2rem !important;">Cosmologies</span></h1>
 </section>
+
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">1. Design Poetics</span></h1>
 </section>
+
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
-    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards and normalise behaviours and practices.<br><br>Design serves as both an instrument of control and a force that shapes what is considered <em>"natural or inevitable."<em></span>
+    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards and normalise behaviours and practices.<br><br>Design serves as both an instrument of control and a force that shapes what is considered <em>natural or inevitable.</em></span>
 </section>
+
 <section data-background-image="assets/imgs/rm.jpg" data-state=rm>
  <style>.rm header:after { content: "Postcard, 1930—1945, Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
 </section>
+
 <section data-background-image="assets/imgs/rm_23.jpg" data-state=rm2>
  <style>.rm2 header:after { content: "Pictorial Parade, 1960, Cars on a section of the Southern State Parkway"; }</style>
  <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics;<br><br>Artefacts have politics, and these politics permeate through everyday practices and material cultures.</span>
 </section>
+
 <section data-background-image="assets/imgs/kkdam.jpg" data-state=kkd>
  <style>.kkd header:after { content: "Morrison–Knudsen, 1953, Aerial View of the Kajaki Dam (USAID Afghanistan, 2007)"; }</style>
 </section>
+
 <section data-background-image="assets/imgs/sd.jpg" data-state=sd>
  <style>.sd header:after { content: "Corporación autónoma regional del Valle del Cauca, 1985, Salvajina Dam (—, 2011)"; }</style>
 </section>
+
 <section data-background-image="assets/imgs/kjk.jpg" data-state=kkd2>
  <style>.kkd2 header:after { content: "Morrison–Knudsen, 1953, Kajaki Dam and Spillway (2013)"; }</style>
  <span class="quotes">Designs do not exist in isolation; they operate within assemblages where artefacts, practices, and power relations converge, reinforcing or disrupting, reshaping and reconfiguring broader social structures.</span>
 </section>
+
 <section data-background-image="assets/imgs/sa_0.jpg" data-state=sa>
  <style>.sa header:after { content: "American astronaut Deke Slayton and Russian cosmonaut Alexei Leonov, 1975, US-Soviet Apollo-Soyuz linkup"; }</style>
 </section>
+
 <section data-background-image="assets/imgs/sa_1.jpg" data-state=sa2>
  <style>.sa2 header:after { content: "Apollo-Soyuz Test Project, 1975, Commemorative Plaque"; }</style>
 </section>
+
 <section data-background-image="assets/imgs/apas.jpg" data-state=apas>
  <style>.apas header:after { content: "APAS-75, 1975, Androgynous Peripheral Attach System"; }</style>
 </section>
+
 <section data-background-image="assets/imgs/apas89.jpg" data-state=apas89>
  <style>.apas89 header:after { content: "APAS-89, 1989, Soviet Buran / Mir"; }</style>
 </section>
+
 <section data-background-image="assets/imgs/apas952.jpg" data-state=apas95>
  <style>.apas95 header:after { content: "APAS-95, 1995, Shuttle-Mir / ISS"; }</style>
 </section>
+
 <section data-state=h1>
     Human Centred / Design Thinking / Universalist, Solutionist, re-enforce normative values
 </section>
