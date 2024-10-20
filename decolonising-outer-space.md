@@ -125,6 +125,17 @@ layout: reveal
     <style>.dv header:after { content: "Voyager 1, 1990 — The Pale Blue Dot"; }</style>
 </section>
 
+<section data-background-image="assets/imgs/pre3.png" data-state=pp>
+    <style>.pp header:after { content: "Roger Corman, 1965 — Voyage to the prehistorical planet"; }</style>
+</section>
+<section data-background-image="assets/imgs/pre2.jpg" data-state=pp>
+    <style>.pp header:after { content: "Pavel Klushantsev., 1962 — Planet of storms"; }</style>
+</section>
+
+<section data-state=h1>
+    Speculative Ethnographies / Making worlds from within
+</section>
+
 <section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
     <style>.kesh header:after { content: "Ursula K. LeGuin & Todd Barton, 1985 — Music and poetry of the Kesh"; }</style>
 </section>
@@ -132,12 +143,6 @@ layout: reveal
 <section data-background-image="assets/imgs/kesh2.jpg" data-state=kesh>
 </section>
 
-<section data-state=h1>
-    Speculative Ethnographies / Making worlds from within
-</section>
-<section data-state=h1>
-    David Valentine / New worlds means new Stances?
-</section>
 <section data-state=h1>
     Tom Moynihan / Venus → before probe landed
 </section>
