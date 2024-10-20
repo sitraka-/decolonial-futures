@@ -31,6 +31,9 @@ layout: reveal
 <section data-background-image="assets/imgs/sd.jpg" data-state=sd>
  <style>.sd header:after { content: "— 1985, Salvajina Dam, Cauca"; }</style>
 </section>
+<section data-background-image="assets/imgs/kjk.jpg" data-state=kkd2>
+ <style>.kkd2 header:after { content: "Morrison–Knudsen, 1953, Kajaki Dam and Spillway (2013)"; }</style>
+</section>
 <section data-state=h1>
     Design as an instrument of control - example 2 / Peripherique
 </section>
