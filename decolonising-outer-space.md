@@ -137,8 +137,9 @@ layout: reveal
     <style>.pp header:after { content: "Venera Program, 1981 — Venera 13"; }</style>
 </section>
 
-<section data-state=h1>
-    Speculative Ethnographies / Making worlds from within
+<section data-background-image="assets/imgs/hiragasy_2.jpg" data-state=hg>
+    <style>.gg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
+    <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8.2rem !important;" >Speculative<br>Ethnographies</h1>
 </section>
 
 <section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
