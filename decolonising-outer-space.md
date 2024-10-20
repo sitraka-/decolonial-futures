@@ -26,7 +26,10 @@ layout: reveal
  <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics<br><br>Artefacts have politics, and these politics permeate through everyday practices and material cultures.</span>
 </section>
 <section data-background-image="assets/imgs/kkdam.jpg" data-state=kkd>
- <style>.kkd header:after { content: "USAID Afghanistan, 2007, Aerial View of the Kajaki Dam"; }</style>
+ <style>.kkd header:after { content: "Morrison–Knudsen, 1953, Aerial View of the Kajaki Dam (2007)"; }</style>
+</section>
+<section data-background-image="assets/imgs/sd.jpg" data-state=sd>
+ <style>.sd header:after { content: "— 1985, Salvajina Dam, Cauca"; }</style>
 </section>
 <section data-state=h1>
     Design as an instrument of control - example 2 / Peripherique
