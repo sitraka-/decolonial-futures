@@ -44,6 +44,15 @@ layout: reveal
 <section data-background-image="assets/imgs/sa_1.jpg" data-state=sa2>
  <style>.sa2 header:after { content: "Apollo-Soyuz Test Project, 1975, Commemorative Plaque"; }</style>
 </section>
+<section data-background-image="assets/imgs/apas.jpg" data-state=apas>
+ <style>.apas header:after { content: "APAS-75, 1975, Androgynous Peripheral Attach System"; }</style>
+</section>
+<section data-background-image="assets/imgs/apas89.jpg" data-state=apas89>
+ <style>.apas89 header:after { content: "APAS-89, 1989, Soviet Buran / Mir"; }</style>
+</section>
+<section data-background-image="assets/imgs/apas952.jpg" data-state=apas95>
+ <style>.apas95 header:after { content: "APAS-95, 1995, Shuttle-Mir / ISS"; }</style>
+</section>
 <section data-state=h1>
     Human Centred / Design Thinking / Universalist, Solutionist, re-enforce normative values
 </section>
