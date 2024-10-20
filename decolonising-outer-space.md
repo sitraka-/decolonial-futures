@@ -181,22 +181,11 @@ layout: reveal
     <h1 class="WP">IMAGINING OBJECTS, ARTEFACTS, RITUALS AND THINGS EMBODYING THE WORLD WITHIN WHICH THESE THINGS EXIST.</h1>
 </section>
 
-<section data-background-color="white" data-state=h1>
+<section data-background-color="white" data-state=erv>
+     <style>.rev header:after { color:"#171717"; content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; }</style>
     <h1 class="WP" style="color:#171717">REVERSE ARCHAELOGY</h1>
 </section>
 
-<section data-state=h1>
-    Malagasy's cosmologies / clothing merina / language specifics
-</section>
-<section data-state=h1>
-    Frenchness made in Mada ≠ Frenchness
-</section>
-<section data-state=h1>
-    To understand is to experience is to craft from within
-</section>
-<section data-state=h1>
-    Reverse Archaelogy ... 
-</section>
 <section data-state=h1>
     Design As Process vs Design As Medium 
 </section>
