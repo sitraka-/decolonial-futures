@@ -23,7 +23,7 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
-    <span class="quotes">Design serves as both an instrument of control and a force that shapes what is considered <em>natural or inevitable.</em></span>
+    <span class="quotes">Design serves as both an instrument of control<br>and a force that shapes what is considered <em>natural or inevitable.</em></span>
 </section>
 
 <section data-background-image="assets/imgs/rm.jpg" data-state=rm>
