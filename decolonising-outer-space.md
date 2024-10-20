@@ -72,12 +72,12 @@ layout: reveal
 <span class="quotes">Design itself is an assemblage, composed of interconnected elements—ideas, practices, technologies, and social norms—that operate within broader networks. It never stands alone but constantly interacts with larger systems, reinforcing or challenging the structures within which it exists.</span>
 </section>
 
-<section data-background-image="assets/imgs/DD.jpg" data-state=dd>
+<section data-background-image="assets/imgs/DD2.jpg" data-state=dd>
     <style>.dd header:after { content: "UK Design Council, 2004, Double Diamond"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/pa.jpg" data-state=pa>
-    <style>.pa header:after { content: "Paola Antonelli (2018)"; }</style>
+    <style>.pa header:after { content: "Arturo Escobar, 2018, Paraphrasing Paola Antonelli"; }</style>
     <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
 </section>
 
