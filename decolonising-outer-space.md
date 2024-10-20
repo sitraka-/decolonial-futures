@@ -9,7 +9,7 @@ layout: reveal
 </section>
 <section data-background-image="assets/imgs/mothership-landing_2.jpg" data-state=h2>
     <style>.h2 header:after { content: "George Clinton (Dr Funkenstein), 1977-1999 — P-Funk Mothership"; }</style>
-    <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Speculative<br><span style="font-size:8.2rem !important;">Cosmologies</span></h1>
+    <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8.2rem !important;" >Speculative<br><span style="font-size:8.2rem !important;">Cosmologies</span></h1>
 </section>
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
@@ -18,8 +18,12 @@ layout: reveal
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
     <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates certain power structures and ideologies. Through its expressive, symbolic, and narrative aspects, it reveals how design serves as an instrument of control and a normative force.</span>
 </section>
-<section data-state=h1>
-    Design as an instrument of control - example 1 / Tunnel
+<section data-background-image="assets/imgs/rm.jpg" data-state=rm>
+ <style>.rm header:after { content: "Postcard, 1930—1945, Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
+</section>
+<section data-background-image="assets/imgs/rm_22.jpg" data-state=rm2>
+ <style>.rm2 header:after { content: "Pictorial Parade, 1960, Cars on a section of the Southern State Parkway"; }</style>
+ <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics; artefacts have politics.</span>
 </section>
 <section data-state=h1>
     Design as an instrument of control - example 2 / Peripherique
