@@ -81,14 +81,18 @@ layout: reveal
     <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
 </section>
 
-<section data-background-image="assets/imgs/artez2.png" data-state=gh>
+<section data-background-image="assets/imgs/artez_2.png" data-state=gh>
     <style>.gh header:after { content: "VVFA, 2024 — Sounds From Somewhere"; }</style>
     <h1 class="NT" style="font-family:'Lithops' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 11rem !important;" >Critical<br>Making</h1>
 </section>
 
-<section data-background-image="assets/imgs/artez2.png" data-state=mr>
+<section data-background-image="assets/imgs/artez_2.png" data-state=mr>
     <style>.mr header:after { content: "Matt Ratto, 2008 — FLWR PWR – Tending the Walled Garden"; }</style>
-    <span class="quotes">Critical making is an elision of two typically disconnected modes of engagement in the world—<br><br>‘critical thinking,’ often considered as abstract, explicit, linguistically based, internal and cognitively individualistic;<br><br>and ‘making,’ typically understood as material, tacit, embodied, external and community-oriented.</span>
+    <span class="quotes">Critical making is an elision of two typically disconnected modes of engagement in the world—</span>
+</section>
+
+<section data-background-image="assets/imgs/artez_2.png" data-state=mr>
+    <span class="quotes">‘Critical thinking,’ often considered as abstract, explicit, linguistically based, internal and cognitively individualistic;<br><br>and ‘making,’ typically understood as material, tacit, embodied, external and community-oriented.</span>
 </section>
 
 <section data-background-image="assets/imgs/empathics_32.jpg" data-state=sw1>
