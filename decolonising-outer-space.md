@@ -266,6 +266,7 @@ layout: reveal
     <iframe width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
-<section data-state=h1>
-    Conclusion → Designing For The Unreal
+<section data-background-image="assets/imgs/jg.png" data-state=jg>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >THANK YOU<br><span style="font-size:2rem !important;">@sitraka___ / sitraka@vvfa.space</span></h1>
+</section>
 </section>
