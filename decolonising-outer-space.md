@@ -226,6 +226,11 @@ layout: reveal
     <img src="assets/imgs/medvsproc.jpg" />
 </section>
 
+<section data-background-image="assets/imgs/BIY_posters_d.png" data-state=auto>
+<style>.auto header:after { content: "Automato, 2018 — Believe It Yourself"; }</style>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">4. Critical Fables</span></h1>
+</section>
+
 <section data-state=h1>
     Part 4 / Critical Fables, Design at CSM and elsewhere
 </section>
