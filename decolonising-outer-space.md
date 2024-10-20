@@ -166,7 +166,7 @@ layout: reveal
 <section data-background-image="assets/imgs/cs2.jpg" data-state=cs>
     <span class="quotes">Design is a medium that—by envisioning and materialising alternative ontologies and worldviews—reshapes our understandings of realities and our place within them.</span>
 </section>
-<section data-background-image="assets/imgs/golden-1.webp" data-state=cs>
+<section data-background-image="assets/imgs/goldrec.webp" data-state=cs>
     <span class="quotes">At the intersection of anthropology, ethnography, and speculative fiction, it embodies worlds we may hope for or caution against, with the potential of challenging existing narratives and expanding the boundaries of our imaginaries.</span>
 </section>
 <section data-state=h1>
