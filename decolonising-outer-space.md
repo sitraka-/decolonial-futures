@@ -113,6 +113,10 @@ layout: reveal
     <style>.rg header:after { content: "Rick Guidice, 1970's — Interior view looking out through large windows"; }</style>
 </section>
 
+<section data-background-image="assets/imgs/pbd.webp" data-state=dv>
+    <style>.dv header:after { content: "Voyager 1, 1990 — The Pale Blue Dot"; }</style>
+</section>
+
 <section data-state=h1>
     Material Instantiation > Shapes imaginaries > Stance
 </section>
