@@ -35,11 +35,14 @@ layout: reveal
  <style>.kkd2 header:after { content: "Morrison–Knudsen, 1953, Kajaki Dam and Spillway (2013)"; }</style>
  <span class="quotes">Designs do not exist in isolation; they operate within assemblages where artefacts, practices, and power relations converge, reinforcing or disrupting, reshaping and reconfiguring broader social structures.</span>
 </section>
-<section data-state=h1>
+<!-- <section data-state=h1>
     Design as an instrument of control - example 2 / Peripherique
+</section> -->
+<section data-background-image="assets/imgs/sa_0.jpg" data-state=sa>
+ <style>.sa header:after { content: "American astronaut Deke Slayton and Russian cosmonaut Alexei Leonov, 1975, US-Soviet Apollo-Soyuz linkup"; }</style>
 </section>
-<section data-state=h1>
-    Design as an instrument of control - example 3 / Soyuz/apollo airlock
+<section data-background-image="assets/imgs/sa_1.jpg" data-state=sa2>
+ <style>.sa2 header:after { content: "Apollo-Soyuz Test Project, 1975, Commemorative Plaque"; }</style>
 </section>
 <section data-state=h1>
     Human Centred / Design Thinking / Universalist, Solutionist, re-enforce normative values
