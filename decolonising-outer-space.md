@@ -147,9 +147,9 @@ layout: reveal
     <img src="assets/imgs/hiragasy2.jpg" style="max-height:70vh;" />
 </section>
 
-<section data-state=neny>
+<section data-background-image="assets/imgs/rg_d.png" data-state=neny>
     <style>.neny header:after { content: "Lalao Razafindralambo, 2023 — Dancing on Malagasy music"; }</style>
-    <iframe width="1280" height="500" src="https://www.youtube.com/embed/DJj9cqAqpVc?si=-itL4n4OrdTX2ei4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="1280" height="512" src="https://www.youtube.com/embed/DJj9cqAqpVc?si=-itL4n4OrdTX2ei4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
@@ -159,18 +159,6 @@ layout: reveal
 <section data-background-image="assets/imgs/kesh2.jpg" data-state=kesh>
 </section>
 
-<section data-state=h1>
-    Tom Moynihan / Venus → before probe landed
-</section>
-<section data-state=h1>
-    Tom Moynihan / Venus → continued beliefs of human superiority (violence, extinction → because not evolved enough → racist ideas)
-</section>
-<section data-state=h1>
-    Tom Moynihan / Venus → after probe landed
-</section>
-<section data-state=h1>
-    Tom Moynihan / Venus → panic and humility
-</section>
 <section data-background-image="assets/imgs/cs_22.png" data-state=cs>
     <style>.cs header:after { content: "Luigi Serafini, 1981 — Codex Seraphinianus"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">3. Speculative Cosmologies</span></h1>
