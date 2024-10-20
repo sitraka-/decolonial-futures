@@ -86,8 +86,8 @@ layout: reveal
     <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8.2rem !important;" >Critical<br>Making</h1>
 </section>
 
-<section data-background-image="assets/imgs/hertz_d.png" data-state=gh>
-    <style>.gh header:after { content: "Matt Ratto, 2008 — FLWR PWR – Tending the Walled Garden"; }</style>
+<section data-background-image="assets/imgs/hertz_d.png" data-state=mr>
+    <style>.mr header:after { content: "Matt Ratto, 2008 — FLWR PWR – Tending the Walled Garden"; }</style>
     <span class="quotes">critical making is an elision of two typically disconnected modes of engagement in the world<br><br>‘critical thinking,’ often considered as abstract, explicit, linguistically based, internal and cognitively individualistic; <br>and ‘making,’ typically understood as material, tacit, embodied, external and community-oriented</span>
 </section>
 
