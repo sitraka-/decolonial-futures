@@ -267,5 +267,5 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/jg2.png" data-state=jg>
-    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.4;font-size: 8rem !important;" >THANK YOU<br><span style="font-size:2rem !important; text-transform: lowercase !important;">@sitraka___ / sitraka@vvfa.space</span></h1>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.4;font-size: 8rem !important;" >THANK YOU<br><span style="font-size:2rem !important; text-transform: lowercase !important; font-family:'picnic'">@sitraka___ / sitraka@vvfa.space</span></h1>
 </section>
