@@ -231,6 +231,31 @@ layout: reveal
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">4. Critical Fables</span></h1>
 </section>
 
+<section data-state=cos>
+    <style>.cos header:after { content: "\\'\\'≠.\\, 2023"; }</style>
+    <img src="assets/imgs/cosfab.png" />
+</section>
+
+<section data-state=header2>
+    <style>.header2 header:after { content: "MAID at the Yard Theatre, 2023 — Cosmic Fables"; }</style>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/lkRSJQHlAR0?si=rPOE144y3aAFSK9E&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section data-state=ik>
+    <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/60uAhggLGOM?si=kkXBncU7AbfT4hqk&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section data-background-image="assets/imgs/arnem_1.jpg" data-state=arnem>
+    <style>.arnem header:after { content: "Artez Product Design, 2024"; }</style>
+</section>
+<section data-background-image="assets/imgs/arnem_2.jpg" data-state=arnem>
+</section>
+
+<section data-state=arnem>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/zEqr0jKqxMY?si=siywqlQqY57XRCKE&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
 <section data-background-image="assets/imgs/ltm_d.png" data-state=ltm>
 <style>.ltm header:after { content: "VVFA, 2022 — Learning To Moonwalk"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5. Learning To Moonwalk</span></h1>
