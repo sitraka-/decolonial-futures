@@ -147,7 +147,7 @@ layout: reveal
     <img src="assets/imgs/hiragasy2.jpg" style="max-height:70vh;" />
 </section>
 
-<section data-background-image="assets/imgs/rg_d.png" data-state=neny>
+<section data-background-image="assets/imgs/rg_dd.png" data-state=neny>
     <style>.neny header:after { content: "Lalao Razafindralambo, 2023 — Dancing on Malagasy music"; }</style>
     <iframe width="1280" height="512" src="https://www.youtube.com/embed/DJj9cqAqpVc?si=-itL4n4OrdTX2ei4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
