@@ -113,6 +113,10 @@ layout: reveal
     <style>.rg header:after { content: "Rick Guidice, 1970's — Interior view looking out through large windows"; }</style>
 </section>
 
+<section data-background-image="assets/imgs/rg3.jpg" data-state=rg2>
+    <style>.rg2 header:after { content: "Rick Guidice, 1970's — Agricultural modules in cutaway view (multiple toroids)"; }</style>
+</section>
+
 <section data-background-image="assets/imgs/pbd.webp" data-state=dv>
     <style>.dv header:after { content: "Voyager 1, 1990 — The Pale Blue Dot"; }</style>
 </section>
