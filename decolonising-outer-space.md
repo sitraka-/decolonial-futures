@@ -129,7 +129,7 @@ layout: reveal
     <style>.pp header:after { content: "Roger Corman, 1965 — Voyage to the prehistorical planet"; }</style>
 </section>
 <section data-background-image="assets/imgs/pre2.jpg" data-state=pp>
-    <style>.pp header:after { content: "Pavel Klushantsev., 1962 — Planet of storms"; }</style>
+    <style>.pp header:after { content: "Pavel Klushantsev, 1962 — Planet of storms"; }</style>
 </section>
 
 <section data-state=h1>
