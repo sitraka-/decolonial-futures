@@ -82,8 +82,13 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/hertz_d.jpg" data-state=gh>
-    <style>.gh header:after { content: "Matt Ratto, 2008 — Critial Making"; }</style>
+    <style>.gh header:after { content: "Garnett Hertz, 2013 — Critial Making"; }</style>
     <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8.2rem !important;" >Critical<br>Making</h1>
+</section>
+
+<section data-background-image="assets/imgs/hertz_d.jpg" data-state=gh>
+    <style>.gh header:after { content: "Matt Ratto, 2008 — FLWR PWR – Tending the Walled Garden"; }</style>
+    <span class="quotes">critical making is an elision of two typically disconnected modes of engagement in the world—‘critical thinking,’ often considered as abstract, explicit, linguistically based, internal and cognitively individualistic; and ‘making,’ typically understood as material, tacit, embodied, external and community-oriented</span>
 </section>
 
 <section data-background-image="assets/imgs/empathics_32.jpg" data-state=sw1>
