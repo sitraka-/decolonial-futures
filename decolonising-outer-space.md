@@ -231,8 +231,8 @@ layout: reveal
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">4. Critical Fables</span></h1>
 </section>
 
-<section data-background-image="assets/imgs/ltm.png" data-state=auto>
-<style>.auto header:after { content: "Automato, 2018 — Believe It Yourself"; }</style>
+<section data-background-image="assets/imgs/ltm_d.png" data-state=ltm>
+<style>.ltm header:after { content: "VVFA, 2022 — Learning To Moonwalk"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5. Learning To Moonwalk</span></h1>
 </section>
 
