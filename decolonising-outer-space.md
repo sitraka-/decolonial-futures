@@ -233,7 +233,7 @@ layout: reveal
 
 <section data-state=cos>
     <style>.cos header:after { content: "\\'\\'≠.\\, 2023"; }</style>
-    <img src="assets/imgs/cosfab.png" />
+    <img style="max-width:65vh;" src="assets/imgs/cosfab.png" />
 </section>
 
 <section data-state=header2>
