@@ -19,7 +19,11 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
-    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards and normalise behaviours and practices.<br><br>Design serves as both an instrument of control and a force that shapes what is considered <em>natural or inevitable.</em></span>
+    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards and normalise behaviours and practices.</span>
+</section>
+
+<section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
+    <span class="quotes">Design serves as both an instrument of control and a force that shapes what is considered <em>natural or inevitable.</em></span>
 </section>
 
 <section data-background-image="assets/imgs/rm.jpg" data-state=rm>
@@ -68,12 +72,14 @@ layout: reveal
 <span class="quotes">Design itself is an assemblage, composed of interconnected elements—ideas, practices, technologies, and social norms—that operate within broader networks. It never stands alone but constantly interacts with larger systems, reinforcing or challenging the structures within which it exists.</span>
 </section>
 
-<section data-state=h1>
+<!-- <section data-state=h1>
     Human Centred / Design Thinking / Universalist, Solutionist, re-enforce normative values
-</section>
+</section> -->
+
 <section data-state=h1>
     Engage with materiality and experience
 </section>
+
 <section data-background-image="assets/imgs/empathics_32.jpg" data-state=sw1>
     <style>.sw1 header:after { content: "Saya Woolfalk, 2012 — The Empathics"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
