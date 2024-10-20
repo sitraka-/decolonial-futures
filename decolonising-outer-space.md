@@ -231,12 +231,11 @@ layout: reveal
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">4. Critical Fables</span></h1>
 </section>
 
-<section data-state=h1>
-    Part 4 / Critical Fables, Design at CSM and elsewhere
+<section data-background-image="assets/imgs/ltm.png" data-state=auto>
+<style>.auto header:after { content: "Automato, 2018 — Believe It Yourself"; }</style>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5. Learning To Moonwalk</span></h1>
 </section>
-<section data-state=h1>
-    Part 5 / Learning To Moonwalk 
-</section>
+
 <section data-state=h1>
     Conclusion → Designing For The Unreal
 </section>
