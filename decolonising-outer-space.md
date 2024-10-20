@@ -128,8 +128,13 @@ layout: reveal
 <section data-background-image="assets/imgs/pre3.png" data-state=pp>
     <style>.pp header:after { content: "Roger Corman, 1965 — Voyage to the prehistorical planet"; }</style>
 </section>
-<section data-background-image="assets/imgs/pre2.jpg" data-state=pp>
-    <style>.pp header:after { content: "Pavel Klushantsev, 1962 — Planet of storms"; }</style>
+
+<section data-background-image="assets/imgs/pre2.jpg" data-state=ppe>
+    <style>.ppe header:after { content: "Pavel Klushantsev, 1962 — Planet of storms"; }</style>
+</section>
+
+<section data-background-image="assets/imgs/venera13.webp" data-state=pp>
+    <style>.pp header:after { content: "Venera Program, 1981 — Venera 13"; }</style>
 </section>
 
 <section data-state=h1>
