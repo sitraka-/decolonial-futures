@@ -141,9 +141,15 @@ layout: reveal
     <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
     <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 7.9rem !important;" >Speculative<br>Ethnographies</h1>
 </section>
+
 <section data-state=hgw>
     <style>.hgw header:after { content: "Miora Rajaonary, 2018 — Two couples from a Hira Gasy troupe pose with their lamba and costumes in Antananarivo"; }</style>
-    <img src="assets/imgs/hiragasy2.jpg" />
+    <img src="assets/imgs/hiragasy2.jpg" style="max-height:70vh;" />
+</section>
+
+<section data-state=neny>
+    <style>.neny header:after { content: "Lalao Razafindralambo, 2023 — Dancing on Malagasy music"; }</style>
+    <iframe width="1280" height="500" src="https://www.youtube.com/embed/DJj9cqAqpVc?si=-itL4n4OrdTX2ei4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
