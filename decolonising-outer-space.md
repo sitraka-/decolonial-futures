@@ -76,8 +76,9 @@ layout: reveal
     Human Centred / Design Thinking / Universalist, Solutionist, re-enforce normative values
 </section> -->
 
-<section data-state=h1>
-    Engage with materiality and experience
+<section data-background-image="assets/imgs/pa.jpg" data-state=pa>
+    <style>.pa header:after { content: "Paola Antonelli (2018)"; }</style>
+    <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
 </section>
 
 <section data-background-image="assets/imgs/empathics_32.jpg" data-state=sw1>
