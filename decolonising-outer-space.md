@@ -3,7 +3,7 @@ title: Introduction
 layout: reveal
 ---
 
-<section data-state=h1>
+<section data-state=h1 data-background-image="assets/imgs/jg2.png">
  <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; }</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Learning To<br><span style="font-size:8.78rem !important;">Moonwalk</span></h1>
 </section>
