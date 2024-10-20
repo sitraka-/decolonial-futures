@@ -163,19 +163,28 @@ layout: reveal
     <style>.cs header:after { content: "Luigi Serafini, 1981 — Codex Seraphinianus"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">3. Speculative Cosmologies</span></h1>
 </section>
+
 <section data-background-image="assets/imgs/cs2.jpg" data-state=cs>
     <span class="quotes">Design is a medium that—by envisioning and materialising alternative ontologies and worldviews—reshapes our understandings of realities and our place within them.</span>
 </section>
+
 <section data-background-image="assets/imgs/grec.jpg" data-state=gr>
     <style>.gr header:after { content: "Voyager Golden Record, 1977"; }</style>
     <span class="quotes">At the intersection of anthropology, ethnography, and speculative fiction, it embodies worlds we may hope for or caution against, with the potential of challenging existing narratives and expanding the boundaries of our imaginaries.</span>
 </section>
+
 <section data-background-image="assets/imgs/ggrr.png" data-state=gr>
     <h1 class="BT" style="text-align: center !important;">Crafting Worlds<br>From Within</h1>
 </section>
+
 <section data-state=h1>
     <h1 class="WP">IMAGINING OBJECTS, ARTEFACTS, RITUALS AND THINGS EMBODYING THE WORLD WITHIN WHICH THESE THINGS EXIST.</h1>
 </section>
+
+<section data-background-color="white" data-state=h1>
+    <h1 class="WP" style="color:#171717">REVERSE ARCHAELOGY</h1>
+</section>
+
 <section data-state=h1>
     Malagasy's cosmologies / clothing merina / language specifics
 </section>
