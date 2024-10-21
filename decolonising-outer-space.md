@@ -137,8 +137,8 @@ layout: reveal
     <style>.ppe header:after { content: "Pavel Klushantsev, 1962 — Planet of storms"; }</style>
 </section>
 
-<section data-background-image="assets/imgs/venera13.webp" data-state=pp>
-    <style>.pp header:after { content: "Venera Program, 1981 — Venera 13"; }</style>
+<section data-background-image="assets/imgs/venera13.webp" data-state=ven>
+    <style>.ven header:after { content: "Venera Program, 1981 — Venera 13"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/hiragasy_2.jpg" data-state=hg>
