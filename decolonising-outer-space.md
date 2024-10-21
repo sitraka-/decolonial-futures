@@ -27,7 +27,7 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/cmen.jpg" data-state=cmen>
-    <style>.cmen header:after { content: "Codex Mendoza, 1541"; }</style>>
+    <style>.cmen header:after { content: "Codex Mendoza, 1541"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/rm.jpg" data-state=rm>
