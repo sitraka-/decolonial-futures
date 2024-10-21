@@ -19,7 +19,7 @@ layout: reveal
 </section>
 
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
-    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards and normalise behaviours and practices.</span>
+    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards and normalises behaviours and practices.</span>
 </section>
 
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
