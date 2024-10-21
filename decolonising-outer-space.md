@@ -3,9 +3,9 @@ title: Introduction
 layout: reveal
 ---
 
-<section data-state=h1 data-background-image="assets/imgs/mob2.jpg">
+<section data-state=h1 >
  <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; }</style>
-    <h1 class="NT" style="color: black; font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Learning To<br><span style="font-size:8.78rem !important;">Moonwalk</span></h1>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Learning To<br><span style="font-size:8.78rem !important;">Moonwalk</span></h1>
 </section>
 
 <section data-background-image="assets/imgs/mothership-landing_2.jpg" data-state=h2>
@@ -266,6 +266,6 @@ layout: reveal
     <iframe width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
-<section data-background-image="assets/imgs/mob2.jpg" data-state=jg>
-    <h1 class="NT" style="color: black; font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.4;font-size: 8rem !important;" >THANK YOU<br><span style="font-size:2rem !important; text-transform: lowercase !important; font-family:'picnic'">@sitraka___ / sitraka@vvfa.space</span></h1>
+<section data-state=jg>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.4;font-size: 8rem !important;" >THANK YOU<br><span style="font-size:2rem !important; text-transform: lowercase !important; font-family:'picnic'">@sitraka___ / sitraka@vvfa.space</span></h1>
 </section>
