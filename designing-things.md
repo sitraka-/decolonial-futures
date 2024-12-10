@@ -25,26 +25,31 @@ layout: designing-things
 <section data-background-image="assets/imgs/tc_arm_1.jpg" data-state=tc>
 </section>
 
-<section data-background-image="assets/imgs/pp1.jpg" data-state=pp>
-    <style>.pp header:after { content: "Prophecy Program, 2013"; }</style>
+<section data-background-image="assets/imgs/pp1.jpg" data-state=prop>
+    <style>.prop header:after { content: "Prophecy Program, 2013"; }</style>
 </section>
 
-<section data-background-image="assets/imgs/pp2.jpg" data-state=pp>
+<section data-background-image="assets/imgs/pp2.jpg" data-state=prop>
 </section>
 
-<section data-background-image="assets/imgs/pp3.jpg" data-state=pp>
+<section data-background-image="assets/imgs/pp3.jpg" data-state=prop>
 </section>
 
-<section data-background-image="assets/imgs/pp4.jpg" data-state=pp>
+<section data-background-image="assets/imgs/pp4.jpg" data-state=prop>
 </section>
 
-<section data-background-image="assets/imgs/pp5.jpg" data-state=pp>
+<section data-background-image="assets/imgs/pp5.jpg" data-state=prop>
 </section>
 
-<section data-background-image="assets/imgs/pp6.jpg" data-state=pp>
+<section data-background-image="assets/imgs/pp6.jpg" data-state=prop>
 </section>
 
-<section data-background-image="assets/imgs/pp22.jpg" data-state=pp>
+<section data-background-image="assets/imgs/pp22.jpg" data-state=prop>
+</section>
+
+<section data-state=gold>
+    <style>.gold header:after { content: "Goldwin 0, w/ Takeshi Hayatsu, 2022"; }</style>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/Qo2ntlIHKwo?si=7HRxilZnOBnG09Rc&amp;controls=0&amp;start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
