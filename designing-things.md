@@ -198,7 +198,7 @@ layout: designing-things
 
 <section data-state=hgw>
     <style>.hgw header:after { content: "Miora Rajaonary, 2018 — Two couples from a Hira Gasy troupe pose with their lamba and costumes in Antananarivo"; }</style>
-    <img src="assets/imgs/hiragasy2.jpg" style="max-height:50vh;" />
+    <img src="assets/imgs/hiragasy2.jpg" style="max-height:55vh;" />
 </section>
 
 <section data-background-image="assets/imgs/rg_dd.png" data-state=neny>
