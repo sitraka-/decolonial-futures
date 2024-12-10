@@ -83,13 +83,13 @@ layout: designing-things
  <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics;<br><br>Artefacts have politics, and these politics permeate through everyday practices and material cultures.</span>
 </section>
 
-<section data-background-image="assets/imgs/kkdam.jpg" data-state=kkd>
+<!-- <section data-background-image="assets/imgs/kkdam.jpg" data-state=kkd>
  <style>.kkd header:after { content: "Morrison–Knudsen, 1953 — Aerial View of the Kajaki Dam (USAID Afghanistan, 2007)"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/sd.jpg" data-state=sd>
  <style>.sd header:after { content: "Corporación autónoma regional del Valle del Cauca, 1985 — Salvajina Dam (—, 2011)"; }</style>
-</section>
+</section> -->
 
 <section data-background-image="assets/imgs/kjk.jpg" data-state=kkd2>
  <style>.kkd2 header:after { content: "Morrison–Knudsen, 1953 — Kajaki Dam and Spillway (2013)"; }</style>
@@ -108,12 +108,12 @@ layout: designing-things
  <style>.apas header:after { content: "APAS-75, 1975 — Androgynous Peripheral Attach System"; }</style>
 </section>
 
-<section data-background-image="assets/imgs/apas89.jpg" data-state=apas89>
+<!-- <section data-background-image="assets/imgs/apas89.jpg" data-state=apas89>
  <style>.apas89 header:after { content: "APAS-89, 1989 — Soviet Buran / Mir"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/apas952.jpg" data-state=apas95>
- <style>.apas95 header:after { content: "APAS-95, 1995 — Shuttle-Mir / ISS"; }</style>
+ <style>.apas95 header:after { content: "APAS-95, 1995 — Shuttle-Mir / ISS"; }</style> -->
 </section>
 
 <section data-background-image="assets/imgs/apas9522.jpg" data-state=apas95>
@@ -169,7 +169,7 @@ layout: designing-things
     <style>.rg2 header:after { content: "Rick Guidice, 1970's — Agricultural modules in cutaway view (multiple toroids)"; }</style>
 </section>
 
-<section data-background-image="assets/imgs/pbd.webp" data-state=dv>
+<!-- <section data-background-image="assets/imgs/pbd.webp" data-state=dv>
     <style>.dv header:after { content: "Voyager 1, 1990 — The Pale Blue Dot"; }</style>
 </section>
 
@@ -183,7 +183,7 @@ layout: designing-things
 
 <section data-background-image="assets/imgs/venera13.webp" data-state=ven>
     <style>.ven header:after { content: "Venera Program, 1981 — Venera 13"; }</style>
-</section>
+</section> -->
 
 <section data-background-image="assets/imgs/hiragasy_2.jpg" data-state=hg>
     <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
