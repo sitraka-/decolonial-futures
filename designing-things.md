@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Designing Things
 layout: designing-things
 ---
 
