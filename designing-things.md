@@ -18,6 +18,11 @@ layout: designing-things
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">0. Introduction</span></h1>
 </section>
 
+<section data-state=cine>
+    <style>.cine header:after { content: "Cinemateque Francaise Website, 2003"; }</style>
+    <iframe title="vimeo-player" src="https://player.vimeo.com/video/41081999?h=4f71bcaf2b" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+</section>
+
 <section data-background-image="assets/imgs/tc_arm.jpg" data-state=tc>
     <style>.tc header:after { content: "Time Conditioning, 2010-2014"; }</style>
 </section>
