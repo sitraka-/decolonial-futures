@@ -1,6 +1,6 @@
 ---
 title: Introduction
-layout: reveal
+layout: designing-things
 ---
 
 <section data-state=h1 >
