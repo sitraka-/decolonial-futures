@@ -20,7 +20,7 @@ layout: designing-things
 
 <section data-state=cine>
     <style>.cine header:after { content: "Cinemateque Francaise Website, 2003"; }</style>
-    <iframe title="vimeo-player" src="https://player.vimeo.com/video/41081999?h=4f71bcaf2b" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+    <iframe data-autoplay title="vimeo-player" src="https://player.vimeo.com/video/41081999?h=4f71bcaf2b" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 </section>
 
 <section data-state=windcon>
@@ -34,7 +34,7 @@ layout: designing-things
 
 <section data-state=gold>
     <style>.gold header:after { content: "Goldwin 0, w/ Takeshi Hayatsu, 2022"; }</style>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/Qo2ntlIHKwo?si=7HRxilZnOBnG09Rc&amp;controls=0&amp;start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe data-autoplay width="1080" height="512" src="https://www.youtube.com/embed/Qo2ntlIHKwo?si=7HRxilZnOBnG09Rc&amp;controls=0&amp;start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-background-image="assets/imgs/tc_arm.jpg" data-state=tc>
@@ -203,7 +203,7 @@ layout: designing-things
 
 <section data-background-image="assets/imgs/rg_dd.png" data-state=neny>
     <style>.neny header:after { content: "Lalao Razafindralambo, 2023 — Dancing on Malagasy music"; }</style>
-    <iframe width="1280" height="512" src="https://www.youtube.com/embed/DJj9cqAqpVc?si=-itL4n4OrdTX2ei4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe data-autoplay width="1280" height="512" src="https://www.youtube.com/embed/DJj9cqAqpVc?si=-itL4n4OrdTX2ei4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
@@ -242,12 +242,12 @@ layout: designing-things
 
 <section data-state=tvoeil>
 <style>.tvoeil header:after { content: "J. K. Raymond Millet, 1947 — La Télévision, œil de demain"; }</style>
-    <iframe width="700" height="500" src="https://www.youtube.com/embed/ZKfOcR7Qbu4?si=PY1-X-VjGGxpOJds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe data-autoplay width="700" height="500" src="https://www.youtube.com/embed/ZKfOcR7Qbu4?si=PY1-X-VjGGxpOJds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-state=mad>
 <style>.mad header:after { content: "Lee Madden, 1967 — 1999 A.D."; }</style>
-    <iframe width="700" height="500" src="https://www.youtube.com/embed/Z0lArfzw59c?si=ygsn0G2ROT8yxRpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe data-autoplay width="700" height="500" src="https://www.youtube.com/embed/Z0lArfzw59c?si=ygsn0G2ROT8yxRpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-background-image="assets/imgs/wfrr.jpg" data-state=wfrr>
@@ -292,12 +292,12 @@ layout: designing-things
 
 <section data-state=header2>
     <style>.header2 header:after { content: "MAID at the Yard Theatre, 2023 — Cosmic Fables"; }</style>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/lkRSJQHlAR0?si=rPOE144y3aAFSK9E&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe data-autoplay width="1080" height="512" src="https://www.youtube.com/embed/lkRSJQHlAR0?si=rPOE144y3aAFSK9E&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-state=ik>
     <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/60uAhggLGOM?si=kkXBncU7AbfT4hqk&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe data-autoplay width="1080" height="512" src="https://www.youtube.com/embed/60uAhggLGOM?si=kkXBncU7AbfT4hqk&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-background-image="assets/imgs/arnem_1.jpg" data-state=arnem>
@@ -307,11 +307,11 @@ layout: designing-things
 </section>
 
 <section data-state=arnem>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/1REQsb9l-ok?si=19w7ViocHrfLSAqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe data-autoplay width="1080" height="512" src="https://www.youtube.com/embed/1REQsb9l-ok?si=19w7ViocHrfLSAqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-state=arnem>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/zEqr0jKqxMY?si=siywqlQqY57XRCKE&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe data-autoplay width="1080" height="512" src="https://www.youtube.com/embed/zEqr0jKqxMY?si=siywqlQqY57XRCKE&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-background-image="assets/imgs/ltm_d.png" data-state=ltm>
@@ -321,7 +321,7 @@ layout: designing-things
 
 <section data-state=ltm_f>
     <style>.ltm_f header:after { content: "VVFA, 2024 — Learning To Moonwalk, Part 1, The Walker"; }</style>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe data-autoplay width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-state=jg>
