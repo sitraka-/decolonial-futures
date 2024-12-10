@@ -44,11 +44,8 @@ layout: designing-things
 <section data-background-image="assets/imgs/tc_arm_1.jpg" data-state=tc>
 </section>
 
-<section data-background-image="assets/imgs/pp1.jpg" data-state=prop>
-    <style>.prop header:after { content: "Prophecy Program, 2013"; }</style>
-</section>
-
 <section data-background-image="assets/imgs/pp2.jpg" data-state=prop>
+    <style>.prop header:after { content: "Prophecy Program, 2013"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/pp3.jpg" data-state=prop>
