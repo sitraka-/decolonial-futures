@@ -25,6 +25,28 @@ layout: designing-things
 <section data-background-image="assets/imgs/tc_arm_1.jpg" data-state=tc>
 </section>
 
+<section data-background-image="assets/imgs/pp1.jpg" data-state=pp>
+    <style>.pp header:after { content: "Prophecy Program, 2013"; }</style>
+</section>
+
+<section data-background-image="assets/imgs/pp2.jpg" data-state=pp>
+</section>
+
+<section data-background-image="assets/imgs/pp3.jpg" data-state=pp>
+</section>
+
+<section data-background-image="assets/imgs/pp4.jpg" data-state=pp>
+</section>
+
+<section data-background-image="assets/imgs/pp5.jpg" data-state=pp>
+</section>
+
+<section data-background-image="assets/imgs/pp6.jpg" data-state=pp>
+</section>
+
+<section data-background-image="assets/imgs/pp22.jpg" data-state=pp>
+</section>
+
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">1. Design Poetics</span></h1>
