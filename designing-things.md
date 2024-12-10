@@ -23,6 +23,20 @@ layout: designing-things
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/41081999?h=4f71bcaf2b" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 </section>
 
+<section data-state=windcon>
+    <style>.windcon header:after { content: "Wind Concert, 2015"; }</style>
+    <img src="assets/imgs/windCon_1.jpg" />
+</section>
+
+<section data-background-image="assets/imgs/windCon_1.jpg" data-state=windcon>
+    <img src="assets/imgs/windCon_2.jpg" />
+</section>
+
+<section data-state=gold>
+    <style>.gold header:after { content: "Goldwin 0, w/ Takeshi Hayatsu, 2022"; }</style>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/Qo2ntlIHKwo?si=7HRxilZnOBnG09Rc&amp;controls=0&amp;start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
 <section data-background-image="assets/imgs/tc_arm.jpg" data-state=tc>
     <style>.tc header:after { content: "Time Conditioning, 2010-2014"; }</style>
 </section>
@@ -50,11 +64,6 @@ layout: designing-things
 </section>
 
 <section data-background-image="assets/imgs/pp22.jpg" data-state=prop>
-</section>
-
-<section data-state=gold>
-    <style>.gold header:after { content: "Goldwin 0, w/ Takeshi Hayatsu, 2022"; }</style>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/Qo2ntlIHKwo?si=7HRxilZnOBnG09Rc&amp;controls=0&amp;start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
