@@ -18,6 +18,10 @@ layout: designing-things
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">0. Introduction</span></h1>
 </section>
 
+<section data-background-image="assets/imgs/tc_arm.jpg" data-state=tc>
+    <style>.tc header:after { content: "Time Conditioning, 2010-2014"; }</style>
+</section>
+
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">1. Design Poetics</span></h1>
