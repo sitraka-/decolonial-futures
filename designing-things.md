@@ -39,7 +39,7 @@ layout: designing-things
 
 <section data-state=sj>
     <style>.sj header:after { content: "Sea Things, w/ Sam Jacob, 2019"; }</style>
-    <img src="assets/imgs/sj.jpg" style="max-height:55vh;" />
+    <img src="assets/imgs/sj.jpg" style="max-height:70vh;" />
 </section>
 
 <section data-background-image="assets/imgs/sj2.jpg" data-state=sj>
