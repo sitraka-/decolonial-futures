@@ -37,8 +37,15 @@ layout: designing-things
     <iframe data-autoplay width="1080" height="512" src="https://www.youtube.com/embed/Qo2ntlIHKwo?si=7HRxilZnOBnG09Rc&amp;controls=0&amp;start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
+<section data-background-image="assets/imgs/sj.jpg" data-state=sj>
+    <style>.sj header:after { content: "Sea Things, w/ Sam Jacob, 2019"; }</style>
+</section>
+
+<section data-background-image="assets/imgs/sj2.jpg" data-state=sj>
+    <style>.sj header:after { content: "Sea Things, w/ Sam Jacob, 2019"; }</style>
+</section>
+
 <section data-background-image="assets/imgs/tc_arm.jpg" data-state=tc>
-    <style>.tc header:after { content: "Time Conditioning, 2010-2014"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/tc_arm_1.jpg" data-state=tc>
