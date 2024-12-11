@@ -37,8 +37,9 @@ layout: designing-things
     <iframe data-autoplay width="1080" height="512" src="https://www.youtube.com/embed/Qo2ntlIHKwo?si=7HRxilZnOBnG09Rc&amp;controls=0&amp;start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
-<section data-background-image="assets/imgs/sj.jpg" data-state=sj>
+<section data-state=sj>
     <style>.sj header:after { content: "Sea Things, w/ Sam Jacob, 2019"; }</style>
+    <img src="assets/imgs/sj.jpg" style="max-height:55vh;" />
 </section>
 
 <section data-background-image="assets/imgs/sj2.jpg" data-state=sj>
