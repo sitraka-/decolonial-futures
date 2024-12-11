@@ -311,14 +311,15 @@ layout: designing-things
 <section data-background-image="assets/imgs/arnem_1.jpg" data-state=arnem>
     <style>.arnem header:after { content: "Artez Product Design, 2024"; }</style>
 </section>
-<section data-background-image="assets/imgs/arnem_2.jpg" data-state=arnem>
-</section>
 
-<section data-state=arnem>
+<section data-background-image="assets/imgs/arnem_1.jpg" data-state=arnem>
     <iframe data-autoplay width="1080" height="512" src="https://www.youtube.com/embed/1REQsb9l-ok?si=19w7ViocHrfLSAqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
-<section data-state=arnem>
+<section data-background-image="assets/imgs/arnem_2.jpg" data-state=arnem>
+</section>
+
+<section data-background-image="assets/imgs/arnem_2.jpg" data-state=arnem>
     <iframe data-autoplay width="1080" height="512" src="https://www.youtube.com/embed/zEqr0jKqxMY?si=siywqlQqY57XRCKE&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
