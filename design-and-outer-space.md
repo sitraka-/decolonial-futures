@@ -5,7 +5,11 @@ layout: future-space
 
 <section data-state=h1 >
  <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; }</style>
-    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Design And Outer Space</h1>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Design & Outer Space</h1>
+
+<aside class="notes">
+    Shhh, these are your private notes 📝
+  </aside>
 </section>
 
 <section data-background-image="assets/imgs/mothership-landing_2.jpg" data-state=h2>
