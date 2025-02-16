@@ -184,11 +184,6 @@ layout: future-space
     <style>.dd header:after { content: "UK Design Council, 2004 — Double Diamond"; }</style>
 </section> -->
 
-<section data-background-image="assets/imgs/pa.jpg" data-state=pa>
-    <style>.pa header:after { content: "Arturo Escobar, 2018 — Paraphrasing Paola Antonelli"; }</style>
-    <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
-</section>
-
 <!-- <section data-background-image="assets/imgs/artez_2.png" data-state=gh>
     <style>.gh header:after { content: "VVFA, 2024 — Sounds From Somewhere"; }</style>
     <h1 class="NT" style="font-family:'Lithops' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 11rem !important;" >Critical<br>Making</h1>
@@ -211,6 +206,11 @@ layout: future-space
 <section data-background-image="assets/imgs/stamp.jpg" data-state=kj1>
     <style>.kj1 header:after { content: "Khaled Jarrar, 2012 — State Of Palestine"; }</style>
     <span class="quotes">By bringing ideas into existence, design constructs new meanings, realities, and experiences, literally spawning new worlds as it interacts with its environment—shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.</span>
+</section>
+
+<section data-background-image="assets/imgs/pa.jpg" data-state=pa>
+    <style>.pa header:after { content: "Arturo Escobar, 2018 — Paraphrasing Paola Antonelli"; }</style>
+    <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
 </section>
 
 <section data-background-image="assets/imgs/mdrs.jpg" data-state=mdrs>
