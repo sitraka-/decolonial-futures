@@ -19,7 +19,31 @@ layout: future-space
     <style>.prop header:after { content: "Prophecy Program, 2013"; }</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color:blue;" >\' \' ≠ .\</h1>
     <aside class="notes">
-    And beside my academic practice I also run a research and design studio called Very Very Far Away or VVFA
+    - And beside my academic practice I also run a research and design studio called Very Very Far Away or VVFA<br>
+    - and we specialise in object based interactions, where the type of work may vary from experiments 
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/tc_arm.jpg" data-state=tc>
+    <style>.tc header:after { content: "Time Conditioning, 2010-14"; }</style>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color:blue;" >\' \' ≠ .\</h1>
+    <aside class="notes">
+    - To devices
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/pp4.jpg" data-state=prop>
+ <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color:blue;" >\' \' ≠ .\</h1>
+<aside class="notes">
+    - To installations
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/eyefi2.jpg" data-state=eyefi>
+<style>.eyefi header:after { content: "Eye Fi ii, 2024"; }</style>
+ <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color:blue;" >\' \' ≠ .\</h1>
+<aside class="notes">
+    - To specialised furniture
   </aside>
 </section>
 
