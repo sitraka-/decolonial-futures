@@ -135,24 +135,33 @@ layout: future-space
   </aside>
 </section>
 
-<section data-background-image="assets/imgs/sd.jpg" data-state=sd>
+<!-- <section data-background-image="assets/imgs/sd.jpg" data-state=sd>
  <style>.sd header:after { content: "Corporación autónoma regional del Valle del Cauca, 1985 — Salvajina Dam (—, 2011)"; }</style>
-</section>
+</section> -->
 
 <section data-background-image="assets/imgs/kjk.jpg" data-state=kkd2>
  <style>.kkd2 header:after { content: "Morrison–Knudsen, 1953 — Kajaki Dam and Spillway (2013)"; }</style>
  <span class="quotes">Designs do not exist in isolation; they operate within assemblages where artefacts, practices, and power relations converge, reinforcing or disrupting, reshaping and reconfiguring broader social structures.</span>
 </section>
 
-<section data-background-image="assets/imgs/sa_0.jpg" data-state=sa>
+<section data-background-image="assets/imgs/saa_0.jpg" data-state=sa>
  <style>.sa header:after { content: "American astronaut Deke Slayton and Russian cosmonaut Alexei Leonov, 1975 — US-Soviet Apollo-Soyuz linkup"; }</style>
+  <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Negotiation</span></h1>
+ <aside class="notes">
+    - Another dimension and compelling example I wanted to show before moving onto my practice, is the APAS airlock system, developed in the 1970s for docking Soyuz and Apollo spacecraft together. <br><br>
+    - Here are Deke Slayton and Alexei Leonov meeting through the airlock in 1975 durint the first apollo Soyuz link up.
+  </aside>
 </section>
 
 <section data-background-image="assets/imgs/sa_1.jpg" data-state=sa2>
  <style>.sa2 header:after { content: "Apollo-Soyuz Test Project, 1975 — Commemorative Plaque"; }</style>
+  <aside class="notes">
+    - APAS stands for Androgynous Peripheral Attach System. Beyond the symbolic image of two superpowers collaborating during the height of the Cold War, the design choice for the airlock to be androgynous—neither male nor female—was a deliberate diplomatic decision. <br><br>
+    - it reflects deeper social norms. In a patriarchal context where being “penetrated” could be seen as a sign of submission or weakness. This patriarchal logic directly influenced the technical design, showing that even seemingly neutral engineering decisions are deeply intertwined with social and political forces.
+  </aside>
 </section>
 
-<section data-background-image="assets/imgs/apas.jpg" data-state=apas>
+<!-- <section data-background-image="assets/imgs/apas.jpg" data-state=apas>
  <style>.apas header:after { content: "APAS-75, 1975 — Androgynous Peripheral Attach System"; }</style>
 </section>
 
@@ -162,22 +171,25 @@ layout: future-space
 
 <section data-background-image="assets/imgs/apas952.jpg" data-state=apas95>
  <style>.apas95 header:after { content: "APAS-95, 1995 — Shuttle-Mir / ISS"; }</style>
-</section>
+</section> -->
 
 <section data-background-image="assets/imgs/apas9522.jpg" data-state=apas95>
-<span class="quotes">Design itself is an assemblage, composed of interconnected elements—ideas, practices, technologies, and social norms—that operate within broader networks. It never stands alone but constantly interacts with larger systems, reinforcing or challenging the structures within which it exists.</span>
+<span class="quotes">Design itself is an assemblage—a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces that shape and are shaped by the world around it.</span>
+<aside class="notes">
+    - Design itself is an assemblage—a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces, as seen in the APAS system, where political tensions, cultural anxieties, and technical requirements were all entangled in the final design.
+  </aside>
 </section>
 
-<section data-background-image="assets/imgs/DD2.jpg" data-state=dd>
+<!-- <section data-background-image="assets/imgs/DD2.jpg" data-state=dd>
     <style>.dd header:after { content: "UK Design Council, 2004 — Double Diamond"; }</style>
-</section>
+</section> -->
 
 <section data-background-image="assets/imgs/pa.jpg" data-state=pa>
     <style>.pa header:after { content: "Arturo Escobar, 2018 — Paraphrasing Paola Antonelli"; }</style>
     <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
 </section>
 
-<section data-background-image="assets/imgs/artez_2.png" data-state=gh>
+<!-- <section data-background-image="assets/imgs/artez_2.png" data-state=gh>
     <style>.gh header:after { content: "VVFA, 2024 — Sounds From Somewhere"; }</style>
     <h1 class="NT" style="font-family:'Lithops' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 11rem !important;" >Critical<br>Making</h1>
 </section>
@@ -188,8 +200,8 @@ layout: future-space
 </section>
 
 <section data-background-image="assets/imgs/artez_2.png" data-state=mr>
-    <span class="quotes">‘Critical thinking,’ often considered as abstract, explicit, linguistically based, internal and cognitively individualistic;<br><br>and ‘making,’ typically understood as material, tacit, embodied, external and community-oriented.</span>
-</section>
+    <span class="quotes">‘Critical thinking,’ often considered as abstract, explicit, linguistically based, internal and cognitively individualistic;<br><br>and ‘making,’ typically understood as material, tacit, embodied, external and community-oriented.</span> 
+</section> -->
 
 <section data-background-image="assets/imgs/empathics_32.jpg" data-state=sw1>
     <style>.sw1 header:after { content: "Saya Woolfalk, 2012 — The Empathics"; }</style>
