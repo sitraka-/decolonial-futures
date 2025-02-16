@@ -122,7 +122,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/kkdam2.jpg" data-state=kkd>
  <style>.kkd header:after { content: "Morrison–Knudsen, 1953 — Aerial View of the Kajaki Dam (USAID Afghanistan, 2007)"; }</style>
- <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Artefacts As Agents</span></h1>
+ <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;color: yellow;">Artefacts As Agents</span></h1>
  <aside class="notes">
     - Every artefact, whether a chair, a city, or a spacecraft, participates in the shaping of societal values and power structures. And therefore indicate that design is inherently political. <br><br>
     - And ofcourse artefacts themselves have agency, influencing human behaviour and social structures beyond their intended use. 
@@ -131,7 +131,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/kkdam.jpg" data-state=kkd>
  <aside class="notes">
-    - The Kajaki Dam, built in the 1950s with U.S. funding to modernise Afghanistan, is a clear example of this. It was meant to provide irrigation and hydroelectric power, but it flooded large areas of farmland, displacing many local farmers. The new irrigation systems often favoured larger landowners, leaving small farmers struggling. With few other options, many turned to growing poppies, as the improved irrigation made the land ideal for cultivating this resilient and highly profitable crop, fueling the opium trade. Here, the dam becomes an agent in the socio-political landscape, enabling unforeseen consequences and reshaping realities. This highlights design’s dual role—both enforcing political agendas and producing unintended societal impacts. The modernisation efforts reflected a Western gaze, imposing ideas of modernity onto a landscape and culture they barely understood. This shows how design is always political and shapes worldviews.
+    - The Kajaki Dam, built in the 1950s with U.S. funding to modernise Afghanistan, is a clear example of this. It was meant to provide irrigation and hydroelectric power, but it flooded large areas of farmland, displacing many local farmers. The new irrigation systems often favoured larger landowners, leaving small farmers struggling. With few other options, many turned to growing poppies, as the improved irrigation made the land ideal for cultivating this resilient and highly profitable crop, fueling the opium trade. Here, the dam becomes an agent in the socio-political landscape, enabling unforeseen consequences and reshaping realities. 
   </aside>
 </section>
 
