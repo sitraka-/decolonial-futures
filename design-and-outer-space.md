@@ -8,7 +8,9 @@ layout: future-space
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Design & Outer Space</h1>
 
 <aside class="notes">
-    Shhh, these are your private notes 📝
+    Hello, my name is Sitraka Rakotoniaina,<br>
+    I am an Artist, designer from Madagascar and currently living and working in London.<br>
+    
   </aside>
 </section>
 
