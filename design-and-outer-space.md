@@ -144,7 +144,7 @@ layout: future-space
  <span class="quotes">Designs do not exist in isolation; they operate within assemblages where artefacts, practices, and power relations converge, reinforcing or disrupting, reshaping and reconfiguring broader social structures.</span>
 </section>
 
-<section data-background-image="assets/imgs/saa_0.jpg" data-state=sa>
+<section data-background-image="assets/imgs/saaa_0.jpg" data-state=sa>
  <style>.sa header:after { content: "American astronaut Deke Slayton and Russian cosmonaut Alexei Leonov, 1975 — US-Soviet Apollo-Soyuz linkup"; }</style>
   <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Negotiation</span></h1>
  <aside class="notes">
