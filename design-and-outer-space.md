@@ -80,7 +80,7 @@ layout: future-space
   </aside>
 </section>
 
-<section data-background-image="assets/imgs/rm.jpg" data-state=rm>
+<section data-background-image="assets/imgs/rmm.jpg" data-state=rm>
  <style>.rm header:after { content: "Postcard, 1930—1945 — Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
  <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Control</span></h1>
  <aside class="notes">
@@ -89,7 +89,7 @@ layout: future-space
   </aside>
 </section>
 
-<section data-background-image="assets/imgs/mosesbeamjpg" data-state=rmb>
+<section data-background-image="assets/imgs/mosesbeam.jpg" data-state=rmb>
  <style>.rmb header:after { content: "Arnold Newman Archives, Early 1970's — Robert Moses with the United Nations in the background"; }</style>
  <!-- <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics;<br><br>Artefacts have politics, and these politics permeate through everyday practices and material cultures.</span> -->
  <aside class="notes">
@@ -97,7 +97,7 @@ layout: future-space
   </aside>
 </section>
 
-<section data-background-image="assets/imgs/rm_23.jpg" data-state=rm2>
+<section data-background-image="assets/imgs/rm_2.jpg" data-state=rm2>
  <style>.rm2 header:after { content: "Pictorial Parade, 1960 — Cars on a section of the Southern State Parkway"; }</style>
  <!-- <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics;<br><br>Artefacts have politics, and these politics permeate through everyday practices and material cultures.</span> -->
  <aside class="notes">
