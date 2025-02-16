@@ -1,6 +1,6 @@
 ---
 title: Design And Outer Space
-layout: reveal
+layout: future-space
 ---
 
 <section data-state=h1 >
