@@ -10,7 +10,7 @@ layout: future-space
 <aside class="notes">
     Hello, my name is Sitraka Rakotoniaina,<br>
     I am an Artist, designer from Madagascar and currently living and working in London.<br>
-    
+    I'm also an educator, I am a lecturer at Central Saint Martins
   </aside>
 </section>
 
