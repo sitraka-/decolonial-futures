@@ -10,7 +10,17 @@ layout: future-space
 <aside class="notes">
     Hello, my name is Sitraka Rakotoniaina,<br>
     I am an Artist, designer from Madagascar and currently living and working in London.<br>
-    I'm also an educator, I am a lecturer at Central Saint Martins
+    I'm also an educator, I am a lecturer at Central Saint Martins, in the MA Narrative Environments and Industrial Design courses. I'm also an Associate Lecturer in the MA Fashion Futures at London College of Fashion, and I also lecture at Goldsmiths University in the MA Expanded Practice.<br>
+    And I'm currently doing a PhD in design at the University Of The Arts London.<br>
+    And beside my academic practice I also run a research and design studio called Very Very Far Away
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/pp2.jpg" data-state=prop>
+    <style>.prop header:after { content: "Prophecy Program, 2013"; }</style>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >\'\'≠.\</h1>
+    <aside class="notes">
+    And beside my academic practice I also run a research and design studio called Very Very Far Away
   </aside>
 </section>
 
