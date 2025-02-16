@@ -17,7 +17,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/pp2.jpg" data-state=prop>
     <style>.prop header:after { content: "Prophecy Program, 2013"; }</style>
-    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color: yellow;-webkit-text-stroke: 1px black;" >\' \' ≠ .\</h1>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color: yellow;-webkit-text-stroke: 1px rgb(17, 17, 17);" >\' \' ≠ .\</h1>
     <aside class="notes">
     - And beside my academic practice I also run a research and design studio called Very Very Far Away or VVFA<br>
     - and we specialise in object based interactions, where the type of work may vary from experiments 
@@ -26,14 +26,14 @@ layout: future-space
 
 <section data-background-image="assets/imgs/tc_arm.jpg" data-state=tc>
     <style>.tc header:after { content: "Time Conditioning, 2010-14"; }</style>
-    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color: yellow;-webkit-text-stroke: 1px black;" >\' \' ≠ .\</h1>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color: yellow;-webkit-text-stroke: 1px rgb(17, 17, 17);" >\' \' ≠ .\</h1>
     <aside class="notes">
     - To devices
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/pp4.jpg" data-state=prop>
- <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color: yellow;-webkit-text-stroke: 1px black;" >\' \' ≠ .\</h1>
+ <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color: yellow;-webkit-text-stroke: 1px rgb(17, 17, 17);" >\' \' ≠ .\</h1>
 <aside class="notes">
     - To installations
   </aside>
@@ -41,7 +41,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/eyefi2.jpg" data-state=eyefi>
 <style>.eyefi header:after { content: "Eye Fi ii, 2024"; }</style>
- <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color: yellow;-webkit-text-stroke: 1px black;" >\' \' ≠ .\</h1>
+ <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color: yellow;-webkit-text-stroke: 1px rgb(17, 17, 17);" >\' \' ≠ .\</h1>
 <aside class="notes">
     - To specialised furniture
   </aside>
@@ -82,7 +82,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/rm.jpg" data-state=rm>
  <style>.rm header:after { content: "Postcard, 1930—1945 — Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
- <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;color: yellow;-webkit-text-stroke: 1px black;">Design As Control</span></h1>
+ <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;color: yellow;-webkit-text-stroke: 1px rgb(17, 17, 17);">Design As Control</span></h1>
  <aside class="notes">
     - But before diving into some of my own work and approaches, I want to briefly highlight a few dimensions through which design manifests this duality using a couple of examples. <br><br>
     - Each example embodies this tension: design as both an active force in shaping social, cultural, and political realities, and as a system that makes those realities seem inevitable or natural.
@@ -108,7 +108,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/cmen.jpg" data-state=cmen>
     <style>.cmen header:after { content: "Codex Mendoza, 1541"; }</style>
-     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;color: yellow;-webkit-text-stroke: 1px black;">Design As Cultural Mediation</span></h1>
+     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;color: yellow;-webkit-text-stroke: 1px rgb(17, 17, 17);">Design As Cultural Mediation</span></h1>
     <aside class="notes">
     - The Codex Mendoza, created around 1541 in Mexico, was intended to document Aztec life for the Spanish Crown. More than a historical record, it helped legitimise Spanish conquest by showing the Aztecs as an organised society that already paid tribute and followed complex systems of control. it detailed how the Aztec Empire collected tribute, managed labour, and maintained social order—making it easier for the Spanish to justify their own rule. It also highlighted the Aztecs' military conquests, framing Spanish colonisation as just another step in an ongoing cycle of power and control. 
   </aside>
@@ -122,7 +122,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/kkdam2.jpg" data-state=kkd>
  <style>.kkd header:after { content: "Morrison–Knudsen, 1953 — Aerial View of the Kajaki Dam (USAID Afghanistan, 2007)"; }</style>
- <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;color: yellow;-webkit-text-stroke: 1px black;">Artefacts As Agents</span></h1>
+ <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;color: yellow;-webkit-text-stroke: 1px rgb(17, 17, 17);">Artefacts As Agents</span></h1>
  <aside class="notes">
     - Every artefact, whether a chair, a city, or a spacecraft, participates in the shaping of societal values and power structures. And therefore indicate that design is inherently political. <br><br>
     - And ofcourse artefacts themselves have agency, influencing human behaviour and social structures beyond their intended use. 
