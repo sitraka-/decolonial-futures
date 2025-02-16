@@ -17,7 +17,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/pp2.jpg" data-state=prop>
     <style>.prop header:after { content: "Prophecy Program, 2013"; }</style>
-    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >\'\'≠.\</h1>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 17rem !important;color:blue;" >\' \' ≠ .\</h1>
     <aside class="notes">
     And beside my academic practice I also run a research and design studio called Very Very Far Away or VVFA
   </aside>
