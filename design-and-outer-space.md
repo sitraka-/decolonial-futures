@@ -82,7 +82,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/rmm.png" data-state=rm>
  <style>.rm header:after { content: "Postcard, 1930—1945 — Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
- <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Control</span></h1>
+ <h1 class="NT" style="font-family:'grotesk' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Control</span></h1>
  <aside class="notes">
     - One quite famous example of control is Robert Moses's urban infrastructures, particularly the low hanging overpasses on parkways to Long Island beaches, <br><br>
   </aside>
@@ -106,7 +106,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/cmenn.jpg" data-state=cmen>
     <style>.cmen header:after { content: "Codex Mendoza, 1541"; }</style>
-     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Cultural Mediation</span></h1>
+     <h1 class="NT" style="font-family:'grotesk' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Cultural Mediation</span></h1>
     <aside class="notes">
     - Another dimension of control is design's ability to mediate cultural narratives
     - The Codex Mendoza, created around 1541 in Mexico is an interesting example ... 
