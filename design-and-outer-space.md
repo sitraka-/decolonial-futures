@@ -222,23 +222,31 @@ layout: future-space
 <section data-background-image="assets/imgs/elk.webp" data-state=elk>
     <style>.elk header:after { content: "Blue Origin, 2019 — O’Neill colonies"; }</style>
     <aside class="notes">
-    - O’Neill’s visions and by extension Bezos' interpretation, while seemingly technically ambitious, operate within the existing social and political frameworks...
+    - While critical and speculative approaches can aim to challenge dominant realities and reframe the conditions we inhabit, not all speculative visions share this intent. Some, like O’Neill’s space colony concepts—and more recently Bezos’ interpretation of them...
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/rg2.jpg" data-state=rg>
     <style>.rg header:after { content: "Rick Guidice, 1970's — Interior view looking out through large windows"; }</style>
     <aside class="notes">
-    - Extending the status quo into space rather than challenging or transforming it. Y
+    - —present futures that, despite their technical ambition, remain tethered to existing social and political frameworks. These visions project today’s hierarchies and inequities into the future, offering continuity rather than transformation...
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/mdrs.jpg" data-state=mdrs>
     <style>.mdrs header:after { content: "The Mars Society, 2001 — Mars Desert Research Station"; }</style>
     <aside class="notes">
-    - Whilst, on the other hand, I'm interested in an approach that leverages design’s social and material dimensions to imagine and experiment with alternative ways of being—using tangible design processes to critique and reframe existing structures, not simply replicate them in new contexts.
+    - When thinking about approaches that imagine and experiment with alternative ways of being—rather than simply replicating existing structures in new contexts—Lisa Messeri’s use of material instantiation is particularly compelling. <br><br>
+    -In her discussion of scientists working at the Mars Desert Research Station, she highlights how data becomes infused with narrative possibilities. While Messeri describes this as a juxtaposition of Mars and Earth—two places present at once—
   </aside>
 </section>
+
+<section data-background-image="assets/imgs/mdrs_.png" data-state=mdrs>
+    <aside class="notes">
+    - this overlap can also be understood as generating a kind of third space, where new dynamics, relationships to objects, things, and rituals emerge—like the simple yet telling act of wiping condensation from the inside of a helmet with a tissue using your tongue.
+  </aside>
+</section>
+
 <!-- 
 <section data-background-image="assets/imgs/rg3.jpg" data-state=rg2>
     <style>.rg2 header:after { content: "Rick Guidice, 1970's — Agricultural modules in cutaway view (multiple toroids)"; }</style>
