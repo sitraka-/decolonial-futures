@@ -283,25 +283,28 @@ layout: future-space
   </aside>
 </section>
 
-<section data-state=hgw>
-    <style>.hgw header:after { content: "Miora Rajaonary, 2018 — Two couples from a Hira Gasy troupe pose with their lamba and costumes in Antananarivo"; }</style>
-    <img src="assets/imgs/hiragasy_.png" style="max-height:70vh;" />
+<section data-state=hg data-background-image="assets/imgs/hiragasy_.png">
     <aside class="notes">
-    - One example I want to share is the Hira Gasy, a traditional Malagasy performance, offers a vivid example of speculative ethnography in practice. Costumes from the Merina Kingdom of the 19th century drew on European military attire—jackets, trousers, and sashes—not as mere imitation, but as a reinterpretation. Woven with vibrant Malagasy patterns, these garments transformed symbols of colonial authority into expressions of local identity and autonomy. Here, the Merina engaged in a speculative reimagining of ‘Europeanness,’ using design to assert cultural agency and resist imposed narratives.
+    - One example I want to share is the Hira Gasy, a traditional Malagasy performance, offers a vivid example of speculative ethnography in practice. Costumes from the Merina Kingdom of the 19th century drew on European military attire—jackets, trousers, and sashes—not as mere imitation, but as a reinterpretation. Woven with vibrant Malagasy patterns, these garments transformed symbols of colonial authority into expressions of local identity and autonomy. <br><br>
+    - Here, the Merina engaged in a speculative reimagining of ‘Europeanness,’ using design to assert cultural agency and resist imposed narratives.
   </aside>
 </section>
 
-<section data-background-image="assets/imgs/rg_dd.png" data-state=neny>
+<!-- <section data-background-image="assets/imgs/rg_dd.png" data-state=neny>
     <style>.neny header:after { content: "Lalao Razafindralambo, 2023 — Dancing on Malagasy music"; }</style>
     <iframe width="1280" height="512" src="https://www.youtube.com/embed/DJj9cqAqpVc?si=-itL4n4OrdTX2ei4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</section>
+</section> -->
 
 <section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
     <style>.kesh header:after { content: "Ursula K. LeGuin & Todd Barton, 1985 — Music and poetry of the Kesh"; }</style>
+    <aside class="notes">
+    - On the other end of the spectrum, Ursula Le Guin and Todd Barton’s Music and Poetry of the Kesh offers a good example of speculative ethnography through fiction. Created alongside Le Guin’s novel Always Coming Home, this recording brings to life the Kesh—a fictional community in post-apocalyptic Northern California—through their songs, poems, and spoken word. <br><br>
+    - The Kesh’s culture, shaped by communal values and deep ties to the land, is vividly realised not just through narrative but through maps, recipes, and artefacts within the novel.
+  </aside>
 </section>
 
-<section data-background-image="assets/imgs/kesh2.jpg" data-state=kesh>
-</section>
+<!-- <section data-background-image="assets/imgs/kesh2.jpg" data-state=kesh>
+</section> -->
 
 <section data-background-image="assets/imgs/cs_22.png" data-state=cs>
     <style>.cs header:after { content: "Luigi Serafini, 1981 — Codex Seraphinianus"; }</style>
