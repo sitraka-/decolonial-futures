@@ -201,7 +201,7 @@ layout: future-space
     <style>.sw1 header:after { content: "Saya Woolfalk, 2012 — The Empathics"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
     <aside class="notes">
-    - These dimensions of design—control, negotiation, agency, and cultural mediation—are characteristic of how I approach critical and speculative design practice.
+    - These dimensions of design—control, negotiation, agency, and cultural mediation—are characteristic of how I approach critical and speculative design practice, which i use to think about design poiesis
   </aside>
 </section>
 
@@ -213,23 +213,36 @@ layout: future-space
 <section data-background-image="assets/imgs/pa.jpg" data-state=pa>
     <style>.pa header:after { content: "Arturo Escobar, 2018 — Paraphrasing Paola Antonelli"; }</style>
     <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
-</section>
-
-<section data-background-image="assets/imgs/mdrs.jpg" data-state=mdrs>
-    <style>.mdrs header:after { content: "The Mars Society, 2001 — Mars Desert Research Station"; }</style>
+    <aside class="notes">
+    - this is Arturo Escobar paraphrasing Paola Antonelli<br><br>
+    - Design approaches like this are critical, activist, and political. They emphasise thinkering—thinking through making—where hands-on experimentation shapes ideas. It’s less about solving problems and more about discovering and reframing them. This resonates with critical making, where the process of crafting itself becomes a tool for questioning and imagining, creating functional social fictions that challenge existing realities or produce speculation grounded in real social and material conditions.
+  </aside>
 </section>
 
 <section data-background-image="assets/imgs/elk.webp" data-state=elk>
     <style>.elk header:after { content: "Blue Origin, 2019 — O’Neill colonies"; }</style>
+    <aside class="notes">
+    - O’Neill’s visions and by extension Bezos' interpretation, while seemingly technically ambitious, operate within the existing social and political frameworks...
+  </aside>
 </section>
 
 <section data-background-image="assets/imgs/rg2.jpg" data-state=rg>
     <style>.rg header:after { content: "Rick Guidice, 1970's — Interior view looking out through large windows"; }</style>
+    <aside class="notes">
+    - Extending the status quo into space rather than challenging or transforming it. Y
+  </aside>
 </section>
 
+<section data-background-image="assets/imgs/mdrs.jpg" data-state=mdrs>
+    <style>.mdrs header:after { content: "The Mars Society, 2001 — Mars Desert Research Station"; }</style>
+    <aside class="notes">
+    - Whilst, on the other hand, I'm interested in an approach that leverages design’s social and material dimensions to imagine and experiment with alternative ways of being—using tangible design processes to critique and reframe existing structures, not simply replicate them in new contexts.
+  </aside>
+</section>
+<!-- 
 <section data-background-image="assets/imgs/rg3.jpg" data-state=rg2>
     <style>.rg2 header:after { content: "Rick Guidice, 1970's — Agricultural modules in cutaway view (multiple toroids)"; }</style>
-</section>
+</section> -->
 
 <section data-background-image="assets/imgs/pbd.webp" data-state=dv>
     <style>.dv header:after { content: "Voyager 1, 1990 — The Pale Blue Dot"; }</style>
