@@ -82,7 +82,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/rmm.png" data-state=rm>
  <style>.rm header:after { content: "Postcard, 1930—1945 — Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
- <h1 class="NT" style="font-family:'grotesk' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Control</span></h1>
+ <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Control</span></h1>
  <aside class="notes">
     - One quite famous example of control is Robert Moses's urban infrastructures, particularly the low hanging overpasses on parkways to Long Island beaches, <br><br>
   </aside>
@@ -106,7 +106,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/cmenn.jpg" data-state=cmen>
     <style>.cmen header:after { content: "Codex Mendoza, 1541"; }</style>
-     <h1 class="NT" style="font-family:'grotesk' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Cultural Mediation</span></h1>
+     <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Cultural Mediation</span></h1>
     <aside class="notes">
     - Another dimension of control is design's ability to mediate cultural narratives
     - The Codex Mendoza, created around 1541 in Mexico is an interesting example ... 
@@ -122,7 +122,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/kkdamm2.jpg" data-state=kkd>
  <style>.kkd header:after { content: "Morrison–Knudsen, 1953 — Aerial View of the Kajaki Dam (USAID Afghanistan, 2007)"; }</style>
- <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Artefacts As Agents</span></h1>
+ <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Artefacts As Agents</span></h1>
  <aside class="notes">
     - Every artefact, whether a chair, a bridge, or a spacecraft, participates in the shaping of societal values and power structures—and therefore reaffirms what we know: that design is inherently political. <br><br>
     - And that artefacts themselves have agency, influencing human behaviour and social structures beyond their intended use. 
@@ -146,7 +146,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/saaa_0.jpg" data-state=sa>
  <style>.sa header:after { content: "American astronaut Deke Slayton and Russian cosmonaut Alexei Leonov, 1975 — US-Soviet Apollo-Soyuz linkup"; }</style>
-  <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Negotiation</span></h1>
+  <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Negotiation</span></h1>
  <aside class="notes">
     - Another dimension I thought was compelling is design as a negotiating force. <br><br>
     - Here are Deke Slayton and Alexei Leonov meeting through the APAS airlock system in 1975 during the first apollo Soyuz link up, where a Soyuz and Apollo spacecraft successfully docked together.
@@ -278,6 +278,9 @@ layout: future-space
 <section data-background-image="assets/imgs/hiragasy_2.jpg" data-state=hg>
     <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
     <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 7.9rem !important;" >Speculative<br>Ethnographies</h1>
+    <aside class="notes">
+    - From this interplay of imaginaries, worldviews, and designs emerges the potential for alternative, speculative worlds. Speculative ethnographies offer a way to bring these futures into tangible forms—reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
+  </aside>
 </section>
 
 <section data-state=hgw>
