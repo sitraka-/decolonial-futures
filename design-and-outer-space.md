@@ -147,16 +147,16 @@ layout: future-space
  <style>.sa header:after { content: "American astronaut Deke Slayton and Russian cosmonaut Alexei Leonov, 1975 — US-Soviet Apollo-Soyuz linkup"; }</style>
   <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Negotiation</span></h1>
  <aside class="notes">
-    - Another dimension and compelling example I wanted to show before moving onto my practice, is the APAS airlock system, developed in the 1970s for docking Soyuz and Apollo spacecraft together. <br><br>
-    - Here are Deke Slayton and Alexei Leonov meeting through the airlock in 1975 durint the first apollo Soyuz link up.
+    - Another dimension I thought was compelling is design as a negotiating force. <br><br>
+    - Here are Deke Slayton and Alexei Leonov meeting through the APAS airlock system in 1975 during the first apollo Soyuz link up, where a Soyuz and Apollo spacecraft successfully docked together.
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/sa_1.jpg" data-state=sa2>
  <style>.sa2 header:after { content: "Apollo-Soyuz Test Project, 1975 — Commemorative Plaque"; }</style>
   <aside class="notes">
-    - APAS stands for Androgynous Peripheral Attach System. Beyond the symbolic image of two superpowers collaborating during the height of the Cold War, the design choice for the airlock to be androgynous—neither male nor female—was a deliberate diplomatic decision. <br><br>
-    - it reflects deeper social norms. In a patriarchal context where being “penetrated” could be seen as a sign of submission or weakness. This patriarchal logic directly influenced the technical design, showing that even seemingly neutral engineering decisions are deeply intertwined with social and political forces.
+    - This the commemorative plaque, shaped like the APAS Airlock. APAS stands for Androgynous Peripheral Attach System. Beyond the symbolic image of two superpowers able to collaborate together for the greater good of sicence despite the Cold War, both made the conscious decision to get rid of the male and female parts in their docking system, to prevent diplomatic penetration which could be seen as a sign of submission or weakness. <br><br>
+    - Deeper social norms and logics directly influenced the technical design, showing that even seemingly neutral engineering decisions are deeply intertwined with social and political forces.
   </aside>
 </section>
 
@@ -173,9 +173,9 @@ layout: future-space
 </section> -->
 
 <section data-background-image="assets/imgs/apas9522.jpg" data-state=apas95>
-<span class="quotes">Design itself is an assemblage—a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces that shape and are shaped by the world around it.</span>
+<span class="quotes">Design is an assemblage—a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces that shape and are shaped by the world around it.</span>
 <aside class="notes">
-    - Design itself is an assemblage—a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces, as seen in the APAS system, where political tensions, cultural anxieties, and technical requirements were all entangled in the final design.
+    - Design is an assemblage—a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces, as seen in the APAS system, where political tensions, cultural anxieties, and technical requirements were all entangled in the final design.
   </aside>
 </section>
 
@@ -200,6 +200,9 @@ layout: future-space
 <section data-background-image="assets/imgs/empathics_32.jpg" data-state=sw1>
     <style>.sw1 header:after { content: "Saya Woolfalk, 2012 — The Empathics"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
+    <aside class="notes">
+    - Design is an assemblage—a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces, as seen in the APAS system, where political tensions, cultural anxieties, and technical requirements were all entangled in the final design.
+  </aside>
 </section>
 
 <section data-background-image="assets/imgs/stamp.jpg" data-state=kj1>
