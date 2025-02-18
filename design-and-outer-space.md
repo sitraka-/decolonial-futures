@@ -84,25 +84,23 @@ layout: future-space
  <style>.rm header:after { content: "Postcard, 1930—1945 — Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
  <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Control</span></h1>
  <aside class="notes">
-    - But before diving into some of my own work and approaches, I want to briefly highlight a few dimensions through which design manifests this duality using a couple of examples. <br><br>
-    - Each example embodies this tension: design as both an active force in shaping social, cultural, and political realities, and as a system that makes those realities seem inevitable or natural.
+    - One quite famous example of control is Robert Moses's urban infrastructures, particularly the low hanging overpasses on parkways to Long Island beaches, pictured in this post card<br><br>
   </aside>
 </section>
 
-<section data-background-image="assets/imgs/mosesbeam.jpg" data-state=rmb>
+<!-- <section data-background-image="assets/imgs/mosesbeam.jpg" data-state=rmb>
  <style>.rmb header:after { content: "Arnold Newman Archives, Early 1970's — Robert Moses with the United Nations in the background"; }</style>
- <!-- <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics;<br><br>Artefacts have politics, and these politics permeate through everyday practices and material cultures.</span> -->
  <aside class="notes">
     - Robert Moses (1888–1981), a key figure in urban planning in New York from the 1930s to the 1960s, exemplifies how design choices can enforce social and political agendas. 
   </aside>
-</section>
+</section> -->
 
 <section data-background-image="assets/imgs/rm_2.jpg" data-state=rm2>
  <style>.rm2 header:after { content: "Pictorial Parade, 1960 — Cars on a section of the Southern State Parkway"; }</style>
  <!-- <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics;<br><br>Artefacts have politics, and these politics permeate through everyday practices and material cultures.</span> -->
  <aside class="notes">
-    - he's known for designing low-hanging overpasses on parkways to Long Island beaches, his work prevented buses—and therefore lower-income and minority communities—from accessing these public spaces. <br><br>
-    - So his urban planning decisions enforced social control by physically shaping who had access to certain spaces. At the same time, these designs made segregation feel like a natural consequence of infrastructure, rather than an intentional act of exclusion.
+    - his work prevented buses—and therefore lower-income and predominantly minority communities—from accessing these public spaces. <br><br>
+    - So his urban planning decisions enforced social control by building in stone who had access to certain spaces. So, these designs made segregation feel like a natural consequence of infrastructure, rather than an intentional act of exclusion.
   </aside>
 </section>
 
@@ -110,13 +108,14 @@ layout: future-space
     <style>.cmen header:after { content: "Codex Mendoza, 1541"; }</style>
      <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Cultural Mediation</span></h1>
     <aside class="notes">
-    - The Codex Mendoza, created around 1541 in Mexico, was intended to document Aztec life for the Spanish Crown. More than a historical record, it helped legitimise Spanish conquest by showing the Aztecs as an organised society that already paid tribute and followed complex systems of control. it detailed how the Aztec Empire collected tribute, managed labour, and maintained social order—making it easier for the Spanish to justify their own rule. It also highlighted the Aztecs' military conquests, framing Spanish colonisation as just another step in an ongoing cycle of power and control. 
+    - Another dimension of control is design's ability to mediate cultural narratives
+    - The Codex Mendoza, created around 1541 in Mexico ... 
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/mendoza.jpg" data-state=cmen>
     <aside class="notes">
-    - the codex was used as propaganda to justify Spanish domination. While it documents Aztec culture, it does so through a distorted lens, reflecting how design can impose power while shaping cultural narratives.
+    - ... is a manuscript created after the Spanish conquest, documenting key aspects of the Aztec Empire—its tribute systems, trade routes, and cosmology—in detailed visuals and text. It doesn’t just preserve the Aztec world; it reorganises it from a colonial perspective. Made for the Spanish crown, the codex systematically records the economic and social structures of the Aztecs, turning that knowledge into a tool for colonial control. What was intended as a record of the Aztec world also became a means to exploit it.
   </aside>
 </section>
 
@@ -124,25 +123,25 @@ layout: future-space
  <style>.kkd header:after { content: "Morrison–Knudsen, 1953 — Aerial View of the Kajaki Dam (USAID Afghanistan, 2007)"; }</style>
  <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Artefacts As Agents</span></h1>
  <aside class="notes">
-    - Every artefact, whether a chair, a city, or a spacecraft, participates in the shaping of societal values and power structures. And therefore indicate that design is inherently political. <br><br>
-    - And ofcourse artefacts themselves have agency, influencing human behaviour and social structures beyond their intended use. 
+    - Every artefact, whether a chair, a bridge, or a spacecraft, participates in the shaping of societal values and power structures—and therefore reaffirms what we know: that design is inherently political. <br><br>
+    - And that artefacts themselves have agency, influencing human behaviour and social structures beyond their intended use. 
   </aside>
 </section>
 
-<section data-background-image="assets/imgs/kkdam.jpg" data-state=kkd>
+<!-- <section data-background-image="assets/imgs/kkdam.jpg" data-state=kkd>
  <aside class="notes">
     - The Kajaki Dam, built in the 1950s with U.S. funding to modernise Afghanistan, is a clear example of this. It was meant to provide irrigation and hydroelectric power, but it flooded large areas of farmland, displacing many local farmers. The new irrigation systems often favoured larger landowners, leaving small farmers struggling. With few other options, many turned to growing poppies, as the improved irrigation made the land ideal for cultivating this resilient and highly profitable crop, fueling the opium trade. Here, the dam becomes an agent in the socio-political landscape, enabling unforeseen consequences and reshaping realities. 
   </aside>
-</section>
+</section> -->
 
 <!-- <section data-background-image="assets/imgs/sd.jpg" data-state=sd>
  <style>.sd header:after { content: "Corporación autónoma regional del Valle del Cauca, 1985 — Salvajina Dam (—, 2011)"; }</style>
 </section> -->
 
-<section data-background-image="assets/imgs/kjk.jpg" data-state=kkd2>
+<!-- <section data-background-image="assets/imgs/kjk.jpg" data-state=kkd2>
  <style>.kkd2 header:after { content: "Morrison–Knudsen, 1953 — Kajaki Dam and Spillway (2013)"; }</style>
  <span class="quotes">Designs do not exist in isolation; they operate within assemblages where artefacts, practices, and power relations converge, reinforcing or disrupting, reshaping and reconfiguring broader social structures.</span>
-</section>
+</section> -->
 
 <section data-background-image="assets/imgs/saaa_0.jpg" data-state=sa>
  <style>.sa header:after { content: "American astronaut Deke Slayton and Russian cosmonaut Alexei Leonov, 1975 — US-Soviet Apollo-Soyuz linkup"; }</style>
