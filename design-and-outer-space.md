@@ -56,7 +56,7 @@ layout: future-space
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">1. Design Poetics</span></h1>
     <aside class="notes">
-    - Today, I want to discuss design’s role as a translator that turns ideas into tangible realities—and how this shapes the ways we may think and imagine outer space. <br><br>
+    - Today, I want to discuss design’s role as a translator that turns ideas into tangible realities, a creator of worlds—and how this shapes the ways we may think and imagine outer space. <br><br>
     - And I think this matters because the stories we tell, the imaginaries we create, and the ideological projects we hold all seep into the objects and materials around us. <br><br>
     - And in turn, those materials shape how we see the world and imagine what’s possible, in this constant back-and-forth between ideas and things.
   </aside>
@@ -84,7 +84,7 @@ layout: future-space
  <style>.rm header:after { content: "Postcard, 1930—1945 — Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
  <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Control</span></h1>
  <aside class="notes">
-    - One quite famous example of control is Robert Moses's urban infrastructures, particularly the low hanging overpasses on parkways to Long Island beaches, pictured in this post card<br><br>
+    - One quite famous example of control is Robert Moses's urban infrastructures, particularly the low hanging overpasses on parkways to Long Island beaches, <br><br>
   </aside>
 </section>
 
@@ -109,13 +109,14 @@ layout: future-space
      <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Cultural Mediation</span></h1>
     <aside class="notes">
     - Another dimension of control is design's ability to mediate cultural narratives
-    - The Codex Mendoza, created around 1541 in Mexico ... 
+    - The Codex Mendoza, created around 1541 in Mexico is an interesting example ... 
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/mendoza.jpg" data-state=cmen>
     <aside class="notes">
-    - ... is a manuscript created after the Spanish conquest, documenting key aspects of the Aztec Empire—its tribute systems, trade routes, and cosmology—in detailed visuals and text. It doesn’t just preserve the Aztec world; it reorganises it from a colonial perspective. Made for the Spanish crown, the codex systematically records the economic and social structures of the Aztecs, turning that knowledge into a tool for colonial control. What was intended as a record of the Aztec world also became a means to exploit it.
+    - ... it's a manuscript created after the Spanish conquest, documenting key aspects of the Aztec Empire—its tribute systems, trade routes, and cosmology—in detailed visuals and text. It doesn’t just preserve the Aztec world; it reorganises it from a colonial perspective. <br><br>
+    - Made for the Spanish crown, the codex systematically records the economic and social structures of the Aztecs, turning that knowledge into a tool for colonial control. What was intended as a record of the Aztec world also became a means to exploit it.
   </aside>
 </section>
 
@@ -201,20 +202,23 @@ layout: future-space
     <style>.sw1 header:after { content: "Saya Woolfalk, 2012 — The Empathics"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
     <aside class="notes">
-    - These dimensions of design—control, negotiation, agency, and cultural mediation—are characteristic of how I approach critical and speculative design practice, which i use to think about design poiesis
+    - These dimensions of design—control, negotiation, agency, and cultural mediation—are not just abstract ideas. They are the very lenses through which my critical and speculative design practice operates, guiding how I engage with design poiesis.
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/stamp.jpg" data-state=kj1>
     <style>.kj1 header:after { content: "Khaled Jarrar, 2012 — State Of Palestine"; }</style>
     <span class="quotes">By bringing ideas into existence, design constructs new meanings, realities, and experiences, literally spawning new worlds as it interacts with its environment—shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.</span>
+    <aside class="notes">
+    - the process of bringing ideas into existence, constructing new meanings, realities, and experiences, and literally spawning new worlds as design interacts with its environment—shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.
+  </aside>
 </section>
 
 <section data-background-image="assets/imgs/pa.jpg" data-state=pa>
     <style>.pa header:after { content: "Arturo Escobar, 2018 — Paraphrasing Paola Antonelli"; }</style>
     <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
     <aside class="notes">
-    - this is Arturo Escobar paraphrasing Paola Antonelli<br><br>
+    - Design poiesis is transformative—it’s not only about producing artefacts, but about reshaping how we interact with and understand our world. In this spirit, Arturo Escobar, paraphrasing Paola Antonelli, captures this transformative potential:<br><br>
     - Design approaches like this are critical, activist, and political. They emphasise thinkering—thinking through making—where hands-on experimentation shapes ideas. It’s less about solving problems and more about discovering and reframing them. This resonates with critical making, where the process of crafting itself becomes a tool for questioning and imagining, creating functional social fictions that challenge existing realities or produce speculation grounded in real social and material conditions.
   </aside>
 </section>
