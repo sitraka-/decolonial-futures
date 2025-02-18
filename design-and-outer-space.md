@@ -146,7 +146,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/saaa_0.jpg" data-state=sa>
  <style>.sa header:after { content: "American astronaut Deke Slayton and Russian cosmonaut Alexei Leonov, 1975 — US-Soviet Apollo-Soyuz linkup"; }</style>
-  <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Negotiation</span></h1>
+  <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:7.3rem !important;">Design As Negotiation</span></h1>
  <aside class="notes">
     - Another dimension I thought was compelling is design as a negotiating force. <br><br>
     - Here are Deke Slayton and Alexei Leonov meeting through the APAS airlock system in 1975 during the first apollo Soyuz link up, where a Soyuz and Apollo spacecraft successfully docked together.
