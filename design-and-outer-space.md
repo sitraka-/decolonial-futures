@@ -201,7 +201,7 @@ layout: future-space
     <style>.sw1 header:after { content: "Saya Woolfalk, 2012 — The Empathics"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
     <aside class="notes">
-    - Design is an assemblage—a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces, as seen in the APAS system, where political tensions, cultural anxieties, and technical requirements were all entangled in the final design.
+    - These dimensions of design—control, negotiation, agency, and cultural mediation—are characteristic of how I approach critical and speculative design practice.
   </aside>
 </section>
 
