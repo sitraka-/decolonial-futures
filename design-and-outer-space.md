@@ -277,7 +277,7 @@ layout: future-space
 
 <section data-background-image="assets/imgs/hiragasy_2.jpg" data-state=hg>
     <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
-    <h1 class="NT" style="font-family:'grotesk' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 7.9rem !important;" >Speculative<br>Ethnographies</h1>
+    <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6.2rem !important;" >Speculative<br>Ethnographies</h1>
     <aside class="notes">
     - From this interplay of imaginaries, worldviews, and designs emerges the potential for alternative, speculative worlds. Speculative ethnographies offer a way to bring these futures into tangible forms—reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
   </aside>
@@ -285,7 +285,10 @@ layout: future-space
 
 <section data-state=hgw>
     <style>.hgw header:after { content: "Miora Rajaonary, 2018 — Two couples from a Hira Gasy troupe pose with their lamba and costumes in Antananarivo"; }</style>
-    <img src="assets/imgs/hiragasy2.jpg" style="max-height:70vh;" />
+    <img src="assets/imgs/hiragasy_.png" style="max-height:70vh;" />
+    <aside class="notes">
+    - One example I want to share is the Hira Gasy, a traditional Malagasy performance, offers a vivid example of speculative ethnography in practice. Costumes from the Merina Kingdom of the 19th century drew on European military attire—jackets, trousers, and sashes—not as mere imitation, but as a reinterpretation. Woven with vibrant Malagasy patterns, these garments transformed symbols of colonial authority into expressions of local identity and autonomy. Here, the Merina engaged in a speculative reimagining of ‘Europeanness,’ using design to assert cultural agency and resist imposed narratives.
+  </aside>
 </section>
 
 <section data-background-image="assets/imgs/rg_dd.png" data-state=neny>
