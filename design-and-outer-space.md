@@ -251,7 +251,7 @@ layout: future-space
 <section data-background-image="assets/imgs/rg3.jpg" data-state=rg2>
     <style>.rg2 header:after { content: "Rick Guidice, 1970's — Agricultural modules in cutaway view (multiple toroids)"; }</style>
 </section> -->
-
+<!-- 
 <section data-background-image="assets/imgs/pbd.webp" data-state=dv>
     <style>.dv header:after { content: "Voyager 1, 1990 — The Pale Blue Dot"; }</style>
 </section>
@@ -265,8 +265,9 @@ layout: future-space
 </section>
 
 <section data-background-image="assets/imgs/venera13.webp" data-state=ven>
-    <style>.ven header:after { content: "Venera Program, 1981 — Venera 13"; }</style>
-</section>
+    <style>.ven header:after { content: "Venera Program, 1981 — Venera 13"; }</style> 
+</section> 
+-->
 
 <section data-background-image="assets/imgs/hiragasy_2.jpg" data-state=hg>
     <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
