@@ -241,13 +241,15 @@ layout: future-space
     <style>.mdrs header:after { content: "The Mars Society, 2001 — Mars Desert Research Station"; }</style>
     <aside class="notes">
     - When thinking about approaches that imagine and experiment with alternative ways of being—rather than simply replicating existing structures in new contexts—Lisa Messeri’s use of material instantiation is particularly compelling. <br><br>
-    -In her discussion of scientists working at the Mars Desert Research Station, she highlights how data becomes infused with narrative possibilities. While Messeri describes this as a juxtaposition of Mars and Earth—two places present at once—
+    -In her discussion of scientists working at the Mars Desert Research Station, Messeri highlights how data becomes infused with narrative possibilities, turning raw information into rich stories. She frames this as a juxtaposition of Mars and Earth—two distinct places coexisting in the same space. <br><br>
+    - Which creates a scenario where the boundaries between the two begin to blur, engendering a unique encounter of the real and the speculative.  
+
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/mdrs_.png" data-state=mdrs>
     <aside class="notes">
-    - this overlap can also be understood as generating a kind of third space, where new dynamics, relationships to objects, things, and rituals emerge—like the simple yet telling act of wiping condensation from the inside of a helmet with a tissue using your tongue.
+    - As these two environments overlap, they generate a dynamic space—what I see as a kind of “third space”—where new relationships, dynamics, and rituals emerge. One example is the simple yet telling act of using your tongue to wipe condensation from the inside of a helmet.
   </aside>
 </section>
 
