@@ -506,17 +506,49 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
 <section data-state=cos>
     <style>.cos header:after { content: "\\'\\'≠.\\, 2023"; }</style>
     <img style="max-width:65vh;" src="assets/imgs/cosfab.png" />
+    <aside class="notes">
+    - For the past three years, I’ve been running this project with first-year MA Industrial Design students at Central Saint Martins. Each iteration culminates in a public-facing performance or simulation as critical design performances that become ticketed events, hosted in collaboration with live venues with deep histories in experimental practice."
+  </aside>
 </section>
 
-<section data-state=header2>
+<section data-state=ik data-background-image="assets/imgs/ik_1.png">
+    <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
+  <aside class="notes">
+    - This iteration took place at Iklectik, a venue in Waterloo, in 2022. The project was shaped by the outcomes of the Lunar Denizens panel series, which served as prompts and starting points for the students objects and performance.
+  </aside>
+</section>
+
+<section data-state=ik data-background-image="assets/imgs/ik_2.png">
+    <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
+  <aside class="notes">
+    - They drew directly from our conversations to start shaping their rituals and instruments. While some may resemble props, each object had to function and produce sound, adding an extra layer of challenge. In this project, the objects are always fully realised.
+  </aside>
+</section>
+
+<section data-state=header2 data-background-image="assets/imgs/yd_1.png">
+    <style>.header2 header:after { content: "MAID at the Yard Theatre, 2023 — Cosmic Fables"; }</style>
+    <aside class="notes">
+    - The following year, we held the event at the Yard Theatre in Hackney Wick. Expanding beyond a single location, we began exploring Mars, a stationary space station in Low Earth Orbit, and an intergalactic spacecraft.<br><br>
+    - this project here was an attempt at reimagining funerals and the meaning these may hold when not tethered to Earth.
+  </aside>
+</section>
+
+<section data-state=header33 data-background-image="assets/imgs/csm_1.png">
+    <style>.header33 header:after { content: "MAID at Studio Theatre, 2024 — Alchemy Of Ruin"; }</style>
+    <aside class="notes">
+    - "This year, we adjusted our approach, building on what we’ve learned over the past few years. Rather than making the connection to space explicit, we created a descriptive piece about a fictional plcace shaped by scarcity, isolation, and closed-loop systems—drawing parallels to existing environments.
+  </aside>
+</section>
+
+<!-- <section data-state=header2>
     <style>.header2 header:after { content: "MAID at the Yard Theatre, 2023 — Cosmic Fables"; }</style>
     <iframe width="1080" height="512" src="https://www.youtube.com/embed/lkRSJQHlAR0?si=rPOE144y3aAFSK9E&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</section>
+</section> -->
 
-<section data-state=ik>
+<!-- <section data-state=ik>
     <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
     <iframe width="1080" height="512" src="https://www.youtube.com/embed/60uAhggLGOM?si=kkXBncU7AbfT4hqk&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</section>
+</section> -->
 
 <section data-background-image="assets/imgs/arnem_1.jpg" data-state=arnem>
     <style>.arnem header:after { content: "Artez Product Design, 2024"; }</style>
