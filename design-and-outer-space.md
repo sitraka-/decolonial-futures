@@ -462,12 +462,45 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
 <section data-state=header19 data-background-color="white">
     <style>.header19 header:after { content: "\\'\\'≠.\\, 2015"; }</style>
     <img src="assets/imgs/medvsproc.jpg" />
-</section>
+</section>mothership-landing_2
 -->
 
 <section data-background-image="assets/imgs/BIY_posters_d.png" data-state=auto>
 <style>.auto header:after { content: "Automato, 2018 — Believe It Yourself"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">4. Critical Fables</span></h1>
+    <aside class="notes">
+    - Critical Fables is a framework I use with my students, where we treat designed objects as narratives—not tied to a specific reality but crafted to engage with speculative or critical intent. These objects act as allegories, embedding moral lessons, tensions, and critiques within their materiality. They exist in the space between the real and the unreal, using fiction to reconfigure our relationship to reality and open up different ways of imagining the future.<br><br>
+    - Unlike speculative prototypes or predictive models, Critical Fables are not about forecasting what is to come but about destabilising the assumptions that shape both present and future possibilities
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/mothership-landing_2.jpg" data-state=gc>
+<style>.gc header:after { content: "George Clinton (Dr Funkenstein), 1977-1999 — P-Funk Mothership"; }</style>
+    <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:7.3rem !important;">Narrative As Critique</span></h1>
+    <aside class="notes">
+    -  there’s Narrative as Critique—the idea that storytelling isn’t just a way of imagining, but a way of unmasking. Like traditional fables, these narratives embed moral lessons and allegories, allowing us to probe societal norms, power dynamics, and ethical dilemmas, and encourage us to question the narratives we take for granted.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/mothership-landing_2.jpg" data-state=gc>
+    <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:7.3rem !important;">Speculative Enquiry</span></h1>
+    <aside class="notes">
+    - Then, there’s Speculative Inquiry, because Critical Fables are not only stories; but also questions. They create space for exploration, for alternative world-making, and for engaging creatively with complexity. They ask, What if?
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/mothership-landing_2.jpg" data-state=gc>
+    <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:7.3rem !important;">Sonic Enquiry</span></h1>
+    <aside class="notes">
+    - Sonic Inquiry—because sound isn’t just something we hear; it’s something we experience, something that situates and frames. Sound and music-making are forms of intellectual exploration. They carry material and kinetic aesthetics that shape how we locate ourselves within a world, whether real or imagined.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/mothership-landing_2.jpg" data-state=gc>
+    <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:7.3rem !important;">Embodied Enquiry</span></h1>
+    <aside class="notes">
+    - And finally, Embodied Inquiry— as knowing comes from doing. Through role-playing, participatory experiences, and bodily engagement, Critical Fables turn sense-making into something physical. By stepping into a scenario, inhabiting a role, design rituals we create new relations to knowledge.
+  </aside>
 </section>
 
 <section data-state=cos>
