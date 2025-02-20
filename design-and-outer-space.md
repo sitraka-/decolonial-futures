@@ -56,18 +56,20 @@ layout: future-space
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">1. Design Poetics</span></h1>
     <aside class="notes">
-    - Today, I want to discuss design’s role as a translator that turns ideas into tangible realities, a creator of worlds—and how this shapes the ways we may think and imagine outer space. <br><br>
-    - And I think this matters because the stories we tell, the imaginaries we create, and the ideological projects we hold all seep into the objects and materials around us. <br><br>
-    - And in turn, those materials shape how we see the world and imagine what’s possible, in this constant back-and-forth between ideas and things.
+    - Today, I want to discuss design as the practice of transmuting ideas into tangible realities, and a method for imagining and spawning worlds—and how this could shape the ways we may think and imagine outer space. <br><br>
+    - As the stories we tell, the imaginaries we create, and the ideological projects we hold all seep into the objects and materials around us. <br><br>
+    - And in turn, those materials shape how we see the world and imagine what’s possible, in this constant back-and-forth between ideas and things.<br><br>
+    - I’ll start with examples that illustrate the key dimensions of design I am interested in, before moving onto discussing some of the methods I use to produce work. <br><br>
+    - and at the end if there's still time I'll share a video I realised last year about a device that help simulates the feeling of moonwalking.
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
     <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards and normalises behaviours and practices.</span>
     <aside class="notes">
-    - Much like metaphors and language can create "pictures" or conceptual frameworks that constrain thinking, design functions as both an instrument and an infrastructure that shapes our aesthetic relations to the world. <br><br>
-    - And by aesthetic, I don’t mean just what we may find visually pleasing—I mean the ways we perceive, sense, and experience the world around us.<br><br>
-    - In essence, design is both a product of worldviews—reflecting existing ideologies—and a tool that frames and narrows or possibly broadens how people construct new ones. 
+    - Much like metaphors can create "pictures" or conceptual frameworks that orient thinking, design functions as both an instrument and an infrastructure that shapes our aesthetic relations to the world. <br><br>
+    - And by aesthetic, I don’t just mean the way things look, but the ways we perceive, sense, and experience the world around us.<br><br>
+    - In essence, design is both a product of worldviews—reflecting existing ideologies—and a tool that frames and narrows but also possibly broadens how people construct new ones. 
   </aside>
 </section>
 
@@ -75,8 +77,8 @@ layout: future-space
     <span class="quotes">Design serves as both an instrument of control<br>and a force that shapes what is considered<br><em>natural or inevitable.</em></span>
     <aside class="notes">
     - And this duality allows design to both reinforce or challenge, enhance or disrupt existing perspectives.<br><br>
-    - So obviously design is never neutral. Every object, system, and interface carries with it the values, ideologies, and intentions of its creators. It is both an instrument of control and a force that shapes what we come to see as natural or inevitable. <br><br>
-    - And once again my work explores this duality, focusing on how it mediates our understanding of the world, particularly when we extend our imaginations to outer space.
+    - So obviously design is never neutral. Every object, system, and interface carries with it the values, ideologies, and intentions of the forces that bring it into being. It is both an instrument of control and a agent that shapes what we come to see as natural or inevitable. <br><br>
+    - So my work explores this duality, focusing on how it mediates our understanding of worlds, particularly when we extend our imaginations to outer space.
   </aside>
 </section>
 
@@ -285,7 +287,7 @@ layout: future-space
 
 <section data-state=hg data-background-image="assets/imgs/hiragasy_.png">
     <aside class="notes">
-    - One example I want to share is the Hira Gasy, a traditional Malagasy performance, offers a vivid example of speculative ethnography in practice. Costumes from the Merina Kingdom of the 19th century drew on European military attire—jackets, trousers, and sashes—not as mere imitation, but as a reinterpretation. Woven with vibrant Malagasy patterns, these garments transformed symbols of colonial authority into expressions of local identity and autonomy. <br><br>
+    - One example of this is the Hira Gasy. This traditional Malagasy performance, offers a vivid example of speculative ethnography in practice. Costumes from the Merina Kingdom of the 19th century drew on European military attire—jackets, trousers, and sashes—not as simple imitation, but as a reinterpretation. Woven with vibrant Malagasy patterns, these garments transformed symbols of colonial authority into expressions of local identity and autonomy. <br><br>
     - Here, the Merina engaged in a speculative reimagining of ‘Europeanness,’ using design to assert cultural agency and resist imposed narratives.
   </aside>
 </section>
