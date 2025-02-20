@@ -311,13 +311,30 @@ layout: future-space
 <!-- <section data-background-image="assets/imgs/kesh2.jpg" data-state=kesh>
 </section> -->
 
+<section data-background-image="assets/imgs/nspdos_1.png" data-state=nspdos>
+    <style>.nspdos header:after { content: "NSPDOS, 2021 — Human Considerations: Speculations on Lunar Habitation"; }</style>
+    <aside class="notes">
+    - Thinking about imagined cultures and how they are brought to life, I want to briefly introduce a panel discussion I organised with NSPDOS as part of the Virtual Italian Pavilion at the Venice Biennale of Architecture in 2021. Titled Human Consideration: Speculation on Lunar Habitation, this event brought together an eclectic group of thinkers—an architect, a litterature scholar, and an anthropologist—to explore the social, architectural, and communal realities of long-term life on the Moon.<br><br>
+    - Rather than treating lunar habitation as purely an engineering challenge, NSPDOS developed a world-building premise, a stolen report from the year 2133, to reframe the problem. This allowed us to ask different kinds of questions: not just about survival, but about what kinds of societies and relationships could emerge in such an environment.<br><br>
+    - From there, we charted a path toward exploring what it truly means to live beyond Earth—not just how it might work, but how it might shape existence itself..
+  </aside>
+</section>
+
 <section data-background-image="assets/imgs/cs_22.png" data-state=cs>
     <style>.cs header:after { content: "Luigi Serafini, 1981 — Codex Seraphinianus"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">3. Speculative Cosmologies</span></h1>
+    <aside class="notes">
+    - If speculative ethnographies explore how cultures could be imagined or reinterpreted, speculative cosmologies take this further and ask how do we construct entire worldviews? What stories, myths, knowledge and structures define our reality?<br><br>
+    - Beyond the creation of myths; they are the frameworks through which people understand their place in the universe. By speculating on them, we’re not just imagining new worlds, we’re also questioning the foundations of the ones we already inhabit.
+  </aside>
 </section>
 
 <section data-background-image="assets/imgs/cs2.jpg" data-state=cs>
     <span class="quotes">Design is a medium that—by envisioning and materialising alternative ontologies and worldviews—reshapes our understandings of realities and our place within them.</span>
+    <aside class="notes">
+    - Design is a medium that materialises worlds. Rather than world-building, it is about world-making. <br><br>
+    - It is about shaping the material, relational, and experiential conditions through which realities emerge. By giving form to alternative ontologies and worldviews, design makes speculation tangible, embedding it within lived experience."
+  </aside>
 </section>
 
 <section data-background-image="assets/imgs/grec.jpg" data-state=gr>
