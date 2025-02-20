@@ -536,7 +536,7 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
 <section data-state=header33 data-background-image="assets/imgs/csm_1.png">
     <style>.header33 header:after { content: "MAID at Studio Theatre, 2024 — Alchemy Of Ruin"; }</style>
     <aside class="notes">
-    - "This year, we adjusted our approach, building on what we’ve learned over the past few years. Rather than making the connection to space explicit, we created a descriptive piece about a fictional plcace shaped by scarcity, isolation, and closed-loop systems—drawing parallels to existing environments.
+    - This year, we adjusted our approach, building on what we’ve learned over the past few years. Rather than making the connection to space explicit, we created a descriptive piece about a fictional plcace shaped by scarcity, isolation, and closed-loop systems—drawing parallels to existing environments.
   </aside>
 </section>
 
@@ -551,18 +551,29 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
 </section> -->
 
 <section data-background-image="assets/imgs/arnem_1.jpg" data-state=arnem>
-    <style>.arnem header:after { content: "Artez Product Design, 2024"; }</style>
-</section>
-<section data-background-image="assets/imgs/arnem_2.jpg" data-state=arnem>
+    <style>.arnem header:after { content: "Artez Product Design, 2024 — Sounds From Somewhere"; }</style>
+    <aside class="notes">
+    - More recently, we transformed this process into an four-day workshop, combining hands-on electronic circuit crafting with speculative and imaginative exploration.
+  </aside>
 </section>
 
-<section data-state=arnem>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/zEqr0jKqxMY?si=siywqlQqY57XRCKE&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<section data-background-image="assets/imgs/arnem_2.jpg" data-state=arnem>
+<aside class="notes">
+    - We explored how these elements collide over an intense, short period—how stories evolve and take shape through this process.
+  </aside>
 </section>
+
+<!-- <section data-state=arnem>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/zEqr0jKqxMY?si=siywqlQqY57XRCKE&amp;controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section> -->
 
 <section data-background-image="assets/imgs/ltm_d.png" data-state=ltm>
 <style>.ltm header:after { content: "VVFA, 2022 — Learning To Moonwalk"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5. Learning To Moonwalk</span></h1>
+    <aside class="notes">
+    - Alongside these projects, and drawing from how students approach them, we also design and build objects with the same intent—making what is often just imagined more tangible, while deeply engaging with the locality of the aesthetic experience.<br><br>
+    - which is where the video I mentioned at the start of this presentation comes in.
+  </aside>
 </section>
 
 <section data-state=ltm_f>
