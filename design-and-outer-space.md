@@ -86,7 +86,7 @@ layout: future-space
  <style>.rm header:after { content: "Postcard, 1930—1945 — Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
  <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Control</span></h1>
  <aside class="notes">
-    - One quite famous example of control is Robert Moses's urban infrastructures, particularly the low hanging overpasses on parkways to Long Island beaches, <br><br>
+    - One quite famous example of control is Robert Moses's urban infrastructures, in the US between the 1930's and 1960's, particularly the low hanging overpasses on parkways to Long Island beaches, <br><br>
   </aside>
 </section>
 
@@ -102,7 +102,8 @@ layout: future-space
  <!-- <span class="quotes">Objects, designs, and technologies embody and enforce social values, biases, and power dynamics;<br><br>Artefacts have politics, and these politics permeate through everyday practices and material cultures.</span> -->
  <aside class="notes">
     - his work prevented buses—and therefore lower-income and predominantly minority communities—from accessing these public spaces. <br><br>
-    - So his urban planning decisions enforced social control by building in stone who had access to certain spaces. So, these designs made segregation feel like a natural consequence of infrastructure, rather than an intentional act of exclusion.
+    - So his urban planning decisions enforced social control by building in stone who had access to certain spaces. So, these designs made segregation feel like a natural consequence of infrastructure, rather than an intentional act of exclusion.<br><br>
+    - again here design operates as a mechanism of control
   </aside>
 </section>
 
@@ -110,15 +111,16 @@ layout: future-space
     <style>.cmen header:after { content: "Codex Mendoza, 1541"; }</style>
      <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Cultural Mediation</span></h1>
     <aside class="notes">
-    - Another dimension of control is design's ability to mediate cultural narratives
+    - We see similar dynamics in design's ability to mediate cultural narratives<br><br>
     - The Codex Mendoza, created around 1541 in Mexico is an interesting example ... 
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/mendoza.jpg" data-state=cmen>
     <aside class="notes">
-    - ... it's a manuscript created after the Spanish conquest, documenting key aspects of the Aztec Empire—its tribute systems, trade routes, and cosmology—in detailed visuals and text. It doesn’t just preserve the Aztec world; it reorganises it from a colonial perspective. <br><br>
-    - Made for the Spanish crown, the codex systematically records the economic and social structures of the Aztecs, turning that knowledge into a tool for colonial control. What was intended as a record of the Aztec world also became a means to exploit it.
+    - ... it's a manuscript created after the Spanish conquest, documenting key aspects of the Aztec Empire—its tribute systems, trade routes, and cosmology— through detailed visuals and text. But it doesn’t just preserve the Aztec world; it reorganises it from a colonial perspective. <br><br>
+    - So by systematically recording the empire’s economic and social structures, the codex transforms that knowledge into a tool for control, turning what was meant as documentation into a means of exploitation.<br><br>
+    - A manuscript intended for remembrance became, instead, a tool for erasure.
   </aside>
 </section>
 
@@ -150,7 +152,7 @@ layout: future-space
  <style>.sa header:after { content: "American astronaut Deke Slayton and Russian cosmonaut Alexei Leonov, 1975 — US-Soviet Apollo-Soyuz linkup"; }</style>
   <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:7.3rem !important;">Design As Negotiation</span></h1>
  <aside class="notes">
-    - Another dimension I thought was compelling is design as a negotiating force. <br><br>
+    - Another dimension I thought was compelling is design functioning as a negotiating force, not through explicit debate, but by encoding ideological concerns into technical decisions. <br><br>
     - Here are Deke Slayton and Alexei Leonov meeting through the APAS airlock system in 1975 during the first apollo Soyuz link up, where a Soyuz and Apollo spacecraft successfully docked together.
   </aside>
 </section>
@@ -158,7 +160,7 @@ layout: future-space
 <section data-background-image="assets/imgs/sa_1.jpg" data-state=sa2>
  <style>.sa2 header:after { content: "Apollo-Soyuz Test Project, 1975 — Commemorative Plaque"; }</style>
   <aside class="notes">
-    - This the commemorative plaque, shaped like the APAS Airlock. APAS stands for Androgynous Peripheral Attach System. Beyond the symbolic image of two superpowers able to collaborate together for the greater good of sicence despite the Cold War, both made the conscious decision to get rid of the male and female parts in their docking system, to prevent diplomatic penetration which could be seen as a sign of submission or weakness. <br><br>
+    - This is the commemorative plaque of the event, shaped like the APAS Airlock. APAS stands for Androgynous Peripheral Attach System. Beyond the symbolic image of two superpowers able to collaborate together for the greater good of sicence despite the Cold War, both made the considered decision to get rid of the male and female parts in their docking system, a preemptive adjustment to avoid diplomatic penetration which could be seen as a sign of submission or weakness. <br><br>
     - Deeper social norms and logics directly influenced the technical design, showing that even seemingly neutral engineering decisions are deeply intertwined with social and political forces.
   </aside>
 </section>
@@ -204,7 +206,7 @@ layout: future-space
     <style>.sw1 header:after { content: "Saya Woolfalk, 2012 — The Empathics"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
     <aside class="notes">
-    - These dimensions of design—control, negotiation, agency, and cultural mediation—are not just abstract ideas. They are the very lenses through which my critical and speculative design practice operates, guiding how I engage with design poiesis.
+    - These dimensions of design —control, negotiation, agency, and cultural mediation— beyond conceptual framing and observations, are the very lenses through which my critical and speculative design practice operates, guiding how I engage with design poiesis.
   </aside>
 </section>
 
@@ -220,7 +222,7 @@ layout: future-space
     <style>.pa header:after { content: "Arturo Escobar, 2018 — Paraphrasing Paola Antonelli"; }</style>
     <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
     <aside class="notes">
-    - Design poiesis is transformative—it’s not only about producing artefacts, but about reshaping how we interact with and understand our world. In this spirit, Arturo Escobar, paraphrasing Paola Antonelli, captures this transformative potential:<br><br>
+    - So design poiesis frames design’s transformative nature not as problem-solving, but as a way of reshaping meaning and relations. In this spirit, Arturo Escobar, paraphrasing Paola Antonelli, captures this potential:<br><br>
     - Design approaches like this are critical, activist, and political. They emphasise thinkering—thinking through making—where hands-on experimentation shapes ideas. It’s less about solving problems and more about discovering and reframing them. This resonates with critical making, where the process of crafting itself becomes a tool for questioning and imagining, creating functional social fictions that challenge existing realities or produce speculation grounded in real social and material conditions.
   </aside>
 </section>
@@ -243,15 +245,15 @@ layout: future-space
     <style>.mdrs header:after { content: "The Mars Society, 2001 — Mars Desert Research Station"; }</style>
     <aside class="notes">
     - When thinking about approaches that imagine and experiment with alternative ways of being—rather than simply replicating existing structures in new contexts—Lisa Messeri’s use of material instantiation is particularly compelling. <br><br>
-    -In her discussion of scientists working at the Mars Desert Research Station, Messeri highlights how data becomes infused with narrative possibilities, turning raw information into rich stories. She frames this as a juxtaposition of Mars and Earth—two distinct places coexisting in the same space. <br><br>
-    - Which creates a scenario where the boundaries between the two begin to blur, engendering a unique encounter of the real and the speculative.  
+    -In her discussion of scientists working at the Mars Desert Research Station, she highlights how data becomes infused with narrative possibilities, turning raw information into rich stories. She frames this as a juxtaposition of Mars and Earth—two distinct places coexisting in the same space. <br><br>
+    - Which creates a scenario where the boundaries between the two begin to blur, leading to a unique encounter of the real and the speculative.  
 
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/mdrs_.png" data-state=mdrs>
     <aside class="notes">
-    - As these two environments overlap, they generate a dynamic space—what I see as a kind of “third space”—where new relationships, dynamics, and rituals emerge. One example is the simple yet telling act of using your tongue to wipe condensation from the inside of a helmet.
+    - As these two environments overlap, they generate a dynamic space— a kind of “third space”—where new relationships, dynamics, and rituals emerge. One example could be the simple yet telling act of using your tongue, to move around a tissue to wipe condensation from the inside of a helmet.
   </aside>
 </section>
 
@@ -281,13 +283,14 @@ layout: future-space
     <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
     <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6.2rem !important;" >Speculative<br>Ethnographies</h1>
     <aside class="notes">
-    - From this interplay of imaginaries, worldviews, and designs emerges the potential for alternative, speculative worlds. Speculative ethnographies offer a way to bring these futures into tangible forms—reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
+    - So from this interplay of imaginaries, worldviews, and designs emerges the potential for alternative, speculative worlds. Speculative ethnographies offer a way to bring these futures into tangible forms—reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
   </aside>
 </section>
 
 <section data-state=hg data-background-image="assets/imgs/hiragasy_.png">
     <aside class="notes">
-    - One example of this is the Hira Gasy. This traditional Malagasy performance, offers a vivid example of speculative ethnography in practice. Costumes from the Merina Kingdom of the 19th century drew on European military attire—jackets, trousers, and sashes—not as simple imitation, but as a reinterpretation. Woven with vibrant Malagasy patterns, these garments transformed symbols of colonial authority into expressions of local identity and autonomy. <br><br>
+    - One example of this is the Hira Gasy. This traditional Malagasy performance is a great example of speculative ethnography in practice. Costumes from the Merina Kingdom of the 19th century drew on European military attire—jackets, trousers, and sashes.<br><br>
+    - But they weren’t just copies. Instead, they were reinterpreted, woven with bold Malagasy patterns and colours that turned symbols of colonial authority into something uniquely local as an expression of identity and autonomy. <br><br>
     - Here, the Merina engaged in a speculative reimagining of ‘Europeanness,’ using design to assert cultural agency and resist imposed narratives.
   </aside>
 </section>
@@ -300,8 +303,8 @@ layout: future-space
 <section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
     <style>.kesh header:after { content: "Ursula K. LeGuin & Todd Barton, 1985 — Music and poetry of the Kesh"; }</style>
     <aside class="notes">
-    - On the other end of the spectrum, Ursula Le Guin and Todd Barton’s Music and Poetry of the Kesh offers a good example of speculative ethnography through fiction. Created alongside Le Guin’s novel Always Coming Home, this recording brings to life the Kesh—a fictional community in post-apocalyptic Northern California—through their songs, poems, and spoken word. <br><br>
-    - The Kesh’s culture, shaped by communal values and deep ties to the land, is vividly realised not just through narrative but through maps, recipes, and artefacts within the novel.
+    - In a different take on speculative ethnography, Ursula Le Guin and Todd Barton’s Music and Poetry of the Kesh brings this idea to life through fiction. Created alongside Le Guin’s novel Always Coming Home, It was a recording on a cassette tape that brought to life the Kesh—a fictional community in post-apocalyptic Northern California—through their songs, poems, and spoken word. <br><br>
+    - The Kesh’s culture, shaped by communal values and deep ties to the land, is also realised not only through narrative but through maps, recipes, and artefacts.
   </aside>
 </section>
 
