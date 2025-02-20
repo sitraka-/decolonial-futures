@@ -327,7 +327,7 @@ layout: future-space
   </aside>
 </section>
 
-<section data-background-image="assets/imgs/apollo.jpg" data-state=nspdos>
+<section data-background-image="assets/imgs/apollo1.png" data-state=nspdos>
 <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:7.3rem !important;">Welcoming Party</span></h1>
     <aside class="notes">
     - the Welcoming Party, which is about Arrivals, Community Formation, and Governance<br><br>
@@ -335,7 +335,7 @@ layout: future-space
   </aside>
 </section>
 
-<section data-background-image="assets/imgs/apollo.jpg" data-state=nspdos>
+<section data-background-image="assets/imgs/apollo1.png" data-state=nspdos>
 <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:7.3rem !important;">A Day On The Moon</span></h1>
     <aside class="notes">
     - Day on the Moon → Everyday Life, Work, and Resources <br><br>
@@ -343,7 +343,7 @@ layout: future-space
   </aside>
 </section>
 
-<section data-background-image="assets/imgs/apollo.jpg" data-state=nspdos>
+<section data-background-image="assets/imgs/apollo1.png" data-state=nspdos>
 <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:7.3rem !important;">Down To Earth</span></h1>
     <aside class="notes">
     - Down to Earth → Connection, Status, and Identity <br><br>
