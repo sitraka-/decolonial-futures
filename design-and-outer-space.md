@@ -410,14 +410,20 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
 
 <section data-state=h1>
     <h1 class="WP">IMAGINING OBJECTS, ARTEFACTS, RITUALS AND THINGS EMBODYING THE WORLD WITHIN WHICH THESE THINGS EXIST.</h1>
+    <aside class="notes">
+    - So when design becomes medium in this sense, it imagines things that embody the world within wchih these things exist.
+  </aside>
 </section>
 
 <section data-background-color="white" data-state=rev>
      <style>.rev header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; }</style>
     <h1 class="WP" style="color:#171717">REVERSE ARCHAELOGY</h1>
+    <aside class="notes">
+    - Some refer to this process as reverse archaeology, where objects become clues that help us think differently about the worlds they belong to.
+  </aside>
 </section>
 
-<section data-state=tvoeil>
+<!-- <section data-state=tvoeil>
 <style>.tvoeil header:after { content: "J. K. Raymond Millet, 1947 — La Télévision, œil de demain"; }</style>
     <iframe width="700" height="500" src="https://www.youtube.com/embed/ZKfOcR7Qbu4?si=PY1-X-VjGGxpOJds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
@@ -425,7 +431,7 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
 <section data-state=mad>
 <style>.mad header:after { content: "Lee Madden, 1967 — 1999 A.D."; }</style>
     <iframe width="700" height="500" src="https://www.youtube.com/embed/Z0lArfzw59c?si=ygsn0G2ROT8yxRpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</section>
+</section> 
 
 <section data-background-image="assets/imgs/wfrr.jpg" data-state=wfrr>
 <style>.wfrr header:after { content: "Robert Zemeckis, 1988 — Who Framed Roger Rabbit"; }</style>
@@ -454,7 +460,7 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
 
 <section data-state=header19 data-background-color="white">
     <style>.header19 header:after { content: "\\'\\'≠.\\, 2015"; }</style>
-    <img src="assets/imgs/medvsproc.jpg" />
+    <img src="assets/imgs/medvsproc.jpg" />-->
 </section>
 
 <section data-background-image="assets/imgs/BIY_posters_d.png" data-state=auto>
