@@ -379,6 +379,7 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
     <style>.cs header:after { content: "Luigi Serafini, 1981 — Codex Seraphinianus"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">3. Speculative Cosmologies</span></h1>
     <aside class="notes">
+    - As we kept expanding these discussions, it became clear that we weren’t just talking about the mechanics of settlement—we were questioning the very frameworks that shape how we perceive and organise life beyond Earth. This is where speculative cosmologies come in.<br><br>
     - So If speculative ethnographies explore how cultures could be imagined or reinterpreted, speculative cosmologies take this further and ask how do we construct entire worldviews? What stories, myths, knowledge and structures define our reality?<br><br>
     - Beyond the creation of myths; they are the frameworks through which people understand their place in the universe. By speculating on them, we’re not just imagining new worlds, we’re also questioning the foundations of the ones we already inhabit.
   </aside>
@@ -387,7 +388,7 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
 <section data-background-image="assets/imgs/cs2.jpg" data-state=cs>
     <span class="quotes">Design is a medium that—by envisioning and materialising alternative ontologies and worldviews—reshapes our understandings of realities and our place within them.</span>
     <aside class="notes">
-    - Design is a medium that materialises worlds. Rather than world-building, it is about world-making. <br><br>
+    - These conversations weren’t just theoretical—they showed how design doesn’t just respond to worlds but is a medium that actively materialises them. This isn’t about world-building anymore but rather world-making<br><br>
     - It is about shaping the material, relational, and experiential conditions through which realities emerge. By giving form to alternative ontologies and worldviews, design makes speculation tangible, embedding it within lived experience."
   </aside>
 </section>
@@ -395,10 +396,16 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
 <section data-background-image="assets/imgs/grec.jpg" data-state=gr>
     <style>.gr header:after { content: "Voyager Golden Record, 1977"; }</style>
     <span class="quotes">At the intersection of anthropology, ethnography, and speculative fiction, it embodies worlds we may hope for or caution against, with the potential of challenging existing narratives and expanding the boundaries of our imaginaries.</span>
+    <aside class="notes">
+    - World-making through design isn’t just about what we build—it can take the form of records, sounds, or rituals. The Golden Record is one such example: an attempt to encapsulate human culture, yet at the same time, a reflection of the worldview of those who curated it.<br><br>
+  </aside>
 </section>
 
 <section data-background-image="assets/imgs/ggrr.png" data-state=gr>
     <h1 class="BT" style="text-align: center !important;">Crafting Worlds<br>From Within</h1>
+    <aside class="notes">
+    - Engaging with materiality is always embedded in locality. It is situated, shaped by the environments, cultures, and conditions it emerges from—meaning that design, by its very nature, has the potential to be pluriversal, allowing for multiple ways of knowing and being to take shape.
+  </aside>
 </section>
 
 <section data-state=h1>
