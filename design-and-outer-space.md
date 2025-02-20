@@ -351,6 +351,30 @@ layout: future-space
   </aside>
 </section>
 
+<section data-background-image="assets/imgs/1999.jpg" data-state=nspdos>
+    <aside class="notes">
+    - Designing for the Moon is not just about infrastructure—it’s about shaping entirely new ways of living. The built environment, policies, and governance structures don’t just determine survival; they actively shape social relationships, rhythms of life, and cultural values. On the Moon, everything is extreme—gravity, resources, isolation—which means that every design decision has consequences beyond function.<br><br>
+
+For example, the way time is structured can reshape daily life. Instead of Earth’s standard 8-hour work-rest cycles, a lunar society could be structured around 6-hour blocks, balancing community contributions with self-determined time. Similarly, the Moon’s 15-day night cycle opens opportunities for nocturnal cultures, turning social life and tourism into an economic force.<br><br>
+
+Health and safety policies also take on a new role. If survival depends on mutual aid, could an obligation to provide assistance—enshrined in treaties like the Outer Space Treaty—extend beyond emergencies to include resource sharing, like calories or radiation shielding? Could architecture itself embed these principles, where handrails, airlocks, or shared oxygen systems aren’t just practical necessities, but enforcers of interdependence?<br><br>
+
+Then, there’s the question of governance. How resources like air and water are controlled will define the social and political structures of lunar life. Metering air could lead to hyper-individualism and scarcity-based economies, or it could push toward collective resource management. Legal frameworks already shape this future—while the Moon Treaty embeds mutualism, major space-faring nations refuse to ratify it, favouring competition over cooperation.<br><br>
+
+Even something as simple as how we understand nature shifts. Would lunar inhabitants train themselves to see beauty in the Moon’s landscapes rather than longing for Earth’s greenery? Would they construct artificial environments, and if so, what aspects of nature are essential for well-being?<br><br>
+
+Culture, identity, and media will also play a role. What holidays get recognised? What narratives will shape the idea of who belongs in space? Will lunar media develop independently or remain Earth-centric? And how does all of this shape the relationship between Earth and its off-world settlements?<br><br>
+
+Ultimately, the Moon is more than an environment—it’s a social experiment in how constraints shape new forms of community, governance, and identity. Design is never neutral, and on the Moon, it may be the very thing that determines whether a society thrives, fractures, or redefines what it means to be human.<br><br>
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/nspdos_3.png" data-state=nspdos>
+    <aside class="notes">
+    - Because the conversation was so rich, we decided—together with NSPDOS and the Santa Fe Institute’s Interplanetary Project—to expand it into a series of panels and design sprints. Each session focused more deeply on one of the situations I mentioned earlier, allowing us to build on the insights from previous discussions. It became an iterative process, where each step refined and expanded our understanding from the previous panels and so on.
+  </aside>
+</section>
+
 <section data-background-image="assets/imgs/cs_22.png" data-state=cs>
     <style>.cs header:after { content: "Luigi Serafini, 1981 — Codex Seraphinianus"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">3. Speculative Cosmologies</span></h1>
