@@ -423,7 +423,8 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
   </aside>
 </section>
 
-<!-- <section data-state=tvoeil>
+<!-- 
+<section data-state=tvoeil>
 <style>.tvoeil header:after { content: "J. K. Raymond Millet, 1947 — La Télévision, œil de demain"; }</style>
     <iframe width="700" height="500" src="https://www.youtube.com/embed/ZKfOcR7Qbu4?si=PY1-X-VjGGxpOJds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
@@ -460,8 +461,9 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
 
 <section data-state=header19 data-background-color="white">
     <style>.header19 header:after { content: "\\'\\'≠.\\, 2015"; }</style>
-    <img src="assets/imgs/medvsproc.jpg" />-->
+    <img src="assets/imgs/medvsproc.jpg" />
 </section>
+-->
 
 <section data-background-image="assets/imgs/BIY_posters_d.png" data-state=auto>
 <style>.auto header:after { content: "Automato, 2018 — Believe It Yourself"; }</style>
