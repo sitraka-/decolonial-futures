@@ -316,7 +316,38 @@ layout: future-space
     <aside class="notes">
     - Thinking about imagined cultures and how they are brought to life, I want to briefly introduce a panel discussion I organised with NSPDOS as part of the Virtual Italian Pavilion at the Venice Biennale of Architecture in 2021. Titled Human Consideration: Speculation on Lunar Habitation, this event brought together an eclectic group of thinkers—an architect, a litterature scholar, and an anthropologist—to explore the social, architectural, and communal realities of long-term life on the Moon.<br><br>
     - Rather than treating lunar habitation as purely an engineering challenge, NSPDOS developed a world-building premise, a stolen report from the year 2133, to reframe the problem. This allowed us to ask different kinds of questions: not just about survival, but about what kinds of societies and relationships could emerge in such an environment.<br><br>
-    - From there, we charted a path toward exploring what it truly means to live beyond Earth—not just how it might work, but how it might shape existence itself..
+    - From there, we charted a path toward exploring what it truly means to live beyond Earth—not just how it might work, but how it might shape existence itself.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/nspdos_2.png" data-state=nspdos>
+    <aside class="notes">
+    - Rather than constructing a world from the top down, I wanted to start from the small, the everyday—moments, interactions, and routines. Instead of defining a fully built setting, I structured the discussion around specific situations, prompting the panel to generate stories from them and letting the world emerge through those narratives.<br><br>
+    - The conversation was divided into three key moments: 
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/apollo.jpg" data-state=nspdos>
+<h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:7.3rem !important;">Welcoming Party</span></h1>
+    <aside class="notes">
+    - the Welcoming Party, which is about Arrivals, Community Formation, and Governance<br><br>
+    - What happens when someone arrives? How do they integrate? How are decisions made?" This moment explored social integration and governance, focusing on how newcomers and long-term settlers relate, what rituals and expectations define their welcome, and how civic responsibilities and decision-making structures shape life in the settlement.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/apollo.jpg" data-state=nspdos>
+<h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:7.3rem !important;">A Day On The Moon</span></h1>
+    <aside class="notes">
+    - Day on the Moon → Everyday Life, Work, and Resources <br><br>
+    - "What does a normal day look like? What roles exist? How are time, work, and resources structured?" This section focused on daily routines, from education and care work to labour structures, social spaces, and how people navigate the balance between public and private life. It also addressed resource management—what is available, how it is distributed, and what limitations define the settlement’s self-sufficiency.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/apollo.jpg" data-state=nspdos>
+<h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:7.3rem !important;">Down To Earth</span></h1>
+    <aside class="notes">
+    - Down to Earth → Connection, Status, and Identity <br><br>
+    - "How does the Moon settlement relate to Earth? What does it mean to be a space settler?" Here, the focus was on Earth-Moon relations, from logistics (supplies, health monitoring, communication) to cultural identity—how Earthlings perceive the settlers, how they see themselves, and what it means to be “from” the Moon. This also touched on the long-term future—what happens after one has lived on the Moon, or for those who are born there?
   </aside>
 </section>
 
