@@ -578,7 +578,8 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5. Learning To Moonwalk</span></h1>
     <aside class="notes">
     - Alongside these projects, and drawing from how students approach them, we also design and build objects with the same intent—making what is often just imagined more tangible, while deeply engaging with the locality of the aesthetic experience.<br><br>
-    - which is where the video I mentioned at the start of this presentation comes in.
+    - which is where the video I mentioned at the start of this presentation comes in.<br><br>
+    - https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa
   </aside>
 </section>
 
