@@ -353,13 +353,14 @@ layout: future-space
 
 <section data-background-image="assets/imgs/1999.jpg" data-state=nspdos>
     <aside class="notes">
+    - From these discussions, a series of key ideas emerged, and I’m going to share some of them here.<br><br>
     - Designing for the Moon is not just about infrastructure—it’s about shaping entirely new ways of living. The built environment, policies, and governance structures don’t just determine survival; they actively shape social relationships, rhythms of life, and cultural values. On the Moon, everything is extreme—gravity, resources, isolation—which means that every design decision has consequences beyond function.<br><br>
 
 For example, the way time is structured can reshape daily life. Instead of Earth’s standard 8-hour work-rest cycles, a lunar society could be structured around 6-hour blocks, balancing community contributions with self-determined time. Similarly, the Moon’s 15-day night cycle opens opportunities for nocturnal cultures, turning social life and tourism into an economic force.<br><br>
 
 Health and safety policies also take on a new role. If survival depends on mutual aid, could an obligation to provide assistance—enshrined in treaties like the Outer Space Treaty—extend beyond emergencies to include resource sharing, like calories or radiation shielding? Could architecture itself embed these principles, where handrails, airlocks, or shared oxygen systems aren’t just practical necessities, but enforcers of interdependence?<br><br>
 
-Then, there’s the question of governance. How resources like air and water are controlled will define the social and political structures of lunar life. Metering air could lead to hyper-individualism and scarcity-based economies, or it could push toward collective resource management. Legal frameworks already shape this future—while the Moon Treaty embeds mutualism, major space-faring nations refuse to ratify it, favouring competition over cooperation.<br><br>
+Then, there’s the question of governance. How resources like air and water are controlled will define the social and political structures of lunar life. Metering air could lead to hyper-individualism and scarcity-based economies, or it could push toward collective resource management. Legal frameworks already shape this future—while the Moon Treaty embeds mutualism, major space-faring nations don't ratify it, favouring competition over cooperation.<br><br>
 
 Even something as simple as how we understand nature shifts. Would lunar inhabitants train themselves to see beauty in the Moon’s landscapes rather than longing for Earth’s greenery? Would they construct artificial environments, and if so, what aspects of nature are essential for well-being?<br><br>
 
@@ -371,7 +372,9 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
 
 <section data-background-image="assets/imgs/nspdos_3.png" data-state=nspdos>
     <aside class="notes">
-    - Because the conversation was so rich, we decided—together with NSPDOS and the Santa Fe Institute’s Interplanetary Project—to expand it into a series of panels and design sprints. Each session focused more deeply on one of the situations I mentioned earlier, allowing us to build on the insights from previous discussions. It became an iterative process, where each step refined and expanded our understanding from the previous panels and so on.
+    - Because the conversation was so rich, we decided—together with NSPDOS and the Santa Fe Institute’s Interplanetary Project—to expand it into a series of panels and design sprints.<br><br> 
+    - They were called Lunar Denizens and they invovled once again a very eclectic crowed, from engineer to architects with links to the institute, to artist, strategist working within culture and other thinkers. Joseph Popper took part in our last panel actually.<br><br>
+    - Each session focused more deeply on one of the situations I mentioned earlier, and built on the insights the previous session, and previous discussions. It became an iterative process, where each step refined and expanded our understanding from the previous panels and so on.
   </aside>
 </section>
 
@@ -379,7 +382,7 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
     <style>.cs header:after { content: "Luigi Serafini, 1981 — Codex Seraphinianus"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">3. Speculative Cosmologies</span></h1>
     <aside class="notes">
-    - As we kept expanding these discussions, it became clear that we weren’t just talking about the mechanics of settlement—we were questioning the very frameworks that shape how we perceive and organise life beyond Earth. This is where speculative cosmologies come in.<br><br>
+    - As we kept expanding these discussions, we weren’t just talking about the mechanics of settlement—we were questioning the very frameworks that shape how we perceive and organise life beyond Earth. This is where speculative cosmologies come in.<br><br>
     - So If speculative ethnographies explore how cultures could be imagined or reinterpreted, speculative cosmologies take this further and ask how do we construct entire worldviews? What stories, myths, knowledge and structures define our reality?<br><br>
     - Beyond the creation of myths; they are the frameworks through which people understand their place in the universe. By speculating on them, we’re not just imagining new worlds, we’re also questioning the foundations of the ones we already inhabit.
   </aside>
@@ -469,8 +472,10 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
 <style>.auto header:after { content: "Automato, 2018 — Believe It Yourself"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">4. Critical Fables</span></h1>
     <aside class="notes">
+    - One way I put this into practice is through Critical Fables.<br><br>
     - Critical Fables is a framework I use with my students, where we treat designed objects as narratives—not tied to a specific reality but crafted to engage with speculative or critical intent. These objects act as allegories, embedding moral lessons, tensions, and critiques within their materiality. They exist in the space between the real and the unreal, using fiction to reconfigure our relationship to reality and open up different ways of imagining the future.<br><br>
-    - Unlike speculative prototypes or predictive models, Critical Fables are not about forecasting what is to come but about destabilising the assumptions that shape both present and future possibilities
+    - Unlike speculative prototypes or predictive models, Critical Fables are not about forecasting what is to come but about destabilising the assumptions that shape both present and future possibilities. <br><br>
+    - To ground this framework, there are four key aspects that shape how Critical Fables function—each offering a way of engaging with design as a tool for storytelling, speculation, and critique.
   </aside>
 </section>
 
@@ -507,6 +512,7 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
     <style>.cos header:after { content: "\\'\\'≠.\\, 2023"; }</style>
     <img style="max-width:65vh;" src="assets/imgs/cosfab.png" />
     <aside class="notes">
+    - I sought to apply this approach through a project I’ve been running with students over the past three years.<br><br>
     - For the past three years, I’ve been running this project with first-year MA Industrial Design students at Central Saint Martins. Each iteration culminates in a public-facing performance or simulation as critical design performances that become ticketed events, hosted in collaboration with live venues with deep histories in experimental practice."
   </aside>
 </section>
