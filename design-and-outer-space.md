@@ -379,7 +379,7 @@ Ultimately, the Moon is more than an environment—it’s a social experiment in
     <style>.cs header:after { content: "Luigi Serafini, 1981 — Codex Seraphinianus"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">3. Speculative Cosmologies</span></h1>
     <aside class="notes">
-    - If speculative ethnographies explore how cultures could be imagined or reinterpreted, speculative cosmologies take this further and ask how do we construct entire worldviews? What stories, myths, knowledge and structures define our reality?<br><br>
+    - So If speculative ethnographies explore how cultures could be imagined or reinterpreted, speculative cosmologies take this further and ask how do we construct entire worldviews? What stories, myths, knowledge and structures define our reality?<br><br>
     - Beyond the creation of myths; they are the frameworks through which people understand their place in the universe. By speculating on them, we’re not just imagining new worlds, we’re also questioning the foundations of the ones we already inhabit.
   </aside>
 </section>
