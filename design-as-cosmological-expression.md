@@ -3,9 +3,9 @@ title: Design As Cosmological Expression
 layout: dace
 ---
 
-<section data-state=h1 data-background-image="assets/imgs/hiragasy_2.jpg">
- <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; }</style>
-    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Speculative<br>Cosmologies</h1>
+<section data-state=h1 data-background-image="assets/imgs/mob2.jpg">
+ <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; color:"#000"}</style>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important; color:#000;" >Speculative<br>Cosmologies</h1>
 
 <aside class="notes">
     - Hello, my name is Sitraka Rakotoniaina,<br>
@@ -15,8 +15,8 @@ layout: dace
   </aside>
 </section>
 
-<section data-state=h1 data-background-image="assets/imgs/hiragasy_2.jpg">
-    <h1 class="NT" style="font-family:'mythos' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >DESIGN AS<br>COSMOLOGICAL EXPRESSION</h1>
+<section data-state=h1>
+    <h1 class="NT" style="font-family:'mythos' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >DESIGN AS<br>COSMOLOGICAL EXPRESSION</h1>
 
 <aside class="notes">
 
