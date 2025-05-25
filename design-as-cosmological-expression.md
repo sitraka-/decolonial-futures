@@ -28,7 +28,7 @@ layout: dace
     }
 </style>
      <div class="background-overlay"></div>
-    <h1 class="NT" style="font-family:'mythos' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >Pracising Friction</h1>
+    <h1 class="NT" style="font-family:'mythos' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Pracising Friction</h1>
 
 <aside class="notes">
 
