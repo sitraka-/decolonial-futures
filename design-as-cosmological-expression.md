@@ -4,7 +4,7 @@ layout: dace
 ---
 
 <section data-state=h1 data-background-image="assets/imgs/mob2.jpg">
- <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; color:#000}</style>
+ <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; color:#000;}</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important; color:#000;" >DESIGN AS<br>COSMOLOGICAL EXPRESSION</h1>
 
 <aside class="notes">
@@ -16,6 +16,18 @@ layout: dace
 </section>
 
 <section data-state=h1 data-background-image="assets/imgs/russbless.jpg">
+<style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space";}
+    .background-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0,0,0,0.4); /* adjust opacity here */
+      z-index: 0;
+    }
+</style>
+     <div class="background-overlay"></div>
     <h1 class="NT" style="font-family:'mythos' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >Pracising Friction</h1>
 
 <aside class="notes">
