@@ -24,5 +24,10 @@ layout: dace
 
 <section data-state=h1 data-background-image="assets/imgs/grec.jpg">
 <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space";color: #fff;}</style>
-    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Between Imaginaries & Systems
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Between Imaginaries & Systems</h1>
+</section>
+
+<section data-state=h1 data-background-image="assets/imgs/grec.jpg">
+<style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space";color: #fff;}</style>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Between Imaginaries & Systems</h1>
 </section>
