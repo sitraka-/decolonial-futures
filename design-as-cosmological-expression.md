@@ -15,19 +15,8 @@ layout: dace
   </aside>
 </section>
 
-<section data-state=h1 data-background-image="assets/imgs/russbless.jpg">
-<style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space";color: #fff;}
-    .background-overlay {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0,0,0,0.4); /* adjust opacity here */
-      z-index: 0;
-    }
-</style>
-     <div class="background-overlay"></div>
+<section data-state=h1 data-background-image="assets/imgs/russbless2.jpg">
+<style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space";color: #fff;}</style>
     <h1 class="NT" style="font-family:'mythos' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Pracising Friction</h1>
 
 <aside class="notes">
