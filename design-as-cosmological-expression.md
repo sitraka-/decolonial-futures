@@ -16,7 +16,7 @@ layout: dace
 </section>
 
 <section data-state=h1 data-background-image="assets/imgs/russbless.jpg">
-<style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space";}
+<style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space";color: #fff;}
     .background-overlay {
       position: absolute;
       top: 0;
