@@ -5,7 +5,7 @@ layout: dace
 
 <section data-state=h1 data-background-image="assets/imgs/mob2.jpg">
  <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; color:#000}</style>
-    <h1 class="NT" style="font-family:'mythos' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important; color:#000;" >DESIGN AS<br>COSMOLOGICAL EXPRESSION</h1>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important; color:#000;" >DESIGN AS<br>COSMOLOGICAL EXPRESSION</h1>
 
 <aside class="notes">
     - Hello, my name is Sitraka Rakotoniaina,<br>
@@ -15,8 +15,8 @@ layout: dace
   </aside>
 </section>
 
-<section data-state=h1>
-    <h1 class="NT" style="font-family:'mythos' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >DESIGN AS<br>COSMOLOGICAL EXPRESSION</h1>
+<section data-state=h1 data-background-image="assets/imgs/russbless.jpg">
+    <h1 class="NT" style="font-family:'mythos' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >Pracising Friction</h1>
 
 <aside class="notes">
 
