@@ -4,5 +4,5 @@ This repo was created for a presentation I gave at Decolonial Futures at the Uni
 > ##### INDEX 
 > [✓ Decolonising Outer Space](decolonising-outer-space.md)  
 > [✓ Designing Things](designing-things.md)  
-> [✓ Design And Outer Space: Crafting Worlds From Within](design-and-outer-space.md)
+> [✓ Design And Outer Space: Crafting Worlds From Within](design-and-outer-space.md)  
 > [✓ Design As Cosmological Expression: Practising Friction](design-as-cosmological-expression.md)

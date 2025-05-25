@@ -1,6 +1,6 @@
 ---
 title: Design As Cosmological Expression
-layout: future-space
+layout: dace
 ---
 
 <section data-state=h1 >
