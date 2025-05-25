@@ -26,10 +26,10 @@ layout: dace
 <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space";color: #fff;}</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >Between Imaginaries & Systems</h1>
     <aside class="notes">
-    “I’m not interested in imagination as something separate from systems — a poetic aside to technical function. Instead, I explore how imaginaries are woven into the very fabric of systems — whether in a sensing architecture, a user interface, or a sonic prosthesis. Systems are carriers of worldview. They embed logic, hierarchy, narrative. To design a system is to give form to an imaginary — to make it operational.”</aside>
+    “I’m not interested in imagination as something separate from systems, a poetic aside to technical function. Instead, I like to explore how imaginaries are woven into the fabric of systems: in machines that shape how we move, in tools that derive sounds and tracks from what we see, in setups that let us hear cultural history differently, and in software that opens sound as a shifting, unfinished space. Systems are carriers of worldview. They embed logic, hierarchy, narrative. To design a system is to give form to an imaginary, to make it operational.”</aside>
 </section>
 
-<section data-state=h1 data-background-image="assets/imgs/grec.jpg">
+<section data-state=h1 data-background-image="assets/imgs/ggrr.png">
 <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space";color: #fff;}</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >Between Cosmologies & Materials</h1>
     <aside class="notes">
