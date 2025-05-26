@@ -201,7 +201,7 @@ layout: dace
     <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
     <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6.2rem !important;" >Speculative<br>Ethnographies</h1>
     <aside class="notes">
-    - So from this interplay of imaginaries, worldviews, and designs emerges the potential for alternative, speculative worlds. Speculative ethnographies offer a way to bring these futures into tangible forms—reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
+    - So from this interplay of imaginaries, worldviews, and designs may emerge the potential for alternatives. Speculative ethnographies offer a way to bring these ideas into tangible forms—reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
   </aside>
 </section>
 
@@ -213,15 +213,60 @@ layout: dace
   </aside>
 </section>
 
-<!-- <section data-background-image="assets/imgs/rg_dd.png" data-state=neny>
-    <style>.neny header:after { content: "Lalao Razafindralambo, 2023 — Dancing on Malagasy music"; }</style>
-    <iframe width="1280" height="512" src="https://www.youtube.com/embed/DJj9cqAqpVc?si=-itL4n4OrdTX2ei4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</section> -->
 
 <section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
     <style>.kesh header:after { content: "Ursula K. LeGuin & Todd Barton, 1985 — Music and poetry of the Kesh"; }</style>
     <aside class="notes">
     - In a different take on speculative ethnography, Ursula Le Guin and Todd Barton’s Music and Poetry of the Kesh brings this idea to life through fiction. Created alongside Le Guin’s novel Always Coming Home, It was a recording on a cassette tape that brought to life the Kesh—a fictional community in post-apocalyptic Northern California—through their songs, poems, and spoken word. <br><br>
     - The Kesh’s culture, shaped by communal values and deep ties to the land, is also realised not only through narrative but through maps, recipes, and artefacts.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/nspdos_1.png" data-state=nspdos>
+    <style>.nspdos header:after { content: "NSPDOS, 2021 — Human Considerations: Speculations on Lunar Habitation"; }</style>
+    <aside class="notes">
+    - Thinking about imagined cultures and how they are brought to life, I want to briefly introduce a panel discussion I organised with NSPDOS as part of the Virtual Italian Pavilion at the Venice Biennale of Architecture in 2021. Titled Human Consideration: Speculation on Lunar Habitation, this event brought together an eclectic group of thinkers—an architect, a litterature scholar, and an anthropologist—to explore the social, architectural, and communal realities of long-term life on the Moon.<br><br>
+    - Rather than treating lunar habitation as purely an engineering challenge, NSPDOS developed a world-building premise, a stolen report from the year 2133, to reframe the problem. This allowed us to ask different kinds of questions: not just about survival, but about what kinds of societies and relationships could emerge in such an environment.<br><br>
+    - From there, we charted a path toward exploring what it truly means to live beyond Earth—not just how it might work, but how it might shape existence itself.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/nspdos_2.png" data-state=nspdos>
+    <aside class="notes">
+    - Rather than constructing a world from the top down, I wanted to start from the small, the everyday—moments, interactions, and routines. Instead of defining a fully built setting, I structured the discussion around specific situations, prompting the panel to generate stories from them and letting the world emerge through those narratives.<br><br>
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/1999.jpg" data-state=nspdos>
+    <aside class="notes">
+    - From these discussions, a series of key ideas emerged, and I’m going to share some of them here.<br><br>
+    - Designing for the Moon is not just about infrastructure—it’s about shaping entirely new ways of living. The built environment, policies, and governance structures don’t just determine survival; they actively shape social relationships, rhythms of life, and cultural values. On the Moon, everything is extreme—gravity, resources, isolation—which means that every design decision has consequences beyond function.<br><br>
+
+For example, the way time is structured can reshape daily life. Instead of Earth’s standard 8-hour work-rest cycles, a lunar society could be structured around different hour blocks, balancing community contributions with self-determined time. <br><br>
+
+Health and safety policies also take on a new role. If survival depends on mutual aid, could an obligation to provide assistance—enshrined in treaties like the Outer Space Treaty—extend beyond emergencies to include resource sharing, like calories or radiation shielding? Could architecture itself embed these principles, where handrails, airlocks, or shared oxygen systems aren’t just practical necessities, but enforcers of interdependence?<br><br>
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/ltm_d.png" data-state=ltm>
+<style>.ltm header:after { content: "VVFA, 2022 — Learning To Moonwalk"; }</style>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">Learning To Moonwalk</span></h1>
+    <aside class="notes">
+    - Alongside these projects, I also design and build objects with the same intent. This project tries to stage a speculative collision between earthly constraint and lunar myth. Built around a mechanical contraption that mimics the unstable bounce of moonwalking, it invites the body into an awkward, uneven gait—not to simulate the Moon, but to inhabit the gap between imagination and gravity.<br><br>Speculation is a method: not a vision, but a rehearsal of another way of moving, and thinking. And by performing misalignment, the work tries to open up questions about infrastructure, access, and the systems we build around our bodies<br><br>
+
+    - https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa
+  </aside>
+</section>
+
+<section data-state=ltm_f>
+    <style>.ltm_f header:after { content: "VVFA, 2024 — Learning To Moonwalk, Part 1, The Walker"; }</style>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section data-background-image="assets/imgs/pre2.jpg" data-state=ltm>
+<style>.ppe header:after { content: "Pavel Klushantsev, 1962 — Planet of storms"; }</style>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">Machine Fiction</span></h1>
+    <aside class="notes">
+    The next set of projects explores a different kind of gap. Specifically, how machines are trained to understand the world through abstract, mathematical models. What interests me is the space that opens up between the model and the reality — a space where things don’t fully align.<br><br>It’s another form of friction, this time between perception and representation, abstraction and materiality.
   </aside>
 </section>
