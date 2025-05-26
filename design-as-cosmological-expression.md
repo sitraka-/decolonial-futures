@@ -46,7 +46,7 @@ layout: dace
 
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
-    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">1. Design Poetics</span></h1>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">1. Design Poetics</span></h1>
     <aside class="notes">
     - Today, I want to discuss design as the practice of transmuting ideas into tangible realities, and a method for imagining and spawning worlds—and how this could shape the ways we may think and imagine outer space. <br><br>
     - As the stories we tell, the imaginaries we create, and the ideological projects we hold all seep into the objects and materials around us. <br><br>
@@ -144,7 +144,7 @@ layout: dace
 
 <section data-background-image="assets/imgs/empathics_32.jpg" data-state=sw1>
     <style>.sw1 header:after { content: "Saya Woolfalk, 2012 — The Empathics"; }</style>
-    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
     <aside class="notes">
     - These dimensions of design —control, negotiation, agency, and cultural mediation— beyond conceptual framing and observations, are the very lenses through which my critical and speculative design practice operates, guiding how I engage with design poiesis.
   </aside>
@@ -199,7 +199,7 @@ layout: dace
 
 <section data-background-image="assets/imgs/hiragasy_2.jpg" data-state=hg>
     <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
-    <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6.2rem !important;" >Speculative<br>Ethnographies</h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >3. Speculative<br>Ethnographies</h1>
     <aside class="notes">
     - So from this interplay of imaginaries, worldviews, and designs may emerge the potential for alternatives. Speculative ethnographies offer a way to bring these ideas into tangible forms—reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
   </aside>
@@ -265,7 +265,7 @@ Health and safety policies also take on a new role. If survival depends on mutua
 
 <section data-background-image="assets/imgs/pre2.jpg" data-state=ltm>
 <style>.ppe header:after { content: "Pavel Klushantsev, 1962 — Planet of storms"; }</style>
-    <h1 class="NT" style="font-family:'HND' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">Machine Fiction</span></h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">4. Machine Fiction</span></h1>
     <aside class="notes">
     The next set of projects explores a different kind of gap. Specifically, how machines are trained to understand the world through abstract, mathematical models. What interests me is the space that opens up between the model and the reality — a space where things don’t fully align.<br><br>It’s another form of friction, this time between perception and representation, abstraction and materiality.
   </aside>
