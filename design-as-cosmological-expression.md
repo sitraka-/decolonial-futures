@@ -250,7 +250,7 @@ Health and safety policies also take on a new role. If survival depends on mutua
 
 <section data-background-image="assets/imgs/ltm_d.png" data-state=ltm>
 <style>.ltm header:after { content: "VVFA, 2022 — Learning To Moonwalk"; }</style>
-    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">Learning To Moonwalk</span></h1>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">4. Learning To Moonwalk</span></h1>
     <aside class="notes">
     - Alongside these projects, I also design and build objects with the same intent. This project tries to stage a speculative collision between earthly constraint and lunar myth. Built around a mechanical contraption that mimics the unstable bounce of moonwalking, it invites the body into an awkward, uneven gait—not to simulate the Moon, but to inhabit the gap between imagination and gravity.<br><br>Speculation is a method: not a vision, but a rehearsal of another way of moving, and thinking. And by performing misalignment, the work tries to open up questions about infrastructure, access, and the systems we build around our bodies<br><br>
 
@@ -263,9 +263,9 @@ Health and safety policies also take on a new role. If survival depends on mutua
     <iframe width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
-<section data-background-image="assets/imgs/pre2.jpg" data-state=ltm>
+<section data-background-image="assets/imgs/pre22.jpg" data-state=ltm>
 <style>.ppe header:after { content: "Pavel Klushantsev, 1962 — Planet of storms"; }</style>
-    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">4. Machine Fiction</span></h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5. Machine Fiction</span></h1>
     <aside class="notes">
     The next set of projects explores a different kind of gap. Specifically, how machines are trained to understand the world through abstract, mathematical models. What interests me is the space that opens up between the model and the reality — a space where things don’t fully align.<br><br>It’s another form of friction, this time between perception and representation, abstraction and materiality.
   </aside>
