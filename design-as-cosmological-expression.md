@@ -36,7 +36,8 @@ layout: dace
     </aside>
 </section>
 
-<section data-state=h1 data-background-image="assets/imgs/cb.jpg">
+<section data-background-image="assets/imgs/mothership-landing_2.jpg" data-state=mother>
+    <style>.mother header:after { content: "George Clinton (Dr Funkenstein), 1977-1999 — P-Funk Mothership"; }</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >Between Speculations & Realities</h1>
     <aside class="notes">
         Speculations are not departures from reality, but ways of working within it differently. By imagining the world otherwise, we expose the assumptions that structure the present. A shift in movement, a distortion of sound, an unfamiliar interface—these speculative gestures do not point toward distant futures. They ask what becomes visible when something breaks, when the normal is unsettled. The work I'll be showing tries to engage with these tensions: navigating machine-trained latent spaces, building contraptions that rehearse impossible movements, and constructing sonic systems that unsettle what is heard, recognised, or believed to be possible. These are not exercises in fiction, but negotiations between constraint and potential to stretch existing systems until their limits reveal the space for change.
@@ -80,13 +81,6 @@ layout: dace
     - One quite famous example of control is Robert Moses's urban infrastructures, in the US between the 1930's and 1960's, particularly the low hanging overpasses on parkways to Long Island beaches, <br><br>
   </aside>
 </section>
-
-<!-- <section data-background-image="assets/imgs/mosesbeam.jpg" data-state=rmb>
- <style>.rmb header:after { content: "Arnold Newman Archives, Early 1970's — Robert Moses with the United Nations in the background"; }</style>
- <aside class="notes">
-    - Robert Moses (1888–1981), a key figure in urban planning in New York from the 1930s to the 1960s, exemplifies how design choices can enforce social and political agendas. 
-  </aside>
-</section> -->
 
 <section data-background-image="assets/imgs/rm_2.jpg" data-state=rm2>
  <style>.rm2 header:after { content: "Pictorial Parade, 1960 — Cars on a section of the Southern State Parkway"; }</style>
@@ -145,5 +139,60 @@ layout: dace
 <span class="quotes">Design is an assemblage—a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces that shape and are shaped by the world around it.</span>
 <aside class="notes">
     - Design is an assemblage—a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces, as seen in the APAS system, where political tensions, cultural anxieties, and technical requirements were all entangled in the final design.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/empathics_32.jpg" data-state=sw1>
+    <style>.sw1 header:after { content: "Saya Woolfalk, 2012 — The Empathics"; }</style>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
+    <aside class="notes">
+    - These dimensions of design —control, negotiation, agency, and cultural mediation— beyond conceptual framing and observations, are the very lenses through which my critical and speculative design practice operates, guiding how I engage with design poiesis.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/stamp.jpg" data-state=kj1>
+    <style>.kj1 header:after { content: "Khaled Jarrar, 2012 — State Of Palestine"; }</style>
+    <span class="quotes">By bringing ideas into existence, design constructs new meanings, realities, and experiences, literally spawning new worlds as it interacts with its environment—shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.</span>
+    <aside class="notes">
+    - the process of bringing ideas into existence, constructing new meanings, realities, and experiences, and literally spawning new worlds as design interacts with its environment—shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/pa.jpg" data-state=pa>
+    <style>.pa header:after { content: "Arturo Escobar, 2018 — Paraphrasing Paola Antonelli"; }</style>
+    <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
+    <aside class="notes">
+    - So design poiesis frames design’s transformative nature not as problem-solving, but as a way of reshaping meaning and relations. In this spirit, Arturo Escobar, paraphrasing Paola Antonelli, captures this potential:<br><br>
+    - Design approaches like this are critical, activist, and political. They emphasise thinkering—thinking through making—where hands-on experimentation shapes ideas. It’s less about solving problems and more about discovering and reframing them. This resonates with critical making, where the process of crafting itself becomes a tool for questioning and imagining, creating functional social fictions that challenge existing realities or produce speculation grounded in real social and material conditions.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/elk.webp" data-state=elk>
+    <style>.elk header:after { content: "Blue Origin, 2019 — O’Neill colonies"; }</style>
+    <aside class="notes">
+    - While critical and speculative approaches can aim to challenge dominant realities and reframe the conditions we inhabit, not all speculative visions share this intent. Some, like O’Neill’s space colony concepts—and more recently Bezos’ interpretation of them...
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/rg2.jpg" data-state=rg>
+    <style>.rg header:after { content: "Rick Guidice, 1970's — Interior view looking out through large windows"; }</style>
+    <aside class="notes">
+    - —present futures that, despite their technical ambition, remain tethered to existing social and political frameworks. These visions project today’s hierarchies and inequities into the future, offering continuity rather than transformation...
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/mdrs.jpg" data-state=mdrs>
+    <style>.mdrs header:after { content: "The Mars Society, 2001 — Mars Desert Research Station"; }</style>
+    <aside class="notes">
+    - When thinking about approaches that imagine and experiment with alternative ways of being—rather than simply replicating existing structures in new contexts—Lisa Messeri’s use of material instantiation is particularly compelling. <br><br>
+    -In her discussion of scientists working at the Mars Desert Research Station, she highlights how data becomes infused with narrative possibilities, turning raw information into rich stories. She frames this as a juxtaposition of Mars and Earth—two distinct places coexisting in the same space. <br><br>
+    - Which creates a scenario where the boundaries between the two begin to blur, leading to a unique encounter of the real and the speculative.  
+
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/mdrs_.png" data-state=mdrs>
+    <aside class="notes">
+    - As these two environments overlap, they generate a dynamic space— a kind of “third space”—where new relationships, dynamics, and rituals emerge. One example could be the simple yet telling act of using your tongue, to move around a tissue to wipe condensation from the inside of a helmet.
   </aside>
 </section>
