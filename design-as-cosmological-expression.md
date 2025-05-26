@@ -298,18 +298,7 @@ Here, speculation happens not through fiction, but through misrecognition—inha
   </aside>
 </section>
 
-<section data-background-image="assets/imgs/pre222.jpg" data-state=ppe>
-    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5.3 Cosmic Tuner</span></h1>
-    <aside class="notes">
-    Cosmic Tuner operates within the shared latent space of text, and sound—where machine-learned associations don’t just describe the world but produce new rules for what can be recognised, connected, or rendered sensible.<br><br>
-
-Rather than searching for fixed outputs, the tuner explores what happens when these modalities misalign—where translation falters, or meaning becomes unresolvable. Inspired by the misreading of a word like “laughter” as a mechanical tick-tock, the project uses such slippages to trace the boundaries of machinic understanding.<br><br>
-
-Here, speculation happens not through fiction, but through misrecognition—inhabiting the friction between statistical reasoning and human sense-making. The tuner does not decode meaning, but but tunes into that space where new worlds become momentarily audible, before disappearing again into noise.
-  </aside>
-</section>
-
-<section data-background-image="assets/imgs/latent-space2.png" data-state=ppe>
+<section data-background-image="assets/imgs/latent-space2.png">
     <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">Latent Space</span></h1>
     <aside class="notes">
     Latent space is a mathematical structure where a machine positions different types of data—like text, sound, or images—based on patterns it has learned from training. It’s a kind of semantic map, where things that the system understands as similar are placed close together, and dissimilar things are placed further apart.<br><br>
