@@ -275,6 +275,21 @@ Health and safety policies also take on a new role. If survival depends on mutua
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5.1 Seeing Through Sound</span></h1>
     <aside class="notes">
     An ongoing experiment in translating visual detection into real-time sound.
-Developed through several iterations, including a version made in collaboration with Nick, this project uses object detection to generate MIDI-based audio directly from video input. Objects don’t produce symbolic meaning—they become active agents in a system that reads space, motion, and form as sonic events. The result isn’t a soundtrack but a live perceptual system: one that operates in the space between recognition and interpretation, generating a new logic of association between what is seen and what is heard.
+Developed through several iterations, including a version made for a collaboration with Nick Mortimer, this project uses object detection to generate MIDI-based audio directly from video input. Objects don’t produce symbolic meaning—they become active agents in a system that reads space, motion, and form as sonic events. The result isn’t a soundtrack but a live perceptual system: one that operates in the space between recognition and interpretation, generating a new logic of association between what is seen and what is heard.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/pre222.jpg" data-state=ppe>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5.2 Seeing Through Sound</span></h1>
+    <aside class="notes">
+    An ongoing experiment in translating visual detection into real-time sound.
+Developed through several iterations, including a version made for a collaboration with Nick Mortimer, this project uses object detection to generate MIDI-based audio directly from video input. Objects don’t produce symbolic meaning—they become active agents in a system that reads space, motion, and form as sonic events. The result isn’t a soundtrack but a live perceptual system: one that operates in the space between recognition and interpretation, generating a new logic of association between what is seen and what is heard.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/pre222.jpg" data-state=ppe>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5.3 Granny Flips</span></h1>
+    <aside class="notes">
+    Granny Flips is a performance instrument built around a shared technique: the slicing and recombination of sound fragments. But it stages a negotiation between two divergent sonic traditions that use this process toward very different ends.<br><br>Boombap, emerging from cultural and material constraint, treats fragments as recognisable claims to history—recycling and asserting presence through rhythm and repetition. Granular synthesis, developed in academic and experimental contexts, disperses those same fragments into texture, abstraction, and immersive atmospheres.<br><br>Granny Flips holds both in friction. The friction becomes performable—an ongoing negotiation of sonic meaning and material history.
   </aside>
 </section>
