@@ -306,3 +306,7 @@ Here, speculation happens not through fiction, but through misrecognition—inha
 Although the space exists in hundreds of dimensions (often 512 or more), what we see is a compressed projection—reduced to two or three dimensions so we can visualise and navigate it. What we see is a fragment of some reality, a diagram of machine understanding: a model of what the system believes belongs together, what it thinks is meaningful, and where its sense-making starts to break down.
   </aside>
 </section>
+
+<section data-state=jg>
+    <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.4;font-size: 8rem !important;" >THANK YOU<br><span style="font-size:2rem !important; text-transform: lowercase !important; font-family:'picnic'">@sitraka___ / sitraka@vvfa.space</span></h1>
+</section>
