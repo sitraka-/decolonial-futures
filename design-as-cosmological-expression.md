@@ -57,7 +57,7 @@ layout: dace
 </section>
 
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
-    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards and normalises behaviours and practices.</span>
+    <span class="quotes">The design process itself, beyond its final outcome, embodies and perpetuates power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards and normalises behaviours and practices.</span>
     <aside class="notes">
     - Much like metaphors can create "pictures" or conceptual frameworks that orient thinking, design functions as both an instrument and an infrastructure that shapes our aesthetic relations to the world. <br><br>
     - And by aesthetic, I don’t just mean the way things look, but the ways we perceive, sense, and experience the world around us.<br><br>
@@ -136,7 +136,7 @@ layout: dace
 </section>
 
 <section data-background-image="assets/imgs/apas9522.jpg" data-state=apas95>
-<span class="quotes">Design is an assemblage—a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces that shape and are shaped by the world around it.</span>
+<span class="quotes">Design is an assemblage: a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces that shape and are shaped by the world around it.</span>
 <aside class="notes">
     - Design is an assemblage—a dynamic constellation of ideas, practices, technologies, and social norms. It is never a singular object or process but a convergence of multiple forces, as seen in the APAS system, where political tensions, cultural anxieties, and technical requirements were all entangled in the final design.
   </aside>
@@ -152,7 +152,7 @@ layout: dace
 
 <section data-background-image="assets/imgs/stamp.jpg" data-state=kj1>
     <style>.kj1 header:after { content: "Khaled Jarrar, 2012 — State Of Palestine"; }</style>
-    <span class="quotes">By bringing ideas into existence, design constructs new meanings, realities, and experiences, literally spawning new worlds as it interacts with its environment—shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.</span>
+    <span class="quotes">By bringing ideas into existence, design constructs new meanings, realities, and experiences, literally spawning new worlds as it interacts with its environment, shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.</span>
     <aside class="notes">
     - the process of bringing ideas into existence, constructing new meanings, realities, and experiences, and literally spawning new worlds as design interacts with its environment—shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.
   </aside>
@@ -194,5 +194,34 @@ layout: dace
 <section data-background-image="assets/imgs/mdrs_.png" data-state=mdrs>
     <aside class="notes">
     - As these two environments overlap, they generate a dynamic space— a kind of “third space”—where new relationships, dynamics, and rituals emerge. One example could be the simple yet telling act of using your tongue, to move around a tissue to wipe condensation from the inside of a helmet.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/hiragasy_2.jpg" data-state=hg>
+    <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
+    <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6.2rem !important;" >Speculative<br>Ethnographies</h1>
+    <aside class="notes">
+    - So from this interplay of imaginaries, worldviews, and designs emerges the potential for alternative, speculative worlds. Speculative ethnographies offer a way to bring these futures into tangible forms—reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
+  </aside>
+</section>
+
+<section data-state=hg data-background-image="assets/imgs/hiragasy_.png">
+    <aside class="notes">
+    - One example of this is the Hira Gasy. This traditional Malagasy performance is a great example of speculative ethnography in practice. Costumes from the Merina Kingdom of the 19th century drew on European military attire—jackets, trousers, and sashes.<br><br>
+    - But they weren’t just copies. Instead, they were reinterpreted, woven with bold Malagasy patterns and colours that turned symbols of colonial authority into something uniquely local as an expression of identity and autonomy. <br><br>
+    - Here, the Merina engaged in a speculative reimagining of ‘Europeanness,’ using design to assert cultural agency and resist imposed narratives.
+  </aside>
+</section>
+
+<!-- <section data-background-image="assets/imgs/rg_dd.png" data-state=neny>
+    <style>.neny header:after { content: "Lalao Razafindralambo, 2023 — Dancing on Malagasy music"; }</style>
+    <iframe width="1280" height="512" src="https://www.youtube.com/embed/DJj9cqAqpVc?si=-itL4n4OrdTX2ei4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section> -->
+
+<section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
+    <style>.kesh header:after { content: "Ursula K. LeGuin & Todd Barton, 1985 — Music and poetry of the Kesh"; }</style>
+    <aside class="notes">
+    - In a different take on speculative ethnography, Ursula Le Guin and Todd Barton’s Music and Poetry of the Kesh brings this idea to life through fiction. Created alongside Le Guin’s novel Always Coming Home, It was a recording on a cassette tape that brought to life the Kesh—a fictional community in post-apocalyptic Northern California—through their songs, poems, and spoken word. <br><br>
+    - The Kesh’s culture, shaped by communal values and deep ties to the land, is also realised not only through narrative but through maps, recipes, and artefacts.
   </aside>
 </section>
