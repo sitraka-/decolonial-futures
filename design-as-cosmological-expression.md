@@ -263,7 +263,7 @@ Health and safety policies also take on a new role. If survival depends on mutua
     <iframe width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
-<section data-background-image="assets/imgs/pre22.jpg" data-state=ltm>
+<section data-background-image="assets/imgs/pre222.jpg" data-state=ltm>
 <style>.ppe header:after { content: "Pavel Klushantsev, 1962 — Planet of storms"; }</style>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5. Machine Fiction</span></h1>
     <aside class="notes">
