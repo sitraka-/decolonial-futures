@@ -263,10 +263,18 @@ Health and safety policies also take on a new role. If survival depends on mutua
     <iframe width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
-<section data-background-image="assets/imgs/pre222.jpg" data-state=ltm>
+<section data-background-image="assets/imgs/pre222.jpg" data-state=ppe>
 <style>.ppe header:after { content: "Pavel Klushantsev, 1962 — Planet of storms"; }</style>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5. Machine Fiction</span></h1>
     <aside class="notes">
     The next set of projects explores a different kind of gap. Specifically, how machines are trained to understand the world through abstract, mathematical models. What interests me is the space that opens up between the model and the reality — a space where things don’t fully align.<br><br>It’s another form of friction, this time between perception and representation, abstraction and materiality.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/pre222.jpg" data-state=ppe>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5.1 Seeing Through Sound</span></h1>
+    <aside class="notes">
+    An ongoing experiment in translating visual detection into real-time sound.
+Developed through several iterations, including a version made in collaboration with Nick, this project uses object detection to generate MIDI-based audio directly from video input. Objects don’t produce symbolic meaning—they become active agents in a system that reads space, motion, and form as sonic events. The result isn’t a soundtrack but a live perceptual system: one that operates in the space between recognition and interpretation, generating a new logic of association between what is seen and what is heard.
   </aside>
 </section>
