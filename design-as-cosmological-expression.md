@@ -280,16 +280,40 @@ Developed through several iterations, including a version made for a collaborati
 </section>
 
 <section data-background-image="assets/imgs/pre222.jpg" data-state=ppe>
-    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5.2 Seeing Through Sound</span></h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5.2 Granny Flips</span></h1>
     <aside class="notes">
-    An ongoing experiment in translating visual detection into real-time sound.
-Developed through several iterations, including a version made for a collaboration with Nick Mortimer, this project uses object detection to generate MIDI-based audio directly from video input. Objects don’t produce symbolic meaning—they become active agents in a system that reads space, motion, and form as sonic events. The result isn’t a soundtrack but a live perceptual system: one that operates in the space between recognition and interpretation, generating a new logic of association between what is seen and what is heard.
+    Granny Flips is a performance instrument built around a shared technique: the slicing and recombination of sound fragments. But it stages a negotiation between two divergent sonic traditions that use this process toward very different ends.<br><br>Boombap, emerging from cultural and material constraint, treats fragments as recognisable claims to history—recycling and asserting presence through rhythm and repetition. Granular synthesis, developed in academic and experimental contexts, disperses those same fragments into texture, abstraction, and immersive atmospheres.<br><br>Granny Flips holds both in friction. The friction becomes performable—an ongoing negotiation of sonic meaning and material history.
+  </aside>
+</section>
+
+
+<section data-background-image="assets/imgs/pre222.jpg" data-state=ppe>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5.3 Cosmic Tuner</span></h1>
+    <aside class="notes">
+    Cosmic Tuner operates within the shared latent space of text, and sound—where machine-learned associations don’t just describe the world but produce new rules for what can be recognised, connected, or rendered sensible.<br><br>
+
+Rather than searching for fixed outputs, the tuner explores what happens when these modalities misalign—where translation falters, or meaning becomes unresolvable. Inspired by the misreading of a word like “laughter” as a mechanical tick-tock, the project uses such slippages to trace the boundaries of machinic understanding.<br><br>
+
+Here, speculation happens not through fiction, but through misrecognition—inhabiting the friction between statistical reasoning and human sense-making. The tuner does not decode meaning, but but tunes into that space where new worlds become momentarily audible, before disappearing again into noise.
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/pre222.jpg" data-state=ppe>
-    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5.3 Granny Flips</span></h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5.3 Cosmic Tuner</span></h1>
     <aside class="notes">
-    Granny Flips is a performance instrument built around a shared technique: the slicing and recombination of sound fragments. But it stages a negotiation between two divergent sonic traditions that use this process toward very different ends.<br><br>Boombap, emerging from cultural and material constraint, treats fragments as recognisable claims to history—recycling and asserting presence through rhythm and repetition. Granular synthesis, developed in academic and experimental contexts, disperses those same fragments into texture, abstraction, and immersive atmospheres.<br><br>Granny Flips holds both in friction. The friction becomes performable—an ongoing negotiation of sonic meaning and material history.
+    Cosmic Tuner operates within the shared latent space of text, and sound—where machine-learned associations don’t just describe the world but produce new rules for what can be recognised, connected, or rendered sensible.<br><br>
+
+Rather than searching for fixed outputs, the tuner explores what happens when these modalities misalign—where translation falters, or meaning becomes unresolvable. Inspired by the misreading of a word like “laughter” as a mechanical tick-tock, the project uses such slippages to trace the boundaries of machinic understanding.<br><br>
+
+Here, speculation happens not through fiction, but through misrecognition—inhabiting the friction between statistical reasoning and human sense-making. The tuner does not decode meaning, but but tunes into that space where new worlds become momentarily audible, before disappearing again into noise.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/latent-space2.png" data-state=ppe>
+    <h1 class="NT" style="font-family:'Major Mono Display' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">Latent Space</span></h1>
+    <aside class="notes">
+    Latent space is a mathematical structure where a machine positions different types of data—like text, sound, or images—based on patterns it has learned from training. It’s a kind of semantic map, where things that the system understands as similar are placed close together, and dissimilar things are placed further apart.<br><br>
+
+Although the space exists in hundreds of dimensions (often 512 or more), what we see is a compressed projection—reduced to two or three dimensions so we can visualise and navigate it. What we see is a fragment of some reality, a diagram of machine understanding: a model of what the system believes belongs together, what it thinks is meaningful, and where its sense-making starts to break down.
   </aside>
 </section>
