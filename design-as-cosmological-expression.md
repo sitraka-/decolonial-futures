@@ -264,7 +264,7 @@ Health and safety policies also take on a new role. If survival depends on mutua
 <style>.ppe header:after { content: "Pavel Klushantsev, 1962 — Planet of storms"; }</style>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5. Machine Fiction</span></h1>
     <aside class="notes">
-    The next set of projects explores a different kind of gap. Specifically, how machines are trained to understand the world through abstract, mathematical models. What interests me is the space that opens up between the model and the reality — a space where things don’t fully align.<br><br>It’s another form of friction, this time between perception and representation, abstraction and materiality.
+    The next set of projects explores a different kind of gap. Specifically, how machines are trained to understand the world through abstract, mathematical models. What interests me is the space that opens up between the model and the reality — a space where things don’t fully align.<br><br>It’s another form of friction, this time between perception and representation.
   </aside>
 </section>
 
@@ -279,7 +279,7 @@ Developed through several iterations, including a version made for a collaborati
 <section data-background-image="assets/imgs/pre222.jpg" data-state=ppe>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">5.2 Granny Flips</span></h1>
     <aside class="notes">
-    Granny Flips is a performance instrument built around a shared technique: the slicing and recombination of sound fragments. But it stages a negotiation between two divergent sonic traditions that use this process toward very different ends.<br><br>Boombap, emerging from cultural and material constraint, treats fragments as recognisable claims to history—recycling and asserting presence through rhythm and repetition. Granular synthesis, developed in academic and experimental contexts, disperses those same fragments into texture, abstraction, and immersive atmospheres.<br><br>Granny Flips holds both in friction. The friction becomes performable—an ongoing negotiation of sonic meaning and material history.
+    Granny Flips is a performance instrument built around a shared technique: the slicing and recombination of sound fragments. But it stages a negotiation between two divergent sonic traditions that use this process toward very different ends.<br><br>Boombap, emerging from cultural and material constraint, limited machine memory and computation, treats fragments as recognisable claims to history—recycling and asserting presence through rhythm and repetition. Granular synthesis, emerging from academically and technologically abundant experimental contexts, disperses sonic fragments into lush textures, abstractions, and immersive atmospheres.<br><br>Granny Flips holds both in friction. The friction becomes performable—an ongoing negotiation of sonic meaning and material history.
   </aside>
 </section>
 
