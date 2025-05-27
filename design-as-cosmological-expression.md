@@ -198,7 +198,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >3. Speculative<br>Ethnographies</h1>
     <aside class="notes">
-    - So from this interplay of imaginaries, worldviews, and designs may emerge the potential for alternatives. And I'm interested in Speculative ethnographies offer a way to bring these ideas into tangible forms—reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
+    - So from this interplay of imaginaries, worldviews, and designs may emerge the potential for alternatives. And I'm interested in Speculative ethnographies as it offers a way to bring these ideas into tangible forms—reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
   </aside>
 </section>
 
