@@ -11,10 +11,10 @@ layout: dace
     - Hello, my name is Sitraka Rakotoniaina,<br>
     - I am an Artist, designer originally from Madagascar and currently living and working in London.<br>
     - I'm in my 2nd year of PhD so still sort of early in the process, and things are a bit scattered everywhere. <br>
-    - Going to read few bits and pieces sequenced in this presentation. My aim is to do 20 min talking max then show some projects and have a conversation about those. <br>
+    - Going to read few bits and pieces sequenced in this presentation, so at least we have some kind of context or reason. My aim is to do 20 min talking max then show some projects and have a conversation about those, if you don't mind. <br>
     - My PhD is about speculative cosmologies, cosmic simulation as critical design practice. Cosmic as in meaning making, worldview and cultural imagination<br>
     How imagining new cosmologies explored through simulations can inform and guide us in engaging with the unknown, in making room for otherness, and difference?<br><br>
-    And what I'm presenting today is the part that looks at how design acts as an instrument of cosmological expression, a way of materialising worldviews, shaping what is thinkable, and structuring how reality is experienced.<br><br>I’m interested in how it gives form to ideas, values, and systems—how it embeds imaginaries into tools, infrastructures, gestures, and environments. The projects I’ll be sharing explore that idea through sound, perception, movement, and machine learning—where design operates between speculation and material constraint.
+    And what I'm presenting today is the part that looks at how design acts as an instrument of cosmological expression, a way of materialising worldviews, shaping what is thinkable, and structuring how reality is experienced.<br><br>I’m interested in how design gives form to ideas, values, and systems—how it embeds imaginaries into tools, infrastructures, gestures, and environments. The projects I’ll be sharing explore that idea through sound, movement, machine perception and machine learning—where design operates between speculation and material constraint.
   </aside>
 </section>
 
@@ -23,11 +23,7 @@ layout: dace
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Practising Friction</h1>
 
 <aside class="notes">
-    Currently most of my projects aren't aiming aiming for resolution or coherence, they often sit between things, sometimes in contradictions. that's what I mean by this practising friction.<br><br>
-
-It’s a way of using it as a sort of method. Friction becomes the space where new forms of sense-making emerge.
-
-
+    Currently most of my projects aren't aiming aiming for resolution or coherence, they often sit inbetween things, sometimes in contradictions. that's what I mean by this practising friction.<br><br>It’s a way of using it as a sort of method, where it becomes the space where new forms of sense-making emerge.
 </aside>
 </section>
 
@@ -35,13 +31,15 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
 <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space";color: #fff;}</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >Between Imaginaries & Systems</h1>
     <aside class="notes">
-    I’m not interested in imagination as something separate from systems, like a sort of poetic aside to technical function. Instead, I like to explore how imaginaries are woven into the fabric of systems: in machines that shape how we move, in tools that derive sounds and music from what we see. They shape what is designed, what is excluded, and what is made operational. A gesture, a sound, a rhythm can all be the outputs of logics inherited from elsewhere: scientific infrastructures, computational training sets, embedded values coded into how things function. Obviously, design does not sit outside these structures, it works within them by reinforcing their assumptions or twisting their logic. in other words, systems are carriers of worldview. They embed logic, hierarchy, narrative. To design a system is to give form to an imaginary, to make it operational.</aside>
+    - I’m not interested in imagination as something separate from systems, like a sort of poetic aside to technical function. Instead, I d'like to explore how imaginaries are woven into the fabric of systems: in machines that shape how we move, in tools that derive sounds and music from what we see, and so on.<br>
+    - They shape what is designed, what is excluded, and what is made operational. A gesture, a sound, a rhythm can all be the outputs of logics inherited from elsewhere: scientific infrastructures, computational training sets, embedded values coded into how things function. <br>
+    - Obviously, design does not sit outside of these structures, it works within them by reinforcing their assumptions or twisting their logic. in other words, systems are carriers of worldview. They embed logic, hierarchy, narrative. To design a system is to give form to an imaginary, to make it operational.</aside>
 </section>
 
 <section data-state=h1 data-background-image="assets/imgs/ggrr.png">
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >Between Cosmologies & Materials</h1>
     <aside class="notes">
-        I’m not interested in cosmologies as abstract belief systems floating above the world. Every cosmology is material not only in objects or artefacts, but in how it arranges life, bodies, actions. What matters is the affordances it enables, the behaviours it scripts, the relations it structures. Even a policy has material consequences; it shapes who can move, who can breathe, who can speak. Even digital materials like data sets, interfaces, code, carry cosmological weight, shaping how the world is sensed, categorised, or made actionable. Materials are not passive carriers of meaning; they are active participants in how cosmologies are enacted and felt. I'm interested in exploringe how ideas emerge through materials, and how materials carry, distort, or resist those ideas.
+        I’m not interested in cosmologies as abstract belief systems floating above the world. Every cosmology is material not only in objects or artefacts, but in how it arranges life, bodies, actions. What matters to me is the affordances it enables, the behaviours it scripts, the relations it structures. The same way a policy has material consequences; it shapes who can move, who can breathe, who can speak. Even digital materials like data sets, interfaces, code, carry cosmological weight, shaping how the world is sensed, categorised, or made actionable. <br><br>Materials are not passive carriers of meaning; they are active participants in how cosmologies are enacted and felt. I'm interested in exploringe how ideas emerge through materials, and how materials carry, distort, or resist those ideas.
     </aside>
 </section>
 
@@ -49,7 +47,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <style>.mother header:after { content: "George Clinton (Dr Funkenstein), 1977-1999 — P-Funk Mothership"; }</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >Between Speculations & Realities</h1>
     <aside class="notes">
-        Speculations are ways of working within realities differently. By imagining the world otherwise, we expose the assumptions that structure the present. A shift in movement, a distortion of sound, an unfamiliar interface—these speculative gestures do not point toward distant futures. They ask what becomes visible when something breaks, when the normal is unsettled. <br><br>The work I'll be showing tries to engage with these tensions to maybe reveal a space for change.
+        Speculations are ways of working within realities differently. By imagining the world otherwise, we expose the assumptions that structure the present. Speculative gestures do not point toward distant futures. They ask what becomes visible when something breaks, when the normal is unsettled. <br><br>The work I'll be showing tries to engage with these tensions to maybe one day reveal a space for change.
     </aside>
 </section>
 
@@ -57,10 +55,9 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">1. Design Poetics</span></h1>
     <aside class="notes">
-    - I'll start with talking about design as the practice of transmuting ideas into tangible realities, and a method for imagining and spawning worlds <br><br>
-    - As the stories we tell, the imaginaries we create, and the ideological projects we hold all seep into the objects and materials around us. <br><br>
-    - And in turn, those materials shape how we see the world and imagine what’s possible, in this constant back-and-forth between ideas and things.<br><br>
-    - I’ll start with examples that illustrate the key dimensions of design I am interested in, before sharing the work<br><br>
+    - I'll start with talking about design as the practice of transmuting ideas into tangible realities, and a method for imagining and spawning worlds, as the stories we tell, the imaginaries we create, and the ideological projects we hold all seep into the objects and materials around us. (you've prbably hear this kind of things many times before... sorry) <br><br>
+    - And in turn, those materials shape how we see the world and imagine what’s possible.<br><br>
+    - I’ll start with examples that illustrate the key dimensions I am interested in.<br><br>
   </aside>
 </section>
 
@@ -69,7 +66,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <aside class="notes">
     - Much like metaphors can create "pictures" or conceptual frameworks that orient thinking, design functions as both an instrument and an infrastructure that shapes our aesthetic relations to the world. <br><br>
     - And by aesthetic, I don’t just mean the way things look, but the ways we perceive, sense, and experience the world around us.<br><br>
-    - In essence, design is both a product of worldviews—reflecting existing ideologies—and a tool that frames and narrows but also possibly broadens how people construct new ones. 
+    - In essence, design is both a product of worldviews—reflecting existing ideas—and a tool that frames and narrows but also possibly broadens how people construct new ones. 
   </aside>
 </section>
 
@@ -77,7 +74,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <span class="quotes">Design serves as both an instrument of control<br>and a force that shapes what is considered<br><em>natural or inevitable.</em></span>
     <aside class="notes">
     - And this duality allows design to both reinforce or challenge, enhance or disrupt existing perspectives.<br><br>
-    - So obviously design is never neutral. Every object, system, and interface carries with it the values, ideologies, and intentions of the forces that bring it into being. It is both an instrument of control and a agent that shapes what we come to see as natural or inevitable. <br><br>
+    - So obviously design is never neutral. Every object, system, and interface carries with it the values and intentions of the forces that bring it into being. It is both an instrument of control and a agent that shapes what we come to see as natural or inevitable. <br><br>
   </aside>
 </section>
 
@@ -95,7 +92,6 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
  <aside class="notes">
     - his work prevented buses—and therefore lower-income and predominantly minority communities—from accessing these public spaces. <br><br>
     - So his urban planning decisions enforced social control by building in stone who had access to certain spaces. So, these designs made segregation feel like a natural consequence of infrastructure, rather than an intentional act of exclusion.<br><br>
-    - again here design operates as a mechanism of control
   </aside>
 </section>
 
@@ -153,7 +149,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <style>.sw1 header:after { content: "Saya Woolfalk, 2012 — The Empathics"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
     <aside class="notes">
-    - These dimensions of design —control, negotiation, agency, and cultural mediation— beyond conceptual framing and observations, are the lenses through which my practice operates and engages with design poiesis.
+    - These dimensions of design —control, negotiation, agency, and cultural mediation— beyond conceptual framing and observations, are the lenses through which the work operates and engages with design poiesis.
   </aside>
 </section>
 
