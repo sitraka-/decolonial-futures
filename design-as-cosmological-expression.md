@@ -204,7 +204,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
 
 <section data-state=hg data-background-image="assets/imgs/hiragasy_.png">
     <aside class="notes">
-    - One example of this is the Hira Gasy. This traditional Malagasy performance is a great example of speculative ethnography in practice. Costumes from the Merina Kingdom of the 19th century drew on European military attire—jackets, trousers, and sashes.<br><br>
+    - One example of this is the Hira Gasy. A traditional Malagasy performance that I use as an example of speculative ethnography in practice. Costumes from the Merina Kingdom of the 19th century drew on European military attire—jackets, trousers, and sashes.<br><br>
     - But they weren’t just copies. Instead, they were reinterpreted, woven with bold Malagasy patterns and colours that turned symbols of colonial authority into something uniquely local as an expression of identity and autonomy. <br><br>
     - Here, the Merina engaged in a speculative reimagining of ‘Europeanness,’ using design to assert cultural agency and resist imposed narratives.
   </aside>
