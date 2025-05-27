@@ -163,14 +163,6 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
   </aside>
 </section>
 
-<!-- <section data-background-image="assets/imgs/pa.jpg" data-state=pa>
-    <style>.pa header:after { content: "Arturo Escobar, 2018 — Paraphrasing Paola Antonelli"; }</style>
-    <span class="quotes">Design approaches <em>[...]</em> are critical, activist, organic, and political; they are about thinkering (thinking with your hands, doing hands-on conceptual work), about problem finding and problem framing more than problem solving, and about functional social fictions rather than science fiction;</span>
-    <aside class="notes">
-    - So design poiesis frames design’s transformative nature not as problem-solving, but as a way of reshaping meaning and relations. In this spirit, Arturo Escobar, paraphrasing Paola Antonelli, captures this potential:<br><br>
-    - Design approaches like this are critical, activist, and political. They emphasise thinkering—thinking through making—where hands-on experimentation shapes ideas. It’s less about solving problems and more about discovering and reframing them. This resonates with critical making, where the process of crafting itself becomes a tool for questioning and imagining, creating functional social fictions that challenge existing realities or produce speculation grounded in real social and material conditions.
-  </aside>
-</section> -->
 
 <section data-background-image="assets/imgs/elk.webp" data-state=elk>
     <style>.elk header:after { content: "Blue Origin, 2019 — O’Neill colonies"; }</style>
@@ -206,7 +198,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >3. Speculative<br>Ethnographies</h1>
     <aside class="notes">
-    - So from this interplay of imaginaries, worldviews, and designs may emerge the potential for alternatives. Speculative ethnographies offer a way to bring these ideas into tangible forms—reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
+    - So from this interplay of imaginaries, worldviews, and designs may emerge the potential for alternatives. And I'm interested in Speculative ethnographies offer a way to bring these ideas into tangible forms—reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
   </aside>
 </section>
 
