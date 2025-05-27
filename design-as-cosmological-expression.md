@@ -9,7 +9,7 @@ layout: dace
 
 <aside class="notes">
     - Hello, my name is Sitraka Rakotoniaina,<br>
-    - I am an Artist, designer from Madagascar and currently living and working in London.<br>
+    - I am an Artist, designer originally from Madagascar and currently living and working in London.<br>
     Part of my research explores how design acts as an instrument of cosmological expression, a way of materialising worldviews, shaping what is thinkable, and structuring how reality is experienced.<br><br>I’m interested in how it gives form to ideas, values, and systems—how it embeds imaginaries into tools, infrastructures, gestures, and environments. The projects I’ll be sharing explore that idea through sound, perception, movement, and machine learning—where design operates between speculation and material constraint.
   </aside>
 </section>
