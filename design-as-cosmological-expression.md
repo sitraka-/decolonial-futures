@@ -214,7 +214,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
 <section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
     <style>.kesh header:after { content: "Ursula K. LeGuin & Todd Barton, 1985 — Music and poetry of the Kesh"; }</style>
     <aside class="notes">
-    - In a different take on speculative ethnography, Ursula Le Guin and Todd Barton’s Music and Poetry of the Kesh brings this idea to life through fiction. Created alongside Le Guin’s novel Always Coming Home, It was a recording on a cassette tape that brought to life the Kesh—a fictional community in post-apocalyptic Northern California—through their songs, poems, and spoken word. <br><br>
+    - In a different take on speculative ethnography, Ursula Le Guin and Todd Barton’s Music and Poetry of the Kesh brings uses fiction. Created alongside Le Guin’s novel Always Coming Home, It was a recording on a cassette tape that brought to life the Kesh—a fictional community in post-apocalyptic Northern California—through their songs, poems, and spoken word. <br><br>
     - The Kesh’s culture, shaped by communal values and deep ties to the land, is also realised not only through narrative but through maps, recipes, and artefacts.
   </aside>
 </section>
