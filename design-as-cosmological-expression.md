@@ -10,8 +10,7 @@ layout: dace
 <aside class="notes">
     - Hello, my name is Sitraka Rakotoniaina,<br>
     - I am an Artist, designer from Madagascar and currently living and working in London.<br>
-    - I'm also an educator, I am a lecturer at Central Saint Martins, in the MA Narrative Environments and Industrial Design courses. I'm also an Associate Lecturer in the MA Fashion Futures at London College of Fashion, and I also lecture at Goldsmiths University in the MA Expanded Practice.<br>
-    - And I'm currently doing a PhD in design at the University Of The Arts London.<br>
+    Part of my research explores how design acts as an instrument of cosmological expression, a way of materialising worldviews, shaping what is thinkable, and structuring how reality is experienced.<br><br>I’m interested in how it gives form to ideas, values, and systems—how it embeds imaginaries into tools, infrastructures, gestures, and environments. The projects I’ll be sharing explore that idea through sound, perception, movement, and machine learning—where design operates between speculation and material constraint.
   </aside>
 </section>
 
@@ -19,14 +18,20 @@ layout: dace
 <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space";color: #fff;}</style>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Practising Friction</h1>
 
-<aside class="notes"></aside>
+<aside class="notes">
+    Currently most of my projects aren't aiming aiming for resolution or coherence, I often sit inside contradictions—between ideas and materials, imaginaries and systems, speculation and reality, that's what I mean by this practising friction.<br><br>
+
+It’s a way of using it as a sort of method. Whether through awkward movement, perceptual misalignment, or conflicting sonic logics, friction becomes the space where new forms of sense-making emerge.
+
+
+</aside>
 </section>
 
 <section data-state=h1 data-background-image="assets/imgs/mitas2.jpg">
 <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space";color: #fff;}</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >Between Imaginaries & Systems</h1>
     <aside class="notes">
-    I’m not interested in imagination as something separate from systems, a poetic aside to technical function, decorative or symbolic. Instead, I like to explore how imaginaries are woven into the fabric of systems: in machines that shape how we move, in tools that derive sounds and tracks from what we see.They shape what is designed, what is excluded, and what is made operational. A gesture, a sound, a rhythm can all be the outputs of logics inherited from elsewhere: scientific infrastructures, computational training sets, embedded values coded into how things function. Obviously, design does not sit outside these structures, it works within them by reinforcing their assumptions or twisting their logic. in other words, systems are carriers of worldview. They embed logic, hierarchy, narrative. To design a system is to give form to an imaginary, to make it operational.</aside>
+    I’m not interested in imagination as something separate from systems, a poetic aside to technical function, decorative or symbolic. Instead, I like to explore how imaginaries are woven into the fabric of systems: in machines that shape how we move, in tools that derive sounds and tracks from what we see. They shape what is designed, what is excluded, and what is made operational. A gesture, a sound, a rhythm can all be the outputs of logics inherited from elsewhere: scientific infrastructures, computational training sets, embedded values coded into how things function. Obviously, design does not sit outside these structures, it works within them by reinforcing their assumptions or twisting their logic. in other words, systems are carriers of worldview. They embed logic, hierarchy, narrative. To design a system is to give form to an imaginary, to make it operational.</aside>
 </section>
 
 <section data-state=h1 data-background-image="assets/imgs/ggrr.png">
