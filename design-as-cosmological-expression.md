@@ -151,7 +151,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <style>.sw1 header:after { content: "Saya Woolfalk, 2012 — The Empathics"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">2. Design Poiesis</span></h1>
     <aside class="notes">
-    - These dimensions of design —control, negotiation, agency, and cultural mediation— beyond conceptual framing and observations, are the very lenses through which my critical and speculative design practice operates, guiding how I engage with design poiesis.
+    - These dimensions of design —control, negotiation, agency, and cultural mediation— beyond conceptual framing and observations, are the lenses through which my practice operates and engages with design poiesis.
   </aside>
 </section>
 
@@ -159,7 +159,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <style>.kj1 header:after { content: "Khaled Jarrar, 2012 — State Of Palestine"; }</style>
     <span class="quotes">By bringing ideas into existence, design constructs new meanings, realities, and experiences, literally spawning new worlds as it interacts with its environment, shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.</span>
     <aside class="notes">
-    - the process of bringing ideas into existence, constructing new meanings, realities, and experiences, and literally spawning new worlds as design interacts with its environment—shaping societal norms, cultures, politics, technologies, identities, values, and cosmologies.
+    - the process of bringing ideas into existence, constructing new meanings, realities, and experiences, and literally spawning new worlds as design interacts with its environment—shaping norms, cultures, politics, technologies, identities, values, and cosmologies.
   </aside>
 </section>
 
