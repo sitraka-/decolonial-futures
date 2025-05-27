@@ -58,8 +58,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     - Today, I want to discuss design as the practice of transmuting ideas into tangible realities, and a method for imagining and spawning worlds—and how this could shape the ways we may think and imagine outer space. <br><br>
     - As the stories we tell, the imaginaries we create, and the ideological projects we hold all seep into the objects and materials around us. <br><br>
     - And in turn, those materials shape how we see the world and imagine what’s possible, in this constant back-and-forth between ideas and things.<br><br>
-    - I’ll start with examples that illustrate the key dimensions of design I am interested in, before moving onto discussing some of the methods I use to produce work. <br><br>
-    - and at the end if there's still time I'll share a video I realised last year about a device that help simulates the feeling of moonwalking.
+    - I’ll start with examples that illustrate the key dimensions of design I am interested in, before sharing the work<br><br>
   </aside>
 </section>
 
