@@ -300,7 +300,7 @@ Here, speculation happens not through fiction, but through misrecognition—inha
     <aside class="notes">
     Latent space is a mathematical structure where a machine positions different types of data—like text, sound, or images—based on patterns it has learned from training. It’s a kind of semantic map, where things that the system understands as similar are placed close together, and dissimilar things are placed further apart.<br><br>
 
-Although the space exists in hundreds of dimensions (often 512 or more), what we see is a compressed projection—reduced to two or three dimensions so we can visualise and navigate it. What we see is a fragment of some reality, a diagram of machine understanding: a model of what the system believes belongs together, what it thinks is meaningful, and where its sense-making starts to break down.
+Although the space exists in hundreds of dimensions (often 512 or more), what I will show is a compressed projection—reduced to three dimensions, for us puny humans, so we can visualise and navigate it. What we see is a fragment of some reality, a diagram of machine understanding: a model of what the system believes belongs together, what it thinks is meaningful, and where its sense-making starts to break down.
   </aside>
 </section>
 
