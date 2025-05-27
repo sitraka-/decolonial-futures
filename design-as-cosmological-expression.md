@@ -21,9 +21,9 @@ layout: dace
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" >Practising Friction</h1>
 
 <aside class="notes">
-    Currently most of my projects aren't aiming aiming for resolution or coherence, they often sit between things, in contradictions—between ideas and materials, imaginaries and systems, speculation and reality, that's what I mean by this practising friction.<br><br>
+    Currently most of my projects aren't aiming aiming for resolution or coherence, they often sit between things, sometimes in contradictions. that's what I mean by this practising friction.<br><br>
 
-It’s a way of using it as a sort of method. Whether through awkward movement, perceptual misalignment, or conflicting sonic logics, friction becomes the space where new forms of sense-making emerge.
+It’s a way of using it as a sort of method. Friction becomes the space where new forms of sense-making emerge.
 
 
 </aside>
