@@ -10,9 +10,11 @@ layout: dace
 <aside class="notes">
     - Hello, my name is Sitraka Rakotoniaina,<br>
     - I am an Artist, designer originally from Madagascar and currently living and working in London.<br>
-    - I'm in my 2nd year of PhD so still sort of early in the process, and things are a bit scattered everywhere. My PhD is about speculative cosmologies, cosmic simulation as critical design practice. Cosmic as in meaning making, worldview and cultural imagination<br>
+    - I'm in my 2nd year of PhD so still sort of early in the process, and things are a bit scattered everywhere. <br>
+    - Going to read few bits and pieces sequenced in this presentation. My aim is to do 20 min talking max then show some projects and have a conversation about those. <br>
+    - My PhD is about speculative cosmologies, cosmic simulation as critical design practice. Cosmic as in meaning making, worldview and cultural imagination<br>
     How imagining new cosmologies explored through simulations can inform and guide us in engaging with the unknown, in making room for otherness, and difference?<br><br>
-    Part of my research explores how design acts as an instrument of cosmological expression, a way of materialising worldviews, shaping what is thinkable, and structuring how reality is experienced.<br><br>I’m interested in how it gives form to ideas, values, and systems—how it embeds imaginaries into tools, infrastructures, gestures, and environments. The projects I’ll be sharing explore that idea through sound, perception, movement, and machine learning—where design operates between speculation and material constraint.
+    And what I'm presenting today is the part that looks at how design acts as an instrument of cosmological expression, a way of materialising worldviews, shaping what is thinkable, and structuring how reality is experienced.<br><br>I’m interested in how it gives form to ideas, values, and systems—how it embeds imaginaries into tools, infrastructures, gestures, and environments. The projects I’ll be sharing explore that idea through sound, perception, movement, and machine learning—where design operates between speculation and material constraint.
   </aside>
 </section>
 
