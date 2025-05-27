@@ -236,7 +236,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
 
 <section data-background-image="assets/imgs/1999.jpg" data-state=nspdos>
     <aside class="notes">
-    - From these discussions, a series of key ideas emerged, and I’m going to share some of them here.<br><br>
+    - From these discussions, a series of key ideas emerged like:<br><br>
     - Designing for the Moon is not just about infrastructure—it’s about shaping entirely new ways of living. The built environment, policies, and governance structures don’t just determine survival; they actively shape social relationships, rhythms of life, and cultural values. On the Moon, everything is extreme—gravity, resources, isolation—which means that every design decision has consequences beyond function.<br><br>
 
 For example, the way time is structured can reshape daily life. Instead of Earth’s standard 8-hour work-rest cycles, a lunar society could be structured around different hour blocks, balancing community contributions with self-determined time. <br><br>
