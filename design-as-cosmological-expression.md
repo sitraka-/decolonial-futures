@@ -47,7 +47,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <style>.mother header:after { content: "George Clinton (Dr Funkenstein), 1977-1999 — P-Funk Mothership"; }</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >Between Speculations & Realities</h1>
     <aside class="notes">
-        Speculations are not departures from realities, but ways of working within them differently. By imagining the world otherwise, we expose the assumptions that structure the present. A shift in movement, a distortion of sound, an unfamiliar interface—these speculative gestures do not point toward distant futures. They ask what becomes visible when something breaks, when the normal is unsettled. <br><br>The work I'll be showing tries to engage with these tensions: navigating machine-trained latent spaces, building contraptions that rehearse impossible movements, and constructing sonic systems that unsettle what is heard, recognised, or believed to be possible. These are not exercises in fiction, but negotiations between constraint and potential to stretch existing systems until their limits reveal the space for change.
+        Speculations are not departures from realities, but ways of working within them differently. By imagining the world otherwise, we expose the assumptions that structure the present. A shift in movement, a distortion of sound, an unfamiliar interface—these speculative gestures do not point toward distant futures. They ask what becomes visible when something breaks, when the normal is unsettled. <br><br>The work I'll be showing tries to engage with these tensions to maybe reveal a space for change.
     </aside>
 </section>
 
