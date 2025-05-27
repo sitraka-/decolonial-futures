@@ -47,7 +47,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <style>.mother header:after { content: "George Clinton (Dr Funkenstein), 1977-1999 — P-Funk Mothership"; }</style>
     <h1 class="NT" style="font-family:'HND' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 6rem !important;" >Between Speculations & Realities</h1>
     <aside class="notes">
-        Speculations are not departures from realities, but ways of working within them differently. By imagining the world otherwise, we expose the assumptions that structure the present. A shift in movement, a distortion of sound, an unfamiliar interface—these speculative gestures do not point toward distant futures. They ask what becomes visible when something breaks, when the normal is unsettled. <br><br>The work I'll be showing tries to engage with these tensions to maybe reveal a space for change.
+        Speculations are ways of working within realities differently. By imagining the world otherwise, we expose the assumptions that structure the present. A shift in movement, a distortion of sound, an unfamiliar interface—these speculative gestures do not point toward distant futures. They ask what becomes visible when something breaks, when the normal is unsettled. <br><br>The work I'll be showing tries to engage with these tensions to maybe reveal a space for change.
     </aside>
 </section>
 
@@ -55,7 +55,7 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">1. Design Poetics</span></h1>
     <aside class="notes">
-    - Today, I want to discuss design as the practice of transmuting ideas into tangible realities, and a method for imagining and spawning worlds—and how this could shape the ways we may think and imagine outer space. <br><br>
+    - I'll start with talking about design as the practice of transmuting ideas into tangible realities, and a method for imagining and spawning worlds <br><br>
     - As the stories we tell, the imaginaries we create, and the ideological projects we hold all seep into the objects and materials around us. <br><br>
     - And in turn, those materials shape how we see the world and imagine what’s possible, in this constant back-and-forth between ideas and things.<br><br>
     - I’ll start with examples that illustrate the key dimensions of design I am interested in, before sharing the work<br><br>
