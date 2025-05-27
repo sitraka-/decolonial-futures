@@ -76,7 +76,6 @@ It’s a way of using it as a sort of method. Friction becomes the space where n
     <aside class="notes">
     - And this duality allows design to both reinforce or challenge, enhance or disrupt existing perspectives.<br><br>
     - So obviously design is never neutral. Every object, system, and interface carries with it the values, ideologies, and intentions of the forces that bring it into being. It is both an instrument of control and a agent that shapes what we come to see as natural or inevitable. <br><br>
-    - So my work explores this duality, focusing on how it mediates our understanding of worlds, particularly when we extend our imaginations to outer space.
   </aside>
 </section>
 
