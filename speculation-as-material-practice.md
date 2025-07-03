@@ -16,8 +16,7 @@ layout: speculations
 - I also teach at the London College of Fashion in MA Fashion Futures, and at Goldsmiths in MA Design Expanded Practice.<br>
 - Outside of teaching, I run a small research and design studio called Very Very Far Away (VVFA).<br>
 - And in parallel, I’m doing a PhD in Design at UAL.<br><br>
-- Today, I’ll be mostly talking about<br>
-- the scope I’m interested in when it comes to speculative design practices.<br>
+- Today, I’ll be mostly talking about aspects of speculative design practices that I am interested in.<br>
 - how speculation can be a method for *practising friction*.<br>
 - AI’ll briefly share some work practical work I've done in that space.
 </aside>
