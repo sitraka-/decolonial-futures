@@ -63,7 +63,7 @@ While this level of control may be necessary for survival in space, it also embo
  <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important; text-transform: uppercase;">Design As Control</span></h1>
  <aside class="notes">
     - The issue isn’t just continuity or repetition — it’s how design, even when framed as neutral or technical, embeds values and assumptions.<br>
-    - A well-known example is Robert Moses’s parkway designs in New York. He built bridges deliberately low so that buses — and by extension, the people who relied on them — couldn’t pass through. What looked like a neutral engineering choice was in fact a form of social exclusion, making segregation feel like a natural outcome of infrastructure. Design here doesn’t simply respond to needs — it draws boundaries, filters bodies, encodes decisions. <br><br>
+    - A well-known example is Robert Moses’s parkway designs in New York. He built bridges deliberately low so that buses — and by extension, the people who relied on them, mostly working class — couldn’t pass through. What looked like a neutral engineering choice was in fact a form of social exclusion, making segregation feel like a natural outcome of infrastructure. Design here doesn’t simply respond to needs — it draws boundaries, filters bodies, encodes decisions. <br><br>
   </aside>
 </section>
 
