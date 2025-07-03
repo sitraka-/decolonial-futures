@@ -198,7 +198,6 @@ While this level of control may be necessary for survival in space, it also embo
     <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
     <iframe data-autoplay width="1080" height="512" src="https://www.youtube.com/embed/60uAhggLGOM?si=4DM_eeszHEZtAEcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <aside class="notes">
-    - The project was shaped by the outcomes of the Lunar Denizens design sprints, which served as prompts and starting points for the students objects and performances.
     - They drew directly from our conversations to start shaping their rituals and instruments. While some may resemble props, each object actually had to function and produce sound, adding an extra layer of challenge. so the objects are always fully realised.
   </aside>
 </section>
