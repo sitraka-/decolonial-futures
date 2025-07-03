@@ -169,7 +169,7 @@ While this level of control may be necessary for survival in space, it also embo
 </section>
 <section data-background-image="assets/imgs/ltm_222.png" data-state=ltm_f>
 <style>.ltm_f header:after { content: "VVFA, 2024 — Learning To Moonwalk, Part 1, The Walker"; }</style>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=OAXgsqBzitfhZmns&amp;start=203&autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe data-preload width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=OAXgsqBzitfhZmns&amp;start=203&autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <aside class="notes">
     So learning to moonwalk tries to stage a collision between earthly constraint and lunar myth. Built around a mechanical contraption that mimics the unstable bounce of moonwalking, it invites the body into an awkward, uneven gait—not to simulate the Moon, but to inhabit the gap between imagination and gravity.<br><br>Speculation is a method to rehearse another way of moving, and thinking. And by performing misalignment, the work tries to open up questions about infrastructure, access, and the systems we build around our bodies<br><br>
 
@@ -178,15 +178,6 @@ While this level of control may be necessary for survival in space, it also embo
 </section>
 
 <!-- ───────────────────────── 4. PEDAGOGY & PERFORMANCE ───────────────────────── -->
-
-<section data-state=cos>
-    <style>.cos header:after { content: "\\'\\'≠.\\, 2023"; }</style>
-    <img style="max-width:65vh;" src="assets/imgs/cosfab.png" />
-    <aside class="notes">
-    - This same approach—working with instability, sound, and fictional constraints—has shaped a project I’ve been running with students of the MA Industrial Design students at Central Saint Martins, over the past three years.<br><br>
-    - Each iteration culminates in a public-facing performance or simulation as critical design performances that become ticketed events, hosted in collaboration with venues with ties to experimental practices."
-  </aside>
-</section>
 
 <section data-state=ik data-background-image="assets/imgs/ik_1.png">
     <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
@@ -205,7 +196,7 @@ While this level of control may be necessary for survival in space, it also embo
 
 <section data-state=ik data-background-image="assets/imgs/ik_2.png">
     <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/60uAhggLGOM?si=4DM_eeszHEZtAEcz&amp;autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe data-preload width="1080" height="512" src="https://www.youtube.com/embed/60uAhggLGOM?si=4DM_eeszHEZtAEcz&amp;autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <aside class="notes">
     - The project was shaped by the outcomes of the Lunar Denizens design sprints, which served as prompts and starting points for the students objects and performances.
     - They drew directly from our conversations to start shaping their rituals and instruments. While some may resemble props, each object actually had to function and produce sound, adding an extra layer of challenge. so the objects are always fully realised.
@@ -222,7 +213,7 @@ While this level of control may be necessary for survival in space, it also embo
 
 <section data-state=header33 data-background-image="assets/imgs/csm_1.png">
     <style>.header33 header:after { content: "MAID at Studio Theatre, 2024 — Alchemy Of Ruin"; }</style>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/3Dv6x42-u5s?si=lV5CUi00ze6shV0z&amp;start=274&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe data-preload width="1080" height="512" src="https://www.youtube.com/embed/3Dv6x42-u5s?si=lV5CUi00ze6shV0z&amp;start=274&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <aside class="notes">
     - This year, we adjusted our approach, building on what we’ve learned over the past few years. Rather than making the connection to space explicit, we created a descriptive piece about a fictional plcace shaped by scarcity, isolation, and closed-loop systems—drawing parallels to existing environments.
   </aside>
