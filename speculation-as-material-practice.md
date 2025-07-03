@@ -177,7 +177,7 @@ layout: speculations
     <style>.cos header:after { content: "\\'\\'≠.\\, 2023"; }</style>
     <img style="max-width:65vh;" src="assets/imgs/cosfab.png" />
     <aside class="notes">
-    - I sought to apply this approach through a project I’ve been running with students over the past three years.<br><br>
+    - This same approach—working with instability, sound, and fictional constraints—has shaped a project I’ve been running with students over the past three years.<br><br>
     - For the past three years, I’ve been running this project with first-year MA Industrial Design students at Central Saint Martins. Each iteration culminates in a public-facing performance or simulation as critical design performances that become ticketed events, hosted in collaboration with live venues with deep histories in experimental practice."
   </aside>
 </section>
@@ -214,5 +214,11 @@ layout: speculations
 <!-- ───────────────────────── 5. CLOSING ───────────────────────── -->
 
 <section data-state=jg>
- <h1 class="NT" style="font-family:'HND' !important;text-transform:uppercase !important;line-height:0.4;font-size:8rem !important;">THANK YOU<br><span style="font-size:2rem !important;text-transform:lowercase !important;font-family:'picnic'">@sitraka___ / sitraka@vvfa.space</span></h1>
+<span class="quotes">Speculation is not a blueprint for the future — abstract, immaterial, and detached — but a frictional, material, and cultural practice grounded in situated acts of design.
+It holds contradictions, reworks inherited forms, and surfaces new possibilities — not through resolution, but through rehearsal.</span><br><br>
+<span style="font-size:2rem !important; text-transform: lowercase !important; font-family:'picnic'">@sitraka___ / sitraka@vvfa.space</span>
+    <aside class="notes">
+    - Speculation is not a blueprint for the future — abstract, immaterial, and detached — but a frictional, material, and cultural practice grounded in situated acts of design.<br> 
+    - It holds contradictions, reworks inherited forms, and surfaces new possibilities — not through resolution, but through rehearsal.
+  </aside>
 </section>
