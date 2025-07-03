@@ -6,4 +6,4 @@ This repo was created for a presentation I gave at Decolonial Futures at the Uni
 > [✓ Designing Things](designing-things.md)  
 > [✓ Design And Outer Space: Crafting Worlds From Within](design-and-outer-space.md)  
 > [✓ Design As Cosmological Expression: Practising Friction](design-as-cosmological-expression.md)  
-> [✓ Speculation As Practice](speculation-as-practice.md)  
+> [✓ Speculation As Material Practice](speculation-as-material-practice.md)   
