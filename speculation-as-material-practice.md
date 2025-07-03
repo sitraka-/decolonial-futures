@@ -28,7 +28,7 @@ layout: speculations
 
 <section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
     <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
-    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Rehearsal</span></h1>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important; text-transform: uppercase !important;">Design As Rehearsal</span></h1>
     <aside class="notes">
     - I want to begin with a certain tension in the way speculative futures are often imagined — especially in design. 
   </aside>
@@ -52,7 +52,7 @@ layout: speculations
 
 <section data-background-image="assets/imgs/rm_22.jpg" data-state=rm2>
  <style>.rm2 header:after { content: "Pictorial Parade, 1960 — Cars on a section of the Southern State Parkway"; }</style>
- <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Control</span></h1>
+ <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important; text-transform: uppercase;">Design As Control</span></h1>
  <aside class="notes">
     - This repetition isn’t exclusive to outer space. It exists in the way infrastructures on Earth have long been used to shape access, visibility, and value.<br>
     - A well-known example is Robert Moses’s parkway designs in New York. He built bridges deliberately low so that buses — and by extension, the people who relied on them — couldn’t pass through. What looked like a neutral engineering choice was in fact a form of social exclusion, making segregation feel like a natural outcome of infrastructure. Design here doesn’t simply respond to needs — it draws boundaries, filters bodies, encodes decisions. <br><br>
@@ -213,12 +213,12 @@ layout: speculations
 
 <!-- ───────────────────────── 5. CLOSING ───────────────────────── -->
 
-<section data-state=jg>
-<span class="quotes">Speculation is not a blueprint for the future — abstract, immaterial, and detached — but a frictional, material, and cultural practice grounded in situated acts of design.
+<section data-state=jg data-background-image="assets/imgs/mothership-landing_2.jpg">
+<span class="quotes">Speculation is not a blueprint for the future, abstract, immaterial, and detached, but a frictional, material, and cultural practice grounded in situated acts of design.
 It holds contradictions, reworks inherited forms, and surfaces new possibilities — not through resolution, but through rehearsal.</span><br><br>
 <span style="font-size:2rem !important; text-transform: lowercase !important; font-family:'picnic'">@sitraka___ / sitraka@vvfa.space</span>
     <aside class="notes">
-    - Speculation is not a blueprint for the future — abstract, immaterial, and detached — but a frictional, material, and cultural practice grounded in situated acts of design.<br> 
+    - Speculation is not a blueprint for the future, abstract, immaterial, and detached, but a frictional, material, and cultural practice grounded in situated acts of design.<br> 
     - It holds contradictions, reworks inherited forms, and surfaces new possibilities — not through resolution, but through rehearsal.
   </aside>
 </section>
