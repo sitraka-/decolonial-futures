@@ -222,7 +222,7 @@ layout: speculations
 
 <section data-state=jg data-background-image="assets/imgs/mothership-landing_2.jpg">
 <span class="quotes">Speculation is not a blueprint for the future, abstract, immaterial, and detached, but a frictional, material, and cultural practice grounded in situated acts of design.
-It holds contradictions, reworks inherited forms, and surfaces new possibilities — not through resolution, but through rehearsal.</span><br><br>
+It holds contradictions, reworks inherited forms, and surfaces new possibilities, not through resolution, but through rehearsal.</span><br><br>
 <span style="font-size:2rem !important; text-transform: lowercase !important; font-family:'picnic'">@sitraka___ / sitraka@vvfa.space</span>
     <aside class="notes">
     - Speculation is not a blueprint for the future, abstract, immaterial, and detached, but a frictional, material, and cultural practice grounded in situated acts of design.<br> 
