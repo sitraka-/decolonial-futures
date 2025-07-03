@@ -87,28 +87,78 @@ layout: speculations
   </aside>
 </section>
 
+<section data-background-image="assets/imgs/mdrs_.png" data-state=mdrs>
+    <aside class="notes">
+    - As these two environments overlap, they generate a dynamic space— a kind of “third space”—where new relationships, dynamics, and rituals emerge. One example could be the simple yet telling act of using your tongue, to move around a tissue to wipe condensation from the inside of a helmet.
+  </aside>
+</section>
 
-<!-- ───────────────────────── 2. CRITICAL FABLES ───────────────────────── -->
 
-<section data-background-image="assets/imgs/BIY_posters_d.png" data-state=auto>
- <style>.auto header:after { content: "Automato, 2018 — Believe It Yourself"; }</style>
- <h1 class="NT" style="font-family:'Picnic' !important;text-transform:capitalize !important;line-height:0.9;font-size:8rem !important;"><span style="font-size:8rem !important;">Critical Fables</span></h1>
+<!-- ───────────────────────── 2. SPECULATIVE ETHNOGRAPHIES ───────────────────────── -->
 
-<aside class="notes">
-- One way I put this into practice is through Critical Fables.<br>
-- Critical Fables is a framework I use with my students, where we treat designed objects as narratives — not tied to a specific reality but crafted to engage with speculative or critical intent...  [notes continue unchanged]
-</aside>
+<section data-background-image="assets/imgs/hiragasy_2.jpg" data-state=hg>
+    <style>.hg header:after { content: "Hery Zo Rakotondramanana, 2011 — Hira Gasy"; }</style>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" > Speculative<br>Ethnographies</h1>
+    <aside class="notes">
+    - So from this interplay of imaginaries, worldviews, and designs may emerge the potential for alternatives. Design, in this sense, is already an ethnographic act—it reads and reshapes the world simultaneously, working through gestures, objects, and forms that both reflect and construct ways of living. I’m interested in design as speculative ethnographies—as a way to bring these dynamics into tangible form, reconstructing culture by blending heritage and fiction to reimagine what is possible, often as a way to assert agency over dominant narratives.
+  </aside>
+</section>
+
+<section data-state=hg data-background-image="assets/imgs/hiragasy_.png">
+    <aside class="notes">
+    - One example of this is the Hira Gasy. A traditional Malagasy performance that I use as an example of speculative ethnography in practice. Costumes from the Merina Kingdom of the 19th century drew on European military attire—jackets, trousers, and sashes.<br><br>
+    - But they weren’t just copies. Instead, they were reinterpreted, woven with bold Malagasy patterns and colours that turned symbols of colonial authority into something uniquely local as an expression of identity and autonomy. <br><br>
+    - Here, the Merina engaged in a speculative reimagining of ‘Europeanness,’ using design to assert cultural agency and resist imposed narratives.
+  </aside>
+</section>
+
+
+<section data-background-image="assets/imgs/kesh.jpg" data-state=kesh>
+    <style>.kesh header:after { content: "Ursula K. LeGuin & Todd Barton, 1985 — Music and poetry of the Kesh"; }</style>
+    <aside class="notes">
+    - In a different take on speculative ethnography, Ursula Le Guin and Todd Barton’s Music and Poetry of the Kesh uses fiction. Created alongside Le Guin’s novel Always Coming Home, It was a recording on a cassette tape that brought to life the Kesh—a fictional community in post-apocalyptic Northern California—through their songs, poems, and spoken word. <br><br>
+    - The Kesh’s culture, shaped by communal values and deep ties to the land, is also realised not only through narrative but through maps, recipes, and artefacts.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/nspdos_1.png" data-state=nspdos>
+    <style>.nspdos header:after { content: "NSPDOS, 2021 — Human Considerations: Speculations on Lunar Habitation"; }</style>
+    <aside class="notes">
+    - Thinking about imagined cultures and how they are brought to life, I want to briefly talk about a panel discussion I organised with NSPDOS as part of the Virtual Italian Pavilion at the Venice Biennale of Architecture in 2021. Titled Human Consideration: Speculation on Lunar Habitation, this event brought together an architect, a litterature scholar, and an anthropologist—to explore the social, architectural, and communal realities of long-term life on the Moon.<br><br>
+    - Rather than treating lunar habitation as purely an engineering challenge, NSPDOS developed a world-building premise, a stolen report from the year 2133, to reframe the problem. This allowed us to ask different kinds of questions: not just about survival, but about what kinds of societies and relationships could emerge in such an environment.<br><br>
+    - From there, we charted a path toward exploring what it truly means to live beyond Earth—not just how it might work, but how it might shape existence itself.
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/nspdos_2.png" data-state=nspdos>
+    <aside class="notes">
+    - Rather than constructing a world from the top down, I wanted to start from the small, the everyday—moments, interactions, and routines. Instead of defining a fully built setting, I structured the discussion around specific situations, prompting the panel to generate stories from them and letting the world emerge through those narratives.<br><br>
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/1999.jpg" data-state=nspdos>
+    <aside class="notes">
+    - From these discussions, a series of key ideas emerged like:<br><br>
+    - Designing for the Moon is not just about infrastructure—it’s about shaping entirely new ways of living. The built environment, policies, and governance structures don’t just determine survival; they actively shape social relationships, rhythms of life, and cultural values. On the Moon, everything is extreme—gravity, resources, isolation—which means that every design decision has consequences beyond function.<br><br>
+
+For example, the way time is structured can reshape daily life. Instead of Earth’s standard 8-hour work-rest cycles, a lunar society could be structured around different hour blocks<br><br>
+
+Health and safety policies could take on a new role. If survival depends on mutual aid, could an obligation to provide assistance—which is the terms used in treaties like the Outer Space Treaty—extend beyond emergencies to include resource sharing, like calories or radiation shielding? Could architecture itself embed these principles, where handrails, airlocks, or shared oxygen systems aren’t just practical necessities, but enforcers of interdependence?<br><br>
+  </aside>
 </section>
 
 <!-- ───────────────────────── 3. SPECULATION AS PRESSURE (FRICTION) ───────────────────────── -->
 
-<section data-state=h1 data-background-image="assets/imgs/russbless2.jpg">
- <style>.h1 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; color:#fff;}</style>
- <h1 class="NT" style="font-family:'picnic' !important;text-transform:uppercase !important;line-height:0.9;font-size:8rem !important;">Practising Friction</h1>
-
-<aside class="notes">
-Currently most of my projects aren't aiming for resolution or coherence; they often sit in-between things, sometimes in contradictions. That's what I mean by practising friction...   [notes continue unchanged]
-</aside>
+<section data-background-image="assets/imgs/friction_bridge.jpg" data-state=bridge>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 7rem !important;" >Imagining Through<br>Contradiction</h1>
+    <aside class="notes">
+    - Across these examples, what becomes clear is that imagining otherwise doesn’t require clean slates.  
+    - It happens through reinterpretation, recontextualisation, and sometimes contradiction.  
+    - The Merina uniforms are colonial and subversive. The Kesh are fictional but made tactile and audible. The Moon scenarios rely on infrastructure but point toward ritual and interdependence.  
+    - These tensions are not obstacles — they’re conditions.  
+    - This leads to a shift in focus — toward the role of misalignment, difficulty, and interference in practice itself.  
+    - where the friction is not as a problem to fix, but is a site of enquiry.
+    </aside>
 </section>
 
 <!-- ───────────────────────── 3a. EXEMPLAR OF FRICTION ───────────────────────── -->
