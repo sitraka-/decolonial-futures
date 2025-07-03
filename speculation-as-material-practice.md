@@ -7,7 +7,7 @@ layout: speculations
 
 <section data-state=h2 data-background-image="assets/imgs/mob2.jpg">
  <style>.h2 header:after { content: "Sitraka Rakotoniaina — @sitraka___ / sitraka@vvfa.space"; color:#000;}</style>
- <h1 class="NT" style="font-family:'HND' !important;text-transform:uppercase !important;line-height:0.9;font-size:6rem !important;color:#000;">SPECULATION<br>AS MATERIAL PRACTICE</h1>
+ <h1 class="NT" style="font-family:'Rampart One' !important;text-transform:uppercase !important;line-height:0.9;font-size:6rem !important;color:#000;">SPECULATION<br>AS MATERIAL PRACTICE</h1>
 
 <aside class="notes">
 - Hello, my name is Sitraka Rakotoniaina.<br>
