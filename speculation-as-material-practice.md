@@ -26,10 +26,18 @@ layout: speculations
 
 <!-- ───────────────────────── 1. CRITIQUE ───────────────────────── -->
 
+<section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
+    <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">1. Design As Rehearsal</span></h1>
+    <aside class="notes">
+    - I want to begin with a certain tension in the way speculative futures are often imagined — especially in design. 
+  </aside>
+</section>
+
 <section data-background-image="assets/imgs/elk.webp" data-state=elk>
     <style>.elk header:after { content: "Blue Origin, 2019 — O’Neill colonies"; }</style>
     <aside class="notes">
-    - I want to begin with a certain tension in the way speculative futures are often imagined — especially in design. There is a tendency to project forward using the forms and systems we already know. To treat the future as something to be rendered in detail, filled in with familiar logics: private property, zoning, productivity, control. These visions appear expansive, but they often narrow what is possible, replicating the very hierarchies they claim to move beyond.<br>
+    - There is a tendency to project forward using the forms and systems we already know. To treat the future as something to be rendered in detail, filled in with familiar logics: private property, zoning, productivity, control. These visions appear expansive, but they often narrow what is possible, replicating the very hierarchies they claim to move beyond.<br>
     - One image that that get shared over and over from Blue Origin's remake of O'neil's space settlements is the "space elk". There was something strangely deeply absurd. If this is our cosmic imaginary, then what exactly are we rehearsing?
   </aside>
 </section>
