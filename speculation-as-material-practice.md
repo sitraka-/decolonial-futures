@@ -16,11 +16,10 @@ layout: speculations
 - I also teach at the London College of Fashion in MA Fashion Futures, and at Goldsmiths in MA Design Expanded Practice.<br>
 - Outside of teaching, I run a small research and design studio called Very Very Far Away (VVFA).<br>
 - And in parallel, I’m doing a PhD in Design at UAL.<br><br>
-- Today, I’ll sketch four short segments on speculation:<br>
-- First, the scope I’m interested in when it comes to speculative design practices.<br>
-- Second, a framework I use with my students called *critical fables*.<br>
-- Third, how speculation becomes a method for *practising friction*.<br>
-- And finally, I’ll briefly share some outcomes and methods that emerge from these practices.
+- Today, I’ll be mostly talking about<br>
+- the scope I’m interested in when it comes to speculative design practices.<br>
+- how speculation can be a method for *practising friction*.<br>
+- AI’ll briefly share some work practical work I've done in that space.
 </aside>
 </section>
 
@@ -37,16 +36,25 @@ layout: speculations
 <section data-background-image="assets/imgs/elk.webp" data-state=elk>
     <style>.elk header:after { content: "Blue Origin, 2019 — O’Neill colonies"; }</style>
     <aside class="notes">
-    - There is a tendency to project forward using the forms and systems we already know. To treat the future as something to be rendered in detail, filled in with familiar logics: private property, zoning, productivity, control. These visions appear expansive, but they often narrow what is possible, replicating the very hierarchies they claim to move beyond.<br><br>
-    - One image that that get shared over and over from Blue Origin's remake of O'neil's space settlements is the "space elk". There was something strangely deeply absurd. If this is our cosmic imaginary, then what exactly are we rehearsing?
+    - There’s a natural tendency to project forward using the forms and systems we already know.
+This makes many speculative projections feel homogenous and monocultural — repeating familiar logics of ownership, productivity, control.
+They appear expansive, but they narrow what is possible, reproducing the very hierarchies they claim to transcend.<br><br>
+    - Even when there's something fantastical or deeply absurd about them, like a space elk. they often stabilise what already exists.
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/rg2.jpg" data-state=rg>
     <style>.rg header:after { content: "Rick Guidice, 1970's — Interior view looking out through large windows"; }</style>
     <aside class="notes">
-    - What interests me is not just what these projections depict, but what they quietly assume. The agricultural systems, the infrastructure, the division of labour — all lifted more or less unchanged. The farms are still monocultures. The workers still shift-based. Gravity itself is faked so that business-as-usual can continue uninterrupted.<br><br>
-    - Even when framed as radical or off-world, these speculative futures continue to be tethered to deeply terrestrial logics. They present the new as a continuity of the same: technocratic control, extractive models, and spatial segregation dressed up in utopian skins.
+    - so despite their technical ambition, thes projections remain tethered to existing social and political frameworks. These visions project today’s hierarchies and inequities into the future, offering continuity rather than transformation...
+  </aside>
+</section>
+
+<section data-background-image="assets/imgs/rg3.jpg" data-state=rg2>
+    <style>.rg2 header:after { content: "Rick Guidice, 1970's — Agricultural modules in cutaway view (multiple toroids)"; }</style>
+    <aside class="notes">
+    One of Fred Scharmen's points in Space Settlements, is that the architectural planning of these space habitats tends to prioritise control, order, and efficiency. The design of O'Neill’s colonies focuses on creating highly regulated environments where everything—temperature, air quality, gravity, social behaviour—can be meticulously managed. <br><br>
+While this level of control may be necessary for survival in space, it also embodies a desire to eliminate unpredictability and disorder, reflecting a certain vision of what an ideal society should look like.
   </aside>
 </section>
 
@@ -54,7 +62,7 @@ layout: speculations
  <style>.rm2 header:after { content: "Pictorial Parade, 1960 — Cars on a section of the Southern State Parkway"; }</style>
  <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important; text-transform: uppercase;">Design As Control</span></h1>
  <aside class="notes">
-    - This repetition isn’t exclusive to outer space. It exists in the way infrastructures on Earth have long been used to shape access, visibility, and value.<br>
+    - The issue isn’t just continuity or repetition — it’s how design, even when framed as neutral or technical, embeds values and assumptions.<br>
     - A well-known example is Robert Moses’s parkway designs in New York. He built bridges deliberately low so that buses — and by extension, the people who relied on them — couldn’t pass through. What looked like a neutral engineering choice was in fact a form of social exclusion, making segregation feel like a natural outcome of infrastructure. Design here doesn’t simply respond to needs — it draws boundaries, filters bodies, encodes decisions. <br><br>
   </aside>
 </section>
