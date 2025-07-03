@@ -170,7 +170,7 @@ layout: speculations
 </section>
 <section data-background-image="assets/imgs/ltm_222.png" data-state=ltm_f>
 <style>.ltm_f header:after { content: "VVFA, 2024 — Learning To Moonwalk, Part 1, The Walker"; }</style>
-    <iframe width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/UWeQ13KR6e8?si=OAXgsqBzitfhZmns&amp;start=203" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <aside class="notes">
     So learning to moonwalk tries to stage a collision between earthly constraint and lunar myth. Built around a mechanical contraption that mimics the unstable bounce of moonwalking, it invites the body into an awkward, uneven gait—not to simulate the Moon, but to inhabit the gap between imagination and gravity.<br><br>Speculation is a method to rehearse another way of moving, and thinking. And by performing misalignment, the work tries to open up questions about infrastructure, access, and the systems we build around our bodies<br><br>
 
