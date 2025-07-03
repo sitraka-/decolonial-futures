@@ -71,24 +71,15 @@ While this level of control may be necessary for survival in space, it also embo
     <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards and normalises behaviours and practices.</span>
     <aside class="notes">
     - Much like metaphors can create "pictures" or conceptual frameworks that orient thinking, design functions as both an instrument and an infrastructure that shapes our aesthetic relations to the world. <br><br>
-    - And by aesthetic, I don’t just mean the way things look, but the ways we perceive, sense, and experience the world around us.<br><br>
+    - the ways we perceive, sense, and experience the world around us.<br><br>
     - In essence, design is both a product of worldviews—reflecting existing ideologies—and a tool that frames and narrows but also possibly broadens how people construct new ones. 
-  </aside>
-</section>
-
-<section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
-    <span class="quotes">Design serves as both an instrument of control<br>and a force that shapes what is considered<br><em>natural or inevitable.</em></span>
-    <aside class="notes">
-    - And this duality allows design to both reinforce or challenge, enhance or disrupt existing perspectives.<br><br>
-    - So obviously design is never neutral. Every object, system, and interface carries with it the values, ideologies, and intentions of the forces that bring it into being. It is both an instrument of control and a agent that shapes what we come to see as natural or inevitable. <br><br>
-    - So my work explores this duality, focusing on how it mediates our understanding of worlds, particularly when we extend our imaginations to outer space.
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/mdrs.jpg" data-state=mdrs>
     <style>.mdrs header:after { content: "The Mars Society, 2001 — Mars Desert Research Station"; }</style>
     <aside class="notes">
-    - When thinking about approaches that imagine and experiment with alternative ways of being—rather than simply replicating existing structures in new contexts—Lisa Messeri’s use of material instantiation is particularly compelling. <br><br>
+    - When thinking about approaches that imagine and experiment with alternative ways of being—rather than simply replicating existing structures in new contexts—Lisa Messeri’s use of material instantiation is particularly interesting. <br><br>
     - In her discussion of scientists working at the Mars Desert Research Station, she highlights how data becomes infused with narrative possibilities, turning raw information into rich stories. She frames this as a juxtaposition of Mars and Earth—two distinct places coexisting in the same space. <br><br>
     - Which creates a scenario where the boundaries between the two begin to blur, leading to a unique encounter of the real and the speculative.  
 
@@ -97,7 +88,7 @@ While this level of control may be necessary for survival in space, it also embo
 
 <section data-background-image="assets/imgs/mdrs_.png" data-state=mdrs>
     <aside class="notes">
-    - As these two environments overlap, they generate a dynamic space— a kind of “third space”—where new relationships, dynamics, and rituals emerge. One example could be the simple yet telling act of using your tongue, to move around a tissue to wipe condensation from the inside of a helmet.
+    - As these two environments overlap, they generate a dynamic space— a kind of “third space”—where new relationships, dynamics, and rituals emerge. Like in this example where they're using their tongue, to move around a tissue to wipe condensation from the inside of their helmet.
   </aside>
 </section>
 
@@ -132,22 +123,23 @@ While this level of control may be necessary for survival in space, it also embo
 <section data-background-image="assets/imgs/nspdos_1.png" data-state=nspdos>
     <style>.nspdos header:after { content: "NSPDOS, 2021 — Human Considerations: Speculations on Lunar Habitation"; }</style>
     <aside class="notes">
-    - Thinking about imagined cultures and how they are brought to life, I want to briefly talk about a panel discussion I organised with NSPDOS as part of the Virtual Italian Pavilion at the Venice Biennale of Architecture in 2021. Titled Human Consideration: Speculation on Lunar Habitation, this event brought together an architect, a litterature scholar, and an anthropologist—to explore the social, architectural, and communal realities of long-term life on the Moon.<br><br>
-    - Rather than treating lunar habitation as purely an engineering challenge, NSPDOS developed a world-building premise, a stolen report from the year 2133, to reframe the problem. This allowed us to ask different kinds of questions: not just about survival, but about what kinds of societies and relationships could emerge in such an environment.<br><br>
-    - From there, we charted a path toward exploring what it truly means to live beyond Earth—not just how it might work, but how it might shape existence itself.
+    - Thinking about imagined cultures and how they are brought to life, I want to briefly talk about a series of design sprints I organised with NSPDOS for the Venice Biennale in 2021. Titled Human Consideration: Speculation on Lunar Habitation and later Lunar Denizens.<br><br>
+    This event brought together academics, artists, architects, engineers, and scientists—to explore the social, architectural, and communal realities of long-term life on the Moon.<br><br>
+    - Rather than treating lunar habitation as purely an engineering challenge, we asked different kinds of questions: not just about survival, but about what kinds of societies and relationships could emerge in such an environment.<br><br>
+    - So not just how it might work, but how it might shape existence itself.
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/nspdos_2.png" data-state=nspdos>
     <aside class="notes">
-    - Rather than constructing a world from the top down, I wanted to start from the small, the everyday—moments, interactions, and routines. Instead of defining a fully built setting, I structured the discussion around specific situations, prompting the panel to generate stories from them and letting the world emerge through those narratives.<br><br>
+    - Rather than constructing a world from the top down, I wanted to start from the small, the everyday—moments, interactions, and routines. I structured the discussion around specific situations, prompting the panel to generate stories from them and letting the world emerge through the entanglement of those stories and narratives.<br><br>
   </aside>
 </section>
 
 <section data-background-image="assets/imgs/1999.jpg" data-state=nspdos>
     <aside class="notes">
     - From these discussions, a series of key ideas emerged like:<br><br>
-    - Designing for the Moon is not just about infrastructure—it’s about shaping entirely new ways of living. The built environment, policies, and governance structures don’t just determine survival; they actively shape social relationships, rhythms of life, and cultural values. On the Moon, everything is extreme—gravity, resources, isolation—which means that every design decision has consequences beyond function.<br><br>
+    - Designing for the Moon is not just about infrastructure. The built environment, policies, and governance structures don’t just determine survival; they actively shape social relationships, rhythms of life, and cultural values.<br><br>
     - For example, the way time is structured can reshape daily life. Instead of Earth’s standard 8-hour work-rest cycles, a lunar society could be structured around different hour blocks<br><br>
     - Health and safety policies could take on a new role. If survival depends on mutual aid, could an obligation to provide assistance—which is the terms used in treaties like the Outer Space Treaty—extend beyond emergencies to include resource sharing, like calories or radiation shielding? Could architecture itself embed these principles, where handrails, airlocks, or shared oxygen systems aren’t just practical necessities, but enforcers of interdependence?<br><br>
   </aside>
@@ -158,7 +150,7 @@ While this level of control may be necessary for survival in space, it also embo
 <section data-background-image="assets/imgs/pre222.jpg" data-state=bridge>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 7rem !important;" >Practising Friction</h1>
     <aside class="notes">
-    - Across these examples, what becomes clear is that imagining otherwise doesn’t require clean slates.  <br><br>
+    - Across these examples, what becomes clear is that speculating otherwise doesn’t require clean slates.  <br><br>
     - It happens through reinterpretation, recontextualisation, and sometimes contradiction.  <br><br>
     - The Merina uniforms are colonial and subversive. The Kesh are fictional but made tactile and audible. The Moon scenarios rely on infrastructure but point toward ritual and interdependence.  <br><br>
     - These tensions are not obstacles — they’re conditions.  <br><br>
@@ -192,22 +184,32 @@ While this level of control may be necessary for survival in space, it also embo
     <style>.cos header:after { content: "\\'\\'≠.\\, 2023"; }</style>
     <img style="max-width:65vh;" src="assets/imgs/cosfab.png" />
     <aside class="notes">
-    - This same approach—working with instability, sound, and fictional constraints—has shaped a project I’ve been running with students over the past three years.<br><br>
-    - For the past three years, I’ve been running this project with first-year MA Industrial Design students at Central Saint Martins. Each iteration culminates in a public-facing performance or simulation as critical design performances that become ticketed events, hosted in collaboration with live venues with deep histories in experimental practice."
+    - This same approach—working with instability, sound, and fictional constraints—has shaped a project I’ve been running with students of the MA Industrial Design students at Central Saint Martins, over the past three years.<br><br>
+    - Each iteration culminates in a public-facing performance or simulation as critical design performances that become ticketed events, hosted in collaboration with venues with ties to experimental practices."
   </aside>
 </section>
 
 <section data-state=ik data-background-image="assets/imgs/ik_1.png">
     <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
   <aside class="notes">
-    - This iteration took place at Iklectik, a venue in Waterloo, in 2022. The project was shaped by the outcomes of the Lunar Denizens panel series, which served as prompts and starting points for the students objects and performance.
+  - This same approach—working with instability, sound, and fictional constraints—has shaped a project I’ve been running with students of the MA Industrial Design students at Central Saint Martins, over the past three years.<br><br>
+    - Each iteration culminates in a public-facing performance or simulation as critical design performances that become ticketed events, hosted in collaboration with venues with ties to experimental practices."
   </aside>
 </section>
 
 <section data-state=ik data-background-image="assets/imgs/ik_2.png">
     <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
   <aside class="notes">
-    - They drew directly from our conversations to start shaping their rituals and instruments. While some may resemble props, each object had to function and produce sound, adding an extra layer of challenge. In this project, the objects are always fully realised.
+  - This iteration took place at Iklectik, a venue in Waterloo, in 2022. The project was shaped by the outcomes of the Lunar Denizens design sprints, which served as prompts and starting points for the students objects and performances.
+  </aside>
+</section>
+
+<section data-state=ik data-background-image="assets/imgs/ik_2.png">
+    <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/60uAhggLGOM?si=4DM_eeszHEZtAEcz&amp;autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <aside class="notes">
+    - The project was shaped by the outcomes of the Lunar Denizens design sprints, which served as prompts and starting points for the students objects and performances.
+    - They drew directly from our conversations to start shaping their rituals and instruments. While some may resemble props, each object actually had to function and produce sound, adding an extra layer of challenge. so the objects are always fully realised.
   </aside>
 </section>
 
@@ -221,6 +223,7 @@ While this level of control may be necessary for survival in space, it also embo
 
 <section data-state=header33 data-background-image="assets/imgs/csm_1.png">
     <style>.header33 header:after { content: "MAID at Studio Theatre, 2024 — Alchemy Of Ruin"; }</style>
+    <iframe width="1080" height="512" src="https://www.youtube.com/embed/3Dv6x42-u5s?si=lV5CUi00ze6shV0z&amp;start=274&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <aside class="notes">
     - This year, we adjusted our approach, building on what we’ve learned over the past few years. Rather than making the connection to space explicit, we created a descriptive piece about a fictional plcace shaped by scarcity, isolation, and closed-loop systems—drawing parallels to existing environments.
   </aside>
