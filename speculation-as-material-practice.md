@@ -165,7 +165,14 @@ layout: speculations
 <style>.ltm header:after { content: "VVFA, 2022 — Learning To Moonwalk"; }</style>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important; text-transform: uppercase;">Learning To Moonwalk</span></h1>
     <aside class="notes">
-    - As a follow up to this project, I started designing and building objects as simulations to capture some of these ideas, not in practice but in potential.<br><br> So learning to moonwalk tries to stage a collision between earthly constraint and lunar myth. Built around a mechanical contraption that mimics the unstable bounce of moonwalking, it invites the body into an awkward, uneven gait—not to simulate the Moon, but to inhabit the gap between imagination and gravity.<br><br>Speculation is a method to rehearse another way of moving, and thinking. And by performing misalignment, the work tries to open up questions about infrastructure, access, and the systems we build around our bodies<br><br>
+    - As a follow up to this project, I started designing and building objects as simulations to capture some of these ideas, not in practice but in potential.<br><br>
+  </aside>
+</section>
+<section data-background-image="assets/imgs/ltm_222.png" data-state=ltm>
+<style>.ltm header:after { content: "VVFA, 2022 — Learning To Moonwalk"; }</style>
+    <img src="assets/imgs/qr.png"/>
+    <aside class="notes">
+    So learning to moonwalk tries to stage a collision between earthly constraint and lunar myth. Built around a mechanical contraption that mimics the unstable bounce of moonwalking, it invites the body into an awkward, uneven gait—not to simulate the Moon, but to inhabit the gap between imagination and gravity.<br><br>Speculation is a method to rehearse another way of moving, and thinking. And by performing misalignment, the work tries to open up questions about infrastructure, access, and the systems we build around our bodies<br><br>
 
     - https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa
   </aside>
