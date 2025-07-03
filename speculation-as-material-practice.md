@@ -50,7 +50,7 @@ layout: speculations
   </aside>
 </section>
 
-<section data-background-image="assets/imgs/rm_2.jpg" data-state=rm2>
+<section data-background-image="assets/imgs/rm_22.jpg" data-state=rm2>
  <style>.rm2 header:after { content: "Pictorial Parade, 1960 — Cars on a section of the Southern State Parkway"; }</style>
  <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Design As Control</span></h1>
  <aside class="notes">
