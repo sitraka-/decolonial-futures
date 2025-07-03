@@ -37,7 +37,7 @@ layout: speculations
 <section data-background-image="assets/imgs/elk.webp" data-state=elk>
     <style>.elk header:after { content: "Blue Origin, 2019 — O’Neill colonies"; }</style>
     <aside class="notes">
-    - There is a tendency to project forward using the forms and systems we already know. To treat the future as something to be rendered in detail, filled in with familiar logics: private property, zoning, productivity, control. These visions appear expansive, but they often narrow what is possible, replicating the very hierarchies they claim to move beyond.<br>
+    - There is a tendency to project forward using the forms and systems we already know. To treat the future as something to be rendered in detail, filled in with familiar logics: private property, zoning, productivity, control. These visions appear expansive, but they often narrow what is possible, replicating the very hierarchies they claim to move beyond.<br><br>
     - One image that that get shared over and over from Blue Origin's remake of O'neil's space settlements is the "space elk". There was something strangely deeply absurd. If this is our cosmic imaginary, then what exactly are we rehearsing?
   </aside>
 </section>
@@ -45,7 +45,7 @@ layout: speculations
 <section data-background-image="assets/imgs/rg2.jpg" data-state=rg>
     <style>.rg header:after { content: "Rick Guidice, 1970's — Interior view looking out through large windows"; }</style>
     <aside class="notes">
-    - What interests me is not just what these projections depict, but what they quietly assume. The agricultural systems, the infrastructure, the division of labour — all lifted more or less unchanged. The farms are still monocultures. The workers still shift-based. Gravity itself is faked so that business-as-usual can continue uninterrupted.
+    - What interests me is not just what these projections depict, but what they quietly assume. The agricultural systems, the infrastructure, the division of labour — all lifted more or less unchanged. The farms are still monocultures. The workers still shift-based. Gravity itself is faked so that business-as-usual can continue uninterrupted.<br><br>
     - Even when framed as radical or off-world, these speculative futures continue to be tethered to deeply terrestrial logics. They present the new as a continuity of the same: technocratic control, extractive models, and spatial segregation dressed up in utopian skins.
   </aside>
 </section>
@@ -140,10 +140,8 @@ layout: speculations
     <aside class="notes">
     - From these discussions, a series of key ideas emerged like:<br><br>
     - Designing for the Moon is not just about infrastructure—it’s about shaping entirely new ways of living. The built environment, policies, and governance structures don’t just determine survival; they actively shape social relationships, rhythms of life, and cultural values. On the Moon, everything is extreme—gravity, resources, isolation—which means that every design decision has consequences beyond function.<br><br>
-
-For example, the way time is structured can reshape daily life. Instead of Earth’s standard 8-hour work-rest cycles, a lunar society could be structured around different hour blocks<br><br>
-
-Health and safety policies could take on a new role. If survival depends on mutual aid, could an obligation to provide assistance—which is the terms used in treaties like the Outer Space Treaty—extend beyond emergencies to include resource sharing, like calories or radiation shielding? Could architecture itself embed these principles, where handrails, airlocks, or shared oxygen systems aren’t just practical necessities, but enforcers of interdependence?<br><br>
+    - For example, the way time is structured can reshape daily life. Instead of Earth’s standard 8-hour work-rest cycles, a lunar society could be structured around different hour blocks<br><br>
+    - Health and safety policies could take on a new role. If survival depends on mutual aid, could an obligation to provide assistance—which is the terms used in treaties like the Outer Space Treaty—extend beyond emergencies to include resource sharing, like calories or radiation shielding? Could architecture itself embed these principles, where handrails, airlocks, or shared oxygen systems aren’t just practical necessities, but enforcers of interdependence?<br><br>
   </aside>
 </section>
 
@@ -152,33 +150,65 @@ Health and safety policies could take on a new role. If survival depends on mutu
 <section data-background-image="assets/imgs/friction_bridge.jpg" data-state=bridge>
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 7rem !important;" >Imagining Through<br>Contradiction</h1>
     <aside class="notes">
-    - Across these examples, what becomes clear is that imagining otherwise doesn’t require clean slates.  
-    - It happens through reinterpretation, recontextualisation, and sometimes contradiction.  
-    - The Merina uniforms are colonial and subversive. The Kesh are fictional but made tactile and audible. The Moon scenarios rely on infrastructure but point toward ritual and interdependence.  
-    - These tensions are not obstacles — they’re conditions.  
-    - This leads to a shift in focus — toward the role of misalignment, difficulty, and interference in practice itself.  
-    - where the friction is not as a problem to fix, but is a site of enquiry.
+    - Across these examples, what becomes clear is that imagining otherwise doesn’t require clean slates.  <br><br>
+    - It happens through reinterpretation, recontextualisation, and sometimes contradiction.  <br><br>
+    - The Merina uniforms are colonial and subversive. The Kesh are fictional but made tactile and audible. The Moon scenarios rely on infrastructure but point toward ritual and interdependence.  <br><br>
+    - These tensions are not obstacles — they’re conditions.  <br><br>
+    - This leads to a shift in focus — toward the role of misalignment, difficulty, and interference in practice itself.  <br><br>
+    - Where friction is not something to be resolved, but a site of enquiry.<br><br>
     </aside>
 </section>
 
 <!-- ───────────────────────── 3a. EXEMPLAR OF FRICTION ───────────────────────── -->
 
 <section data-background-image="assets/imgs/ltm_d.png" data-state=ltm>
- <style>.ltm header:after { content: "VVFA, 2022 — Learning To Moonwalk"; }</style>
- <h1 class="NT" style="font-family:'Picnic' !important;text-transform:capitalize !important;line-height:0.9;font-size:8rem !important;"><span style="font-size:8rem !important;">Learning To Moonwalk</span></h1>
+<style>.ltm header:after { content: "VVFA, 2022 — Learning To Moonwalk"; }</style>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: uppercase !important;line-height: 0.9;font-size: 8rem !important;" ><span style="font-size:8rem !important;">4. Learning To Moonwalk</span></h1>
+    <aside class="notes">
+    - As a follow up to this project, I started designing and building objects as simulations to capture some of these ideas, not in practice but in potential.<br><br> So learning to moonwalk tries to stage a collision between earthly constraint and lunar myth. Built around a mechanical contraption that mimics the unstable bounce of moonwalking, it invites the body into an awkward, uneven gait—not to simulate the Moon, but to inhabit the gap between imagination and gravity.<br><br>Speculation is a method to rehearse another way of moving, and thinking. And by performing misalignment, the work tries to open up questions about infrastructure, access, and the systems we build around our bodies<br><br>
 
-<aside class="notes">
-As a follow-up to this project, I started designing and building objects as simulations to capture some of these ideas, not in practice but in potential...   [notes continue unchanged]
-</aside>
+    - https://www.youtube.com/embed/UWeQ13KR6e8?si=DJ4UPUkAKfkiMzSa
+  </aside>
 </section>
 
 <!-- ───────────────────────── 4. PEDAGOGY & PERFORMANCE ───────────────────────── -->
 
+<section data-state=cos>
+    <style>.cos header:after { content: "\\'\\'≠.\\, 2023"; }</style>
+    <img style="max-width:65vh;" src="assets/imgs/cosfab.png" />
+    <aside class="notes">
+    - I sought to apply this approach through a project I’ve been running with students over the past three years.<br><br>
+    - For the past three years, I’ve been running this project with first-year MA Industrial Design students at Central Saint Martins. Each iteration culminates in a public-facing performance or simulation as critical design performances that become ticketed events, hosted in collaboration with live venues with deep histories in experimental practice."
+  </aside>
+</section>
+
 <section data-state=ik data-background-image="assets/imgs/ik_1.png">
- <style>.ik header:after { content: "MAID at Iklectik, 2022 — Sound Systems"; }</style>
-<aside class="notes">
-- This iteration took place at Iklectik, a venue in Waterloo, in 2022. The project was shaped by the outcomes of the Lunar Denizens panel series...  [notes continue unchanged]
-</aside>
+    <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
+  <aside class="notes">
+    - This iteration took place at Iklectik, a venue in Waterloo, in 2022. The project was shaped by the outcomes of the Lunar Denizens panel series, which served as prompts and starting points for the students objects and performance.
+  </aside>
+</section>
+
+<section data-state=ik data-background-image="assets/imgs/ik_2.png">
+    <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
+  <aside class="notes">
+    - They drew directly from our conversations to start shaping their rituals and instruments. While some may resemble props, each object had to function and produce sound, adding an extra layer of challenge. In this project, the objects are always fully realised.
+  </aside>
+</section>
+
+<section data-state=header2 data-background-image="assets/imgs/yd_1.png">
+    <style>.header2 header:after { content: "MAID at the Yard Theatre, 2023 — Cosmic Fables"; }</style>
+    <aside class="notes">
+    - The following year, we held the event at the Yard Theatre in Hackney Wick. Expanding beyond a single location, we began exploring Mars, a stationary space station in Low Earth Orbit, and an intergalactic spacecraft.<br><br>
+    - this project here was an attempt at reimagining funerals and the meaning these may hold when not tethered to Earth.
+  </aside>
+</section>
+
+<section data-state=header33 data-background-image="assets/imgs/csm_1.png">
+    <style>.header33 header:after { content: "MAID at Studio Theatre, 2024 — Alchemy Of Ruin"; }</style>
+    <aside class="notes">
+    - This year, we adjusted our approach, building on what we’ve learned over the past few years. Rather than making the connection to space explicit, we created a descriptive piece about a fictional plcace shaped by scarcity, isolation, and closed-loop systems—drawing parallels to existing environments.
+  </aside>
 </section>
 
 <!-- ───────────────────────── 5. CLOSING ───────────────────────── -->
