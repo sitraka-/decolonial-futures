@@ -182,8 +182,8 @@ While this level of control may be necessary for survival in space, it also embo
 <section data-state=ik data-background-image="assets/imgs/ik_1.png">
     <style>.ik header:after { content: "MAID at Ikelctik, 2022 — Sound Systems"; }</style>
   <aside class="notes">
-  - This same approach—working with instability, sound, and fictional constraints—has shaped a project I’ve been running with students of the MA Industrial Design students at Central Saint Martins, over the past three years.<br><br>
-    - Each iteration culminates in a public-facing performance or simulation as critical design performances that become ticketed events, hosted in collaboration with venues with ties to experimental practices."
+  - This same approach—working with instability, sound, and fictional constraints—has shaped a project I’ve been running with students of the MA Industrial Design at Central Saint Martins, over the past three years.<br><br>
+    - It is called 'Sound Systems' and each iteration culminates in a public-facing performance or simulation as critical design performances that become ticketed events, hosted in collaboration with venues with ties to experimental practices."
   </aside>
 </section>
 
