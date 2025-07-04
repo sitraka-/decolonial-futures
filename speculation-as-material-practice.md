@@ -214,7 +214,7 @@ While this level of control may be necessary for survival in space, it also embo
     <style>.header33 header:after { content: "MAID at Studio Theatre, 2024 — Alchemy Of Ruin"; }</style>
     <iframe data-autoplay width="1080" height="512" src="https://www.youtube.com/embed/3Dv6x42-u5s?si=lV5CUi00ze6shV0z&amp;start=274" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <aside class="notes">
-    - This year, we adjusted our approach, building on what we’ve learned over the past few years. Rather than making the connection to space explicit, we created a descriptive piece about a fictional plcace shaped by scarcity, isolation, and closed-loop systems—drawing parallels to existing environments.
+    - In the most recent edition, we adjusted our approach, building on what we’ve learned over the past few years. Rather than making the connection to space explicit, we created a descriptive piece about a fictional plcace shaped by scarcity, isolation, and closed-loop systems—drawing parallels to existing environments.
   </aside>
 </section>
 
